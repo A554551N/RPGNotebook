@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5cf95823310d76a5",
+        "id": "a88b47bdfd0abae5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "BurningDox/Cassandra.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "BurningDox/Cassandra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5cf95823310d76a5",
+  "active": "a88b47bdfd0abae5",
   "lastOpenFiles": [
-    "index.md",
+    "BurningDox/Cassandra.md",
     "BurningDox/BurningDoxIndex.md",
+    "index.md",
     "BurningStars/NPCs.md",
     "BurningDox/NPCs/OtherNPCs.md",
     "BurningDox/NPCs/TrokosNPCs.md",
     "BurningDox/NPCs/KentrikoNPCs.md",
     "BurningDox/NPCs/Kentriko/Untitled.md",
     "BurningDox/WorldNotes.md",
-    "BurningDox/Melanion.md",
-    "BurningDox/Cassandra.md"
+    "BurningDox/Melanion.md"
   ]
 }

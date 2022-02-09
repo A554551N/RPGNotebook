@@ -1,12 +1,12 @@
 # Burning Dox - Table of Contents
 ## PCs
-- [[Cassandra]]
-- [[Melanion]]
+- [Cassandra](./Cassandra)
+- [Melanion](./Melanion)
 
 ## NPCs
-- [[KentrikoNPCs|NPCs - Kentriko]]
-- [[TrokosNPCs|NPCs - Trokos]]
-- [[OtherNPCs|NPCs - Other]]
+- [NPCs - Kentriko](./NPCs/KentrikoNPCs)
+- [NPCs - Trokos]((./NPCs/TrokosNPCs))
+- [NPCs - Other]((./NPCs/OtherNPCs))
 
 ## Worldbuilding
-- [[WorldNotes|World Information]]
+- [World Information](./WorldNotes)
