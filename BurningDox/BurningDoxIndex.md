@@ -5,8 +5,7 @@
 
 ## NPCs
 - [NPCs - Kentriko](./NPCs/KentrikoNPCs)
-- [NPCs - Trokos]((./NPCs/TrokosNPCs))
-- [NPCs - Other]((./NPCs/OtherNPCs))
-
+- [NPCs - Trokos](./NPCs/TrokosNPCs)
+- [NPCs - Other](./NPCs/OtherNPCs)
 ## Worldbuilding
 - [World Information](./WorldNotes)
