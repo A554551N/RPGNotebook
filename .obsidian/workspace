@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BurningDox/Notes.md",
+            "file": "BurningDox/BurningDoxIndex.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BurningDox/Notes.md",
+                "file": "BurningDox/BurningDoxIndex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "a88b47bdfd0abae5",
   "lastOpenFiles": [
-    "BurningDox/Notes.md",
+    "BurningDox/BurningDoxIndex.md",
     "BurningDox/NPCs/TrokosNPCs.md",
     "BurningDox/NPCs/OtherNPCs.md",
     "BurningDox/NPCs/KentrikoNPCs.md",
-    "index.md",
-    "BurningDox/WorldNotes.md",
-    "BurningDox/Melanion.md",
+    "BurningDox/Perseus.md",
     "BurningDox/Cassandra.md",
-    "BurningDox/BurningDoxIndex.md",
-    "BurningStars/NPCs.md"
+    "BurningStars/NPCs.md",
+    "NewConstellation.md",
+    "BurningDox/Notes.md",
+    "index.md"
   ]
 }

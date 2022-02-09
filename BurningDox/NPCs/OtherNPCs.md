@@ -1,3 +1,3 @@
 # Characters
-## Perseus
 ## Sebastian
+*Sebastian*

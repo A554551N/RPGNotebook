@@ -1,7 +1,8 @@
 # Burning Dox - Table of Contents
-## PCs
+## Protagonists
 - [Cassandra](./Cassandra)
 - [Melanion](./Melanion)
+- [Perseus](Perseus.md)
 
 ## NPCs
 - [NPCs - Kentriko](./NPCs/KentrikoNPCs)
