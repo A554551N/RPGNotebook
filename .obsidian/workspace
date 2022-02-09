@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BurningDox/Notes.md",
+            "file": "BurningDox/Cassandra.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BurningDox/Notes.md",
+                "file": "BurningDox/Cassandra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,11 +89,11 @@
   },
   "active": "a88b47bdfd0abae5",
   "lastOpenFiles": [
-    "BurningDox/Notes.md",
     "BurningDox/Cassandra.md",
+    "BurningDox/BurningDoxIndex.md",
+    "BurningDox/Notes.md",
     "BurningDox/NPCs/OtherNPCs.md",
     "BurningDox/NPCs/TrokosNPCs.md",
-    "BurningDox/BurningDoxIndex.md",
     "BurningDox/NPCs/KentrikoNPCs.md",
     "index.md",
     "BurningStars/NPCs.md",

@@ -1,7 +1,7 @@
 # Cassandra
 ## Beliefs
-* Now that I'm to become [Aunt Delia](NPCs/TrokosNPCs/#delia)'s apprentice, I will make sure I do my best not to disappoint her.
-* Now that the [Exarch](NPCs/TrokosNPCs/#exarch-andros) knows what [Percy](NPCs/OtherNPCs/#perseus) is. I will ensure he is given the respect the title deserves, and the training he needs to go forward.
+* Now that I'm to become [Aunt Delia](NPCs/TrokosNPCs#delia)'s apprentice, I will make sure I do my best not to disappoint her.
+* Now that the [Exarch](NPCs/TrokosNPCs#exarch-andros) knows what [Percy](NPCs/OtherNPCs#perseus) is. I will ensure he is given the respect the title deserves, and the training he needs to go forward.
 * I will not let men take advantage of or harass any women in my presence, I will not accept anything less than full safety for them.
 
 ## Instincts
