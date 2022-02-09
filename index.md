@@ -1,2 +1,2 @@
 # RPG Notebook
-## [[BurningDoxIndex|Burning Dox]]
+## [BurningDoxIndex|Burning Dox](./BurningDox/BurningDoxIndex)
