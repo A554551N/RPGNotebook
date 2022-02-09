@@ -2,3 +2,4 @@
 ## NPCs
 ### Delia
 ### Exarch Andros
+### Archon Stylvanius
