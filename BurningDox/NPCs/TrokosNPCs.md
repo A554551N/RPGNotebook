@@ -5,8 +5,7 @@
 
 #### Beliefs
 - I nearly put [Cassandra](../Cassandra.md) into the hands of a predator.  I will ensure that she is never put into danger again.
-- [Perseus](OtherNPCs#perseus) will need someone near him who understands the ways of the world if he is to survive.  I will teach [Cassandra](../Cassandra.md)
-- [Cassandra](BurningDox/Cassandra.md) TEST
+- [Perseus](OtherNPCs#perseus) will need someone near him who understands the ways of the world if he is to survive.  I will teach [Cassandra](../Cassandra.md) more than weaving so that she can be what he needs.
 ### Exarch Andros
 *The Exarch is the civic ruler of the city of Trokos.  He currently rules alongside the **Archon Stylvanius**.  His daughter is **Phaedra**.  Andros is handsome, middle-aged, and a consumate (if authoritarian) politicion.  He and Stylvanius make an effective team, even if they rarely see eye to eye.*
 
