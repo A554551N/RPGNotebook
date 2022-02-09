@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BurningDox/Cassandra.md",
+            "file": "BurningDox/BurningDoxIndex.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BurningDox/Cassandra.md",
+                "file": "BurningDox/BurningDoxIndex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "a88b47bdfd0abae5",
   "lastOpenFiles": [
-    "BurningDox/Cassandra.md",
     "BurningDox/BurningDoxIndex.md",
+    "BurningDox/Cassandra.md",
     "index.md",
     "BurningStars/NPCs.md",
     "BurningDox/NPCs/OtherNPCs.md",
