@@ -1,11 +1,15 @@
 # The City-State of Trokos
 ## NPCs
 ### Delia
-*Delia is [Perseus](NPCs/OtherNPCs#perseus) and [Cassandra](../Cassandra.md)'s Aunt.  She is a weaver in Trokos and the center of a web of middle-class friends that she interacts with through regular meetings to play [Diaskedazo](../WorldNotes#diaskedazo)*
+
+^0f5d58
+
+*Delia is [Perseus](NPCs/OtherNPCs#perseus) and [Cassandra](../Cassandra.md)'s Aunt.  She is a weaver in Trokos and the center of a web of middle-class friends that she interacts with through regular meetings to play [Diaskedazo](../WorldNotes#diaskedazo) and trade rumors.*
 
 #### Beliefs
 - I nearly put [Cassandra](../Cassandra.md) into the hands of a predator.  I will ensure that she is never put into danger again.
 - [Perseus](OtherNPCs#perseus) will need someone near him who understands the ways of the world if he is to survive.  I will teach [Cassandra](../Cassandra.md) more than weaving so that she can be what he needs.
+
 ### Exarch Andros
 *The Exarch is the civic ruler of the city of Trokos.  He currently rules alongside the **Archon Stylvanius**.  His daughter is **Phaedra**.  Andros is handsome, middle-aged, and a consumate (if authoritarian) politicion.  He and Stylvanius make an effective team, even if they rarely see eye to eye.*
 
