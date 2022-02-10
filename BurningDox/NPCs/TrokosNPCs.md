@@ -14,6 +14,7 @@
 #### Beliefs
 - Now that [Melanion](../Melanion.md) is working for my office, I will begin by having him handle relatively innocuous work while convincing him of a plot to overthrow the Archon (lies, of course).
 - I'm not sure what to make of [Cassandra](../Cassandra.md).  I will make her into a friend to ensure I have an in with the Archmage.
+
 ### Exarch Andros
 *The Exarch is the civic ruler of the city of Trokos.  He currently rules alongside the **Archon Stylvanius**.  His daughter is **Phaedra**.  Andros is handsome, middle-aged, and a consumate (if authoritarian) politicion.  He and Stylvanius make an effective team, even if they rarely see eye to eye.*
 
