@@ -29,7 +29,15 @@
 - [Perseus](../Perseus.md) represents a once-in-a-lifetime opportunity for Trokos.  He must be groomed to serve Trokos first and only.
 - Any cost we must pay to defeat the Alliance once and for all is worth it.
 
+### Iosef
+*Counsellor Iosef is the pre-eminent scholar of legal matters in the city.  A friend of **Aunt Delia**'s, she thought he would be a good match to help with the case.  Instead it turns out he's a real sleazeball.  If he's taking advantage of women, who knows what else he's doing?*
+*Someone beat up Cassandra in his name.*
+
+#### Beliefs
+- [Cassandra](../Cassandra.md) came into my house, **into MY HOUSE**, and ratted on me to **MY WIFE!**  This bitch is going to learn her place.
+
 ## Minor NPCs
 - **Counsellor Theofylaktos** - a young legal counsellor who aided the group in their meeting with the archon.  A friend of **Skata**.
 - **One-Eyed Stevos** - Old, barely four foot tall, big beard, one eye.  Runs the fight club on the docks.
 - **Phaedra** - Daughter of the **Exarch**, currently attending university.  Trying to get with [Perseus](../Perseus.md).  [Melanion](../Melanion.md) is trying to get with her.
+- **Moustaki** - A random pita vendor
