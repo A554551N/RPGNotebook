@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BurningDox/Notes.md",
+            "file": "BurningDox/Perseus.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BurningDox/Notes.md",
+                "file": "BurningDox/Perseus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "58c41564e7573393",
   "lastOpenFiles": [
+    "BurningDox/Perseus.md",
+    "BurningDox/Melanion.md",
+    "BurningDox/Cassandra.md",
     "BurningDox/Notes.md",
     "BurningDox/NPCs/TrokosNPCs.md",
     "BurningDox/BurningDoxIndex.md",
     "BurningStars/SecretGMNotes.md",
     "BurningStars/SessionNotes.md",
     "BurningStars/NPCs.md",
-    "BurningStars/Lore.md",
-    "BurningStars/Languages.md",
-    "Characters/ZHChar.md",
-    "btws2/SessionPlans/020721_SessionPlanning.md"
+    "BurningStars/Lore.md"
   ]
 }
