@@ -13,25 +13,29 @@
 
 #### Beliefs
 - Now that [Melanion](../Melanion.md) is working for my office, I will begin by having him handle relatively innocuous work while convincing him of a plot to overthrow the Archon (lies, of course).
-- I'm not sure what to make of [Cassandra](../Cassandra.md).  I will make her into a friend to ensure I have an in with the Archmage.
+- [Cassandra](../Cassandra.md) has asked me to teach her knife-fighting.  I'll do it, and feel out her allegience while I do.
 
 ### Exarch Andros
 *The Exarch is the civic ruler of the city of Trokos.  He currently rules alongside the **Archon Stylvanius**.  His daughter is **Phaedra**.  Andros is handsome, middle-aged, and a consumate (if authoritarian) politicion.  He and Stylvanius make an effective team, even if they rarely see eye to eye.*
 
 #### Beliefs
-- [Perseus](../Perseus.md) is a danger to us all, no matter what the Archon thinks.  I will find a way to prove it to the City.
+- [Perseus](../Perseus.md) is a danger to us all, no matter what the Archon thinks.  I will find a way to prove it to the City, so I can force the Archon's hand.
 
 ### Archon Stylvanius
 *The Archon is the foreign and military ruler of the city of Trokos.  He is responsible for managing affairs concerning State security, foreign relations, and warfare.  It is this last that the current Archon has hung his helmet on.  Stylvanius, also known as 'The Shark of Trokos', is widely regarded as the greatest general in the Thousand Isles.  He has held his seat as Archon since the year after the previous Archmage's death (19 years, 9.5 terms).*
 *The Archon's cunning is well-known, and it is said he would sacrifice anything to end the war on his own terms.*
 
+- I Took Perseus under my wing while his friends were busy and affirmed his love of Trokos.  I talked to him about the power of being Archmage, the respect the position brings, and the glory it can give to Trokos.  I **didn't** talk about 'responsibility', and certainly didn't talk about responsibility to the other islands.
+
 #### Beliefs
-- [Perseus](../Perseus.md) represents a once-in-a-lifetime opportunity for Trokos.  He must be groomed to serve Trokos first and only.
-- Any cost we must pay to defeat the Alliance once and for all is worth it.
+- [Perseus](../Perseus.md)' ascension is what I've been waiting for.  Once the Enkavmani envoys are under my roof, I'll ensure that Trokos will never settle for a White Peace.
+- - Any cost we must pay to defeat the Alliance once and for all is worth it.
 
 ### Iosef
 *Counsellor Iosef is the pre-eminent scholar of legal matters in the city.  A friend of **Aunt Delia**'s, she thought he would be a good match to help with the case.  Instead it turns out he's a real sleazeball.  If he's taking advantage of women, who knows what else he's doing?*
 *Someone beat up Cassandra in his name.*
+
+- [Cassandra](../Cassandra.md) sent Iosef a message through his wife Avra that she intended to harm his business and social standing.  He's decided it would be easier for everyone involved if she were dead.
 
 #### Beliefs
 - [Cassandra](../Cassandra.md) came into my house, **into MY HOUSE**, and ratted on me to **MY WIFE!**  This bitch is going to learn her place.
@@ -45,6 +49,7 @@
 ## Minor NPCs
 - **Counsellor Theofylaktos** - a young legal counsellor who aided the group in their meeting with the archon.  A friend of **Skata**.
 - **One-Eyed Stevos** - Old, barely four foot tall, big beard, one eye.  Runs the fight club on the docks.
-	- **Belief** - [Melanion](../Melanion.md) has pulled off a couple surprise upsets, and people are excited to bet on him.  I'll make him take a dive on his next fight, and rake in a tidy profit.
+	- **Belief** - [Melanion](../Melanion.md) has the potential to bring in a lot of profit if we set it up right.  I'll find the meanest Enkavman I can and put on a show!
+	- [Melanion](../Melanion.md) convinced him to back off a little.  Stevos is setting up a fight with a strong Enkavman to set Melanion up as "The Hero of Trokos".  He promised Stevos that if the Enkavman takes him down that he won't get up.  They'll make a bundle.
 - **Phaedra** - Daughter of the **Exarch**, currently attending university.  Trying to get with [Perseus](../Perseus.md).  [Melanion](../Melanion.md) is trying to get with her.
 - **Moustaki** - A random pita vendor
