@@ -36,8 +36,15 @@
 #### Beliefs
 - [Cassandra](../Cassandra.md) came into my house, **into MY HOUSE**, and ratted on me to **MY WIFE!**  This bitch is going to learn her place.
 
+### Crag
+***The Crag** is a mountain of a man, a pit fighting champion.  During [Melanion](../Melanion.md)'s first fight, he knocked **The Crag** unconscious. **The Crag**, infuriated, demanded a rematch.  Melanion beat him up again.*
+
+#### Beliefs
+- [Melanion](../Melanion.md) believes he can make a mockery of **The Crag**, but **The Crag** is a champion!  **The Crag** will round up some boys and show him what happens when he doesn't show **The Crag** proper respect.
+
 ## Minor NPCs
 - **Counsellor Theofylaktos** - a young legal counsellor who aided the group in their meeting with the archon.  A friend of **Skata**.
 - **One-Eyed Stevos** - Old, barely four foot tall, big beard, one eye.  Runs the fight club on the docks.
+	- **Belief** - [Melanion](../Melanion.md) has pulled off a couple surprise upsets, and people are excited to bet on him.  I'll make him take a dive on his next fight, and rake in a tidy profit.
 - **Phaedra** - Daughter of the **Exarch**, currently attending university.  Trying to get with [Perseus](../Perseus.md).  [Melanion](../Melanion.md) is trying to get with her.
 - **Moustaki** - A random pita vendor
