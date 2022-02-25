@@ -18,44 +18,37 @@ Finally, on the hundredth anniversary of the Night of Burning Stars, a single ne
 
 ### Morwen
 #### Beliefs
-- I will do whatever it takes to never return home.
+- It's been a hundred years since the stars shone in the sky, I will learn this new one and what brought it about.
 - I will collect every story of the fall of the Gods and the stars, whether they want to indulge me or not.
-- We need to open that door to discover what lies behind, to do that I will aid in hunting and destroying the monster these men are looking for.
+- I will get the people close to Envakadi without actually taking them there, to protect their lives.
 ### Bumper
 #### Beliefs
-- I will understand how the end of the world came to be, while studying this new, beautiful world. Understanding the creatures in it, the plants and landscape.
-- Monsters may be completely misunderstood- Kinda like Roden. I wanna know what makes them tick. I will capture a monster, (if safe) and/or study its remains.
-- Humans appear to be trying to reverse the new world- but the Roden have risen!
+-  I seek to understand why the old world fell, to help better preserve this new one. Learning from creatures who were there at the time of reckoning should prove insightful.
+- Monsters may be completely misunderstood- Kinda like the Roden. I want to know more about them- how they work, if I can cure them, and if they can be befriended.
+- I may be Roden but I don't know if these "stars" are a sign from Acer. I will work towards understanding this new collection of lights.
+
 ## Relationships
-
 ### Marshal Bundrift
-
 Morwen’s great-nephew on his mother’s side.  Lives in Sibiu.
 
 ### Rhistel Envyre
-
 Morwen’s Father, said to still reside in Envakadi
 
 ### The Mayor Gibi of Sibiu
-
 An enemy of the Roden in Sibiu
 
 ## People
-
 ### Jam & Rak
-
 Adventurers helping Morwen and Bumper open a door.  Bumper heard them planning to double cross the heroes.
 
 ### Nazhmudin, the Dwarven Tavernman
-
 The dwarf proprietor of the Rusty Spigot in Sibiu
 
 ## Places
-
 ### Nurn Boldor
-
+The Dwarven Citadel beneath the Earth
 ### Envakadi
-
+The City of the Elves at the center of the world; a destroyed place of nightmares.
 ### Sibiu
 A village in the shadow of an old Elven Citadel.  Morwen’s family lives here.  The Custodian of the Spire has been preying on townsfolk since the old tower was opened.
 

@@ -16,8 +16,8 @@ Believes the [[NewConstellation]] is **Morag's Hammer**, and will lead the Dwarv
 ## The Monster (The Custodian of the Spire)
 Trapped alone in the Spire for a hundred years, maddened by grief and corrupted by magic.  The Custodian of the Spire has become a monster.  Stretched and distended, it continually relives the worst day of its life.  Morwen offered it a chance to rejoin the other elves in Envakadi in exchange for not murdering the people of Sibiu.
 ### Belief
-*The Eldar cannot rise from the ashes while the young races dominate our lands, someone must put them in their place.*
-*I will discover the fate of the remaining Elves in Envakadi.**
+- *The Eldar cannot rise from the ashes while the young races dominate our lands, someone must put them in their place.*
+- *I will discover the fate of the remaining Elves in Envakadi.*
 
 ## Mayor Gibi, the Prophet of Sibiu
 ### Belief

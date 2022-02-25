@@ -23,3 +23,15 @@
 - The Custodian's weird black eye has the New Constellation trapped within it.
 - The Custodian believes that the Sibiu road on the floor map is broken because it keeps him from going home.
 - The Temple has all of the old constellations in the ceiling and a map of the world on the floor.
+
+# 2-22-22 Session Notes
+- Morwen & Bumper get the Custodian's backstory
+	- He was banished from Envakadi over his love for the Etharch
+	- Before being banished he was a scholar of the stars.  He was given his position as Custodian in exchange for never returning to Envakadi
+- Morwen promises the Custodian food.
+	- Morwen found two Roden poisoning the food supply wagons.  She catches them in the act and convinces them to follow her back to the Tower.
+	- Bumper begs Morwen not to feed the Roden to them, but she does it anyway.
+- The Village departs from Sibiu with the Society Roden, the Party, and the Custodian in tow.
+- Bumper finds the appropriate herbs to counteract the poison the Roden put into the food.  He shows Marshall and Morwen how to harvest it.
+	- The Test was successful (taking 4 hours), and the Party returns from the woods just as the Roden launch their sudden but inevitable betrayal.
+	- Bumper wants Marshall to take credit for the Herbal remedy.
