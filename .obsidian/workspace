@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BurningStars/SessionNotes.md",
+            "file": "BurningDox/Notes.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BurningStars/SessionNotes.md",
+                "file": "BurningDox/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "58c41564e7573393",
   "lastOpenFiles": [
+    "BurningDox/Notes.md",
+    "BurningDox/NPCs/TrokosNPCs.md",
+    "BurningDox/BurningDoxIndex.md",
+    "BurningStars/SecretGMNotes.md",
     "BurningStars/SessionNotes.md",
     "BurningStars/NPCs.md",
-    "BurningStars/SecretGMNotes.md",
     "BurningStars/Lore.md",
     "BurningStars/Languages.md",
     "Characters/ZHChar.md",
-    "btws2/SessionPlans/020721_SessionPlanning.md",
-    "BurningDox/NPCs/TrokosNPCs.md",
-    "BurningDox/NPCs/KentrikoNPCs.md",
-    "BurningDox/Notes.md"
+    "btws2/SessionPlans/020721_SessionPlanning.md"
   ]
 }
