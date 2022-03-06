@@ -4,16 +4,19 @@
 *In Trokos, the Archon of *
 
 ## Beliefs
-- Once [Cassandra](../Cassandra.md) is settled comfortably in Trokos, she'll forget all about **Sebastian**.  She'll forget even faster if I find her a real Trokosi man.  Maybe [Melanion](../Melanion.md)'s friend [Skata](TrokosNPCs#skata)?
-- The Archon has made it clear to me that Trokos needs protecting.  I will use my powers to ensure Trokos maintains their place in the world.
+Needs new beliefs man.
 
 ## Instincts
-- When in trouble, always go to Cass
-- Never let Melanion forget I can outdrink him
+- Needs new Instinct 1
+- Never let Melanion forget I can outdrink him (Maybe Replace?)
 - Never work harder than you have to.
 
 ## Traits
 - Bad Egg
-- Chosen One
+- Fractious
+- Jealous (of [Cassandra](Cassandra.md)'s Destiny)
+- Love of Sport
+- Seafaring
 - Misunderstood
+- Trusting
 - Gifted
