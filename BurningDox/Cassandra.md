@@ -10,7 +10,8 @@
 - If there's time to chatter, make it matter.
 
 ## Traits
-- Ambitious
+- Weight of the World
+- Disciplined
 - Bitter
 - Emotional
 - Fixed Smile
@@ -20,3 +21,5 @@
 - Love of Sports
 - Seafaring
 - Hard Hearted
+- Stubborn
+- Chosen One

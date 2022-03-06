@@ -53,3 +53,4 @@
 	- [Melanion](../Melanion.md) convinced him to back off a little.  Stevos is setting up a fight with a strong Enkavman to set Melanion up as "The Hero of Trokos".  He promised Stevos that if the Enkavman takes him down that he won't get up.  They'll make a bundle.
 - **Phaedra** - Daughter of the **Exarch**, currently attending university.  Trying to get with [Perseus](../Perseus.md).  [Melanion](../Melanion.md) is trying to get with her.
 - **Moustaki** - A random pita vendor
+- **Volsenik** - The head of the Archmage's Council

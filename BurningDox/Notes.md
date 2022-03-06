@@ -1,4 +1,7 @@
 # Notes
+## Language Roots
+Trokos/Enkavma - Greek
+Wherever the fuck Volsenik is from - Macedonian
 ## Challenging Beliefs
 ### Melanion
 - ~~Schedule a qualifying race for the same time as Percy's Testing~~
