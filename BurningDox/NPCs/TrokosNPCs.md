@@ -5,7 +5,7 @@
 
 #### Beliefs
 - I nearly put [Cassandra](../Cassandra.md) into the hands of a predator.  I will ensure that she is never put into danger again.
-- [Perseus](../Perseus.md) will need someone near him who understands the ways of the world if he is to survive.  I will teach [Cassandra](../Cassandra.md) more than weaving so that she can be what he needs.
+- ***No idea.***
 
 ### Skata
 *Skata is a bureaucrat working in the Office of Military Logistics.  Officially his job is locating food for the troops and making sure the food ends up where it's supposed to go.  Unofficially, Skata is a spy working on behalf of the [Alliance](../WorldNotes.md) to destabilize Trokos from within.*
@@ -28,14 +28,15 @@
 - I Took Perseus under my wing while his friends were busy and affirmed his love of Trokos.  I talked to him about the power of being Archmage, the respect the position brings, and the glory it can give to Trokos.  I **didn't** talk about 'responsibility', and certainly didn't talk about responsibility to the other islands.
 
 #### Beliefs
-- [Perseus](../Perseus.md)' ascension is what I've been waiting for.  Once the Enkavmani envoys are under my roof, I'll ensure that Trokos will never settle for a White Peace.
-- - Any cost we must pay to defeat the Alliance once and for all is worth it.
+- The Ascension of [Cassandra](../Cassandra.md) is unexpected, but manageable.  One of the siblings will aid me in our war with Enkavma.  If she won't help us then I will focus on him.
+- If the Archmage won't work with Trokos, I will not allow her to work with any of our enemies.
 
 ### Iosef
 *Counsellor Iosef is the pre-eminent scholar of legal matters in the city.  A friend of **Aunt Delia**'s, she thought he would be a good match to help with the case.  Instead it turns out he's a real sleazeball.  If he's taking advantage of women, who knows what else he's doing?*
 *Someone beat up Cassandra in his name.*
 
 - [Cassandra](../Cassandra.md) sent Iosef a message through his wife Avra that she intended to harm his business and social standing.  He's decided it would be easier for everyone involved if she were dead.
+- I will use my political clout to be appointed as the Trokosi envoy to the Archmage, the better to ruin her.
 
 #### Beliefs
 - [Cassandra](../Cassandra.md) came into my house, **into MY HOUSE**, and ratted on me to **MY WIFE!**  This bitch is going to learn her place.

@@ -3,10 +3,12 @@
 ### Trokos
 **Language Root**: Greek
 **Emblem:** Falcon
+**Cultural Trait:** Hot-Headed
 
 ### Enkavma
 **Language Root**: Greek
 **Emblem:** Eagle
+**Cultural Trait:** Disciplined
 
 ### Krakos
 **Language Root**: Macedonian

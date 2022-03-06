@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BurningDox/Perseus.md",
+            "file": "BurningDox/WorldNotes.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BurningDox/Perseus.md",
+                "file": "BurningDox/WorldNotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,11 +89,11 @@
   },
   "active": "58c41564e7573393",
   "lastOpenFiles": [
+    "BurningDox/WorldNotes.md",
+    "BurningDox/NPCs/TrokosNPCs.md",
     "BurningDox/Perseus.md",
     "BurningDox/Melanion.md",
     "BurningDox/Cassandra.md",
-    "BurningDox/WorldNotes.md",
-    "BurningDox/NPCs/TrokosNPCs.md",
     "BurningDox/Notes.md",
     "BurningDox/BurningDoxIndex.md",
     "BurningStars/SecretGMNotes.md",
