@@ -8,6 +8,7 @@
 - Bumper steals Jam's explosives
 - Morwen convinces the Monster to spare them in exchange for safe passage for the creature to Envakadi.
 - The party plans to use Jam & Rak's explosives to open the tower next session.
+
 # 1-11-2022 Session Notes
 - After getting Jam & Rak to a surgeon, Morwen & Bumper emerge from the inn to find the entire village of Sibiu in the steets staring up at the night sky.  For the first time in 100 years, a constellation burns in the dark.  What does it mean?
 - **Constellation Beliefs**
@@ -35,3 +36,13 @@
 - Bumper finds the appropriate herbs to counteract the poison the Roden put into the food.  He shows Marshall and Morwen how to harvest it.
 	- The Test was successful (taking 4 hours), and the Party returns from the woods just as the Roden launch their sudden but inevitable betrayal.
 	- Bumper wants Marshall to take credit for the Herbal remedy.
+
+# 3-22-22 Session Notes
+- The Society Roden attacked the camp after everyone was drugged
+	- Bumper fought a Duel of Wits against the Society Leader
+		- Society Leader won w/ compromise.  Agreed to leave the people alive if Bumper joined the Society.
+	- Morwen took two of the Roden to feed to the Custodian during the fighting.
+		- Bumper caught her doing it and they argued.  Bumper decided not to push it (and risk failing Persuasion), so Morwen took the Roden into the woods to be consumed.
+		- The Custodian appeared from nowhere in the woods to take the offering.  He convinced Morwen that the best route for dealing with rogue Roden is to bring them to him.  He also asked her to bring any humans beyond saving to the edge of the woods for...burial.
+	- Morwen healed the baker's wife, who had been stabbed by a Roden with help from Bumper.
+	- Why is the Custodian so willing to do as Morwen says?
