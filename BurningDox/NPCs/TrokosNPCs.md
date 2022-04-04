@@ -55,3 +55,4 @@
 - **Phaedra** - Daughter of the **Exarch**, currently attending university.  Trying to get with [Perseus](../Perseus.md).  [Melanion](../Melanion.md) is trying to get with her.
 - **Moustaki** - A random pita vendor
 - **Volsenik** - The head of the Archmage's Council
+- **Uncle Simeon** - Mel's Uncle, the doorman at the Exarch's house.

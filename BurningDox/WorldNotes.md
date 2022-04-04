@@ -7,12 +7,16 @@
 
 **Cultural Trait:** Hot-Headed
 
+**Alliance:** Gurled
+
 ### Enkavma
 **Language Root**: Greek
 
 **Emblem:** Eagle
 
 **Cultural Trait:** Disciplined
+
+**Alliance:** Markez
 
 ### Krakos
 **Language Root**: Macedonian

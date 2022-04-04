@@ -4,7 +4,9 @@
 *In Trokos, the Archon of *
 
 ## Beliefs
-Needs new beliefs man.
+- Cassandra is Archmage!  This isn't how it is supposed to be!  I'll find out what went wrong and set it right.
+- Cassandra is Archmage!  She'll need me to help her, and I need her to make good on my promises to Stylvanius
+- Despite this bullshit I still have to get this power under control.  The Keepers have to train me, and I'll make them see that.
 
 ## Instincts
 - Needs new Instinct 1

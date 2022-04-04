@@ -1,7 +1,9 @@
 # Notes
 ## Language Roots
 Trokos/Enkavma - Greek
-Wherever the fuck Volsenik is from - Macedonian
+Krakos - Macedonian
+Gurled/Merez - Turkish
+
 ## Challenging Beliefs
 ### Melanion
 - ~~Schedule a qualifying race for the same time as Percy's Testing~~
@@ -23,3 +25,4 @@ Wherever the fuck Volsenik is from - Macedonian
 ## Outside Pressures
 - The envoys of the other nations are all going to be under the Archon's roof.  To draw public support for the war effort, he is going to have 'Enkavmani' assassins take a swing at [Perseus](Perseus.md), himself, and the head of the neutral country.  His goal is for them to try to commit these crimes and fail.  His investigators stand ready to declare the attackers Enkavmani instigators, and then to banish them from his hall for violating the laws of a houseguest.
 - It's time for the cult that opposes the Archmage to make an appearance (and be given a name).  What can they do to show off their existence without being too overt?
+- If the Games happen, one of the city states will attack it.
