@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RandomThoughts/LoveOnTheTon.md",
+            "file": "BurningDox/BurningDoxIndex.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RandomThoughts/LoveOnTheTon.md",
+                "file": "BurningDox/BurningDoxIndex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "58c41564e7573393",
   "lastOpenFiles": [
+    "BurningDox/BurningDoxIndex.md",
+    "Characters/ZHChar.md",
     "RandomThoughts/LoveOnTheTon.md",
     "index.md",
     "BurningStars/SessionNotes.md",
@@ -96,8 +98,6 @@
     "BurningDox/Notes.md",
     "BurningDox/WorldNotes.md",
     "BurningDox/NPCs/TrokosNPCs.md",
-    "BurningDox/NPCs/KentrikoNPCs.md",
-    "btws2/SessionPlans/020721_SessionPlanning.md",
-    "BurningDox/Perseus.md"
+    "BurningDox/NPCs/KentrikoNPCs.md"
   ]
 }

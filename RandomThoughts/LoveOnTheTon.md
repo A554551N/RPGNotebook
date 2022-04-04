@@ -60,9 +60,10 @@ Not every PC will be in every scene.  When a PC is off-screen, the player may ta
 >This is intended to keep players engaged when it isn't 'their turn', and also to allow for every player to play a noble character while ensuring there are plenty of 'supporting cast' to interact with.  Roles like Madame Delacroix, Walter Mondale, the housekeepers, grooms, and footmen can all be covered with NPC templates.
 
 ## Narrator
-The role of **Narrator** moves around the table.  At the end of each scene, one of the participants of the current conflict should take up the role of Narrator for the next scene.  The Narrator sets the scene (who, where, when, why) and establishes the scene goal with input from the rest of the table and the fiction as established.  While the Narrator's PC may be in the scene, they should not be the focal point.  The Narrator's duty is to turn the spotlight on other PCs and introduce complications into their lives.  The Narrator plays any NPCs not taken up by other players (see above).
+The role of **Narrator** moves around the table.  At the end of each scene where a conflict occurs, the current **Narrator** selects a player involved with the current conflict to take over as **Narrator** for the new scene.
+The Narrator sets the scene (who, where, when, why) and establishes the scene goal with input from the rest of the table and the fiction as established.  While the Narrator's PC may be in the scene, they should not be the focal point.  The Narrator's duty is to turn the spotlight on other PCs and introduce complications into their lives.  The Narrator plays any NPCs not taken up by other players (see above).
 
-The role of Narrator switches after a conflict is resolved.  No player may ever fulfil the role of **Narrator** for two conflicts in a row.
+**Remember:** A new **Narrator** is chosen after a conflict is resolved.  No player may ever fulfil the role of **Narrator** for two conflicts in a row.
 
 > I'm doing this to help keep conflicts small (1v1 where possible) and to reaffirm that not every character needs to be together all of the time.  This pairs with the NPC rules above to enforce that expectation.
 
@@ -80,3 +81,28 @@ The role of **The Society Pages** must move to another player at the beginning o
 Rather than the default 1d6 *I'm a Dog* trait, each player begins play with a 1d6 trait with their last name.  Players should choose a few key features of their family that determine when the name can be brought into play.  Players of characters from the same family should work together to determine their Name Traits.
 
 >We'll see how this ends up looking.  My original thought was just **1d6** The Peerage, but I feel like this ties into the source material better.
+
+## Principles
+### All Players
+- Bring the world around the Protagonists to life.  Suggest scene details and new **Supporting Cast**.
+- Be a fan of the Cast.  Ask questions about the other Protagonists
+- Embrace the other players' ideas
+- Always ask, "What would be the most dramatic thing to happen here."  Act on the answer.
+### Player (Protagonist)
+- Pursue your **Desire** to the utmost
+- Conceal your **Shame** until it is time to reveal it.
+- Share the spotlight with other players, put their characters in a spot to see how they deal with it.
+- Find love, or lose it.
+
+### Player (Supporting Cast)
+- When adding new **Supporting Cast**, understand their role in the story.  *Why are they here, what do they want?*
+- Pursue your **Desire** to the utmost.
+- Focus the spotlight on the Protagonist, put their **Desire** or **Secret** at risk.
+
+### Narrator
+- Bring the world around the Protagonists to life
+- Set scenes (Who, Where, Why) and goals with the group.
+- Ask leading questions of the other players to help set the scene and establish goals
+- Introduce new events and complications
+- Use scenes to put a spotlight on the tensions between characters
+- End a scene when it is time.  Select a new Narrator from the participants of the most recent conflict.
