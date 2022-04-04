@@ -20,12 +20,12 @@
 ## Background
 **Human**: Mixed Bloodline (Elf)
 **Elf**: Nature's Own
-*You leave no trace of your passing in rural areas or above ground, unless discovered by Magick or a Criticall Succeeded Awareness Test.*
+*You leave no trace of your passing in rural areas or above ground, unless discovered by Magick or a Critically Succeeded Awareness Test.*
 
 **Season of Birth**: Spring
 **Dooming**: "The Serpent is in the Garden"
 **Age**: Adult (29)
-**Distinguishing Marks**: Slouchy Posture / Pale / Slender build (-10% Price Mod) / Golden-Brown hair/ Amber eyes
+**Distinguishing Marks**: Slouchy Posture / Pale / Slender build (-10% Price Mod) / Golden-Brown hair / Amber eyes
 **H/W**: 5'7", 139lb
 **Upbringing**: Reverent (Favored Attribute: Willpower)
 **Class**: Lowborn
