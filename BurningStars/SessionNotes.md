@@ -41,8 +41,20 @@
 - The Society Roden attacked the camp after everyone was drugged
 	- Bumper fought a Duel of Wits against the Society Leader
 		- Society Leader won w/ compromise.  Agreed to leave the people alive if Bumper joined the Society.
-	- Morwen took two of the Roden to feed to the Custodian during the fighting.
+	- **Morwen** took two of the Roden to feed to the **Custodian** during the fighting.
 		- Bumper caught her doing it and they argued.  Bumper decided not to push it (and risk failing Persuasion), so Morwen took the Roden into the woods to be consumed.
-		- The Custodian appeared from nowhere in the woods to take the offering.  He convinced Morwen that the best route for dealing with rogue Roden is to bring them to him.  He also asked her to bring any humans beyond saving to the edge of the woods for...burial.
+		- The **Custodian** appeared from nowhere in the woods to take the offering.  He convinced Morwen that the best route for dealing with rogue Roden is to bring them to him.  He also asked her to bring any humans beyond saving to the edge of the woods for...burial.
 	- Morwen healed the baker's wife, who had been stabbed by a Roden with help from Bumper.
 	- Why is the Custodian so willing to do as Morwen says?
+
+## 4-5-22 Session Notes
+* Bumper attends Society Meetings
+	* The Roden are looking for Crochett and Dave, two Roden who went missing (and were eaten) during the raid.
+* The caravan is driven off-course by Morwen's sabotage, they end up at a Dwarven trading post some 3 days away from **Envakadi**
+	* Morwen meets up again with an old companion **Achamaz Vedzizhev**, a Dwarven Skald.  Achamaz is working on a scheme to heist an ancient **Star Atlas** from a wealthy merchant in the post.
+* Two of the Roden that were looking for rocks to give to Morwen (Scratch & Ralph) were attacked in the woods by the **Custodian**, Scratch escapes but Ralph is captured.
+* Morwen heads into the woods to bargain for Ralph's life.  She offers two of the villagers (as opposed to the Custodian's offer of one of his choice.)
+	* When Ralph is freed, he immediately points out that Morwen appears to control the monster.  Morwen is not able to intimidate him into silence, and he resolves to tell everyone.
+* During the follow-up argument between Morwen and Bumper, the Custodian appears.
+	* Morwen declares Bumper an Elf-friend, and the Custodian revealed that he still has the rock Bumper gave him.
+	* Bumper wakes up the next morning and finds a rock carefully engraved with the elven rune for *Friendship* in his hand.

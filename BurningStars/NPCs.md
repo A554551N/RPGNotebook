@@ -35,3 +35,11 @@ Morwen's (great great great) nephew, resents his long-lived aunt a bit.
 *The Society will bring the Men to their knees and reveal the might of the Roden*
 ### Instinct
 *Always subvert the Manfolk*
+
+## Achamaz Vedzizhev
+*A dwarven skald, interested in learning more about the new constellations.  An associate of Morwen's*
+
+### Belief
+* *I know that the Master's secret archive contains maps of the stars, and more besides.  I will convince Morwen to help me liberate this knowledge.*
+### Instinct
+* *Always act as though I'm the wisest in the room.*
