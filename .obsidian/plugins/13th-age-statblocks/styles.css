@@ -1,0 +1,52 @@
+.statblock-13a {
+	border: 1px solid gray;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+
+.statblock-13a .fl-r {
+	float: right;
+}
+
+.statblock-13a div {
+	margin-bottom: 20px;
+}
+.statblock-13a .nomargin {
+	margin-bottom: 0;
+	margin-top: 0;
+}
+
+.statblock-13a h1,
+.statblock-13a h2,
+.statblock-13a h3,
+.statblock-13a h4 {
+	font-family: Luminari, Georgia, 'Times New Roman', Times, serif;
+}
+
+/* Easy styling for spans */
+.statblock-13a .bold {
+	font-weight: bold;
+}
+.statblock-13a .em {
+	font-style: italic;
+}
+.statblock-13a .sc {
+	font-variant: small-caps;
+}
+
+.statblock-13a .attack div {
+	margin: 0 1em;
+}
+
+/* Numbers layout */
+.statblock-13a .numbers {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.statblock-13a .numbers div {
+	margin: 0 1em;
+	flex-grow: 1;
+}
