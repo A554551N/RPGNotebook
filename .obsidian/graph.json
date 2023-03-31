@@ -1,22 +1,44 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"BurningWheel/Burning Forge\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431420
+      }
+    },
+    {
+      "query": "path:BurningWheel/BurningDox",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:BurningWheel/BurningStars",
+      "color": {
+        "a": 1,
+        "rgb": 5412832
+      }
+    }
+  ],
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.64957264957265,
   "lineSizeMultiplier": 1.98461538461538,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "repelStrength": 14.6067415730337,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1,
+  "linkDistance": 236,
+  "scale": 0.8854989543150401,
   "close": false
 }

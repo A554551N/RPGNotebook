@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "58c41564e7573393",
+        "id": "119fe9c94afd5658",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BurningStars/SessionNotes.md",
+            "file": "BurningWheel/BurningDox/NPCs/Arkmagos Council.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "92165efac78187ef",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "BurningWheel/BurningDox/Perseus.md",
             "mode": "source",
             "source": false
           }
@@ -69,35 +81,51 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BurningStars/SessionNotes.md",
+                "file": "BurningWheel/BurningDox/Perseus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "9a02b0346c2e46e9",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "f56313b137aed59c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "58c41564e7573393",
+  "active": "92165efac78187ef",
   "lastOpenFiles": [
-    "BurningStars/SessionNotes.md",
-    "BurningStars/NPCs.md",
-    "BurningStars/Languages.md",
-    "BurningStars/Lore.md",
-    "BurningStars/SecretGMNotes.md",
-    "BurningDox/BurningDoxIndex.md",
-    "Characters/ZHChar.md",
-    "RandomThoughts/LoveOnTheTon.md",
-    "index.md",
-    "btws2/SessionPlans/032122_SessionPlanning.md"
+    "BurningWheel/BurningDox/WorldNotes.md",
+    "BurningWheel/BurningDox/NPCs/Arkmagos Council.md",
+    "BurningWheel/BurningDox/NPCs/KentrikoNPCs.md",
+    "BurningWheel/BurningDox/NPCs/TrokosNPCs.md",
+    "BurningWheel/BurningDox/NPCs/OtherNPCs.md",
+    "BurningWheel/Burning Forge/BurningForgeWorld.md",
+    "BurningWheel/BurningDox/Cassandra.md",
+    "BurningWheel/BurningStars/SessionNotes.md",
+    "BurningWheel/BurningStars/SecretGMNotes.md",
+    "BurningWheel/BurningStars/NPCs.md"
   ]
 }
