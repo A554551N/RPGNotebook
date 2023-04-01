@@ -1,0 +1,1 @@
+*Whether it's a blessing or curse changes day to day, but Terach is bound to the Prince of Shadows at the soul.*

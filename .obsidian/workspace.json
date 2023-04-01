@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "a143fd375d299033",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cd3f0b4a1dc3c17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c9395bca558e7c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13thAge/Adventure/Sea King's Malice - Crocodile Island.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1216e0e11cacfdf5",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "13thAge/IconMap.canvas",
+                "viewState": {
+                  "x": 537.6542984253728,
+                  "y": 466.89506065679893,
+                  "zoom": -1.3166666666666664
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c3104287b508c15",
+    "type": "split",
+    "children": [
+      {
+        "id": "b18fcab9e24ddac9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b49e92fe6a4a5301",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "33fb6467c5654183",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7d931153b6b769d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab90339530318639",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "870c881d68603a55",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "13thAge/Adventure/Sea King's Malice - Crocodile Island.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "2c9395bca558e7c6",
+  "lastOpenFiles": [
+    "13thAge/IconMap.canvas",
+    "13thAge/Adventure/Sea King's Malice - Crocodile Island.md",
+    "13thAge/Adventure",
+    "13thAge/13thAge.md",
+    "13thAge/Prince of Shadows.md",
+    "13thAge/High Druid.md",
+    "13thAge/Elf Queen.md",
+    "13thAge/Crusader.md",
+    "13thAge/Lich King.md",
+    "btws2/randomNotes.md",
+    "BurningStars/SecretGMNotes.md",
+    "13thAge/Raik Fistsong.md",
+    "13thAge/Terach.md",
+    "13thAge/Rorschach.md",
+    "13thAge/Seifer Drace.md",
+    "BurningStars/Lore.md",
+    "13thAge",
+    "7thSea",
+    "BurningStars/Languages.md",
+    "RiseOfTheRunelords/Thunkunt's Send-Off.md",
+    "MaidineOtherSystems/MaidineSWADE.md",
+    "MaidineOtherSystems/MaidineBBF.md",
+    "MaidineOtherSystems/MadineWWN.md",
+    "BurningDox/WorldNotes.md",
+    "BurningDox/Cassandra.md",
+    "BurningDox/Notes.md",
+    "BurningDox/BurningDoxIndex.md",
+    "Untitled.canvas",
+    "BurningStars/NPCs.md",
+    "BurningStars/SessionNotes.md"
+  ]
+}

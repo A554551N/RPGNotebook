@@ -1,0 +1,1 @@
+*An elder assassin of the Points of the Star, he's lived a long and varied life in service to the Queen of the Wood*
