@@ -4,104 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "1914a0bcac3af1bd",
+        "id": "145e466e78bc4498",
         "type": "tabs",
         "children": [
           {
-            "id": "829cb5a31d138003",
+            "id": "4f1755d8d64df880",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StarWars/Characters/Characters.md",
+                "file": "StarWars/CortexHack/Character Rules.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2fdde1005886a518",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StarWars/Characters/Zabel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4c405643eacb083",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StarWars/Characters/Gai.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4559d25baafaf3c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StarWars/Characters/Aro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1fb66fae5ec001b6",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "StarWars/RelationshipMap.canvas",
-                "viewState": {
-                  "x": -999.9504756524539,
-                  "y": -622.2690899591449,
-                  "zoom": -1.3333333333333333
-                }
-              }
-            }
-          },
-          {
-            "id": "ddcc3fb87b40ff26",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "StarWars/RelationshipMap.canvas",
-                "viewState": {
-                  "x": -537,
-                  "y": -579.0376851034371,
-                  "zoom": -1.6666666666666665
-                }
-              }
-            }
-          },
-          {
-            "id": "4e46b95a456bb798",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "StarWars/RelationshipMap.canvas",
-                "viewState": {
-                  "x": -1409.0549450549452,
-                  "y": -1336.0414516524254,
-                  "zoom": -1.4922053598013036
-                }
-              }
-            }
-          },
-          {
-            "id": "3f6719ead688b0c6",
+            "id": "640ed10fc98c6c08",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -114,9 +33,21 @@
                 }
               }
             }
+          },
+          {
+            "id": "5d4c1a1d66079725",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "StarWars/CortexHack/Mechanics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,18 +150,23 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3f6719ead688b0c6",
+  "active": "640ed10fc98c6c08",
   "lastOpenFiles": [
-    "StarWars/Characters/Neophyte.md",
+    "StarWars/GregoMap.canvas",
+    "StarWars/CortexHack/Rules Ponderings.md",
+    "StarWars/CortexHack/Character Rules.md",
+    "StarWars/CortexHack/Mechanics.md",
+    "StarWars/Characters/Characters.md",
+    "StarWars/Characters/Zabel.md",
+    "StarWars/Characters/Gai.md",
+    "StarWars/Characters/Aro.md",
     "StarWars/RelationshipMap.canvas",
     "StarWars/Characters/Professor Byrec Suvan.md",
+    "StarWars/Characters/Neophyte.md",
     "StarWars/Characters/Kiki.md",
     "StarWars/Characters/Val Pellian.md",
+    "StarWars/Untitled.md",
     "StarWars/Characters",
-    "StarWars/Characters/Aro.md",
-    "StarWars/Characters/Gai.md",
-    "StarWars/Characters/Zabel.md",
-    "StarWars/Characters/Characters.md",
     "BurningWheel/Burning Forge/Torsten.md",
     "BurningWheel/Burning Forge/Duel of Wits Results.md",
     "BurningWheel/Burning Forge/BurningForgeWorld.md",
@@ -240,14 +176,10 @@
     "BurningWheel/Burning Forge/SessionNotes/Session Notes 6-12-22.md",
     "BurningWheel/Burning Forge/SessionNotes/Session Notes 6-30-22.md",
     "To-Do.md",
-    "StarWars/CortexNotes",
+    "StarWars/CortexHack",
     "GameSchedule.md",
     "index.md",
     "13thAge/Sea King's Malice Pt 1.md",
-    "BurningWheel/BurningDox/NPCs/TrokosNPCs.md",
-    "BurningWheel/BurningDox/NPCs/KentrikoNPCs.md",
-    "BurningWheel/BurningDox/NPCs/Ouroboros.md",
-    "BurningWheel/BurningDox/NPCs/OtherNPCs.md",
-    "BurningWheel/BurningDox/Melanion.md"
+    "BurningWheel/BurningDox/NPCs/TrokosNPCs.md"
   ]
 }

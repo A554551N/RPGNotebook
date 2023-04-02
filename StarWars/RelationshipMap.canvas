@@ -1,22 +1,24 @@
 {
 	"nodes":[
-		{"id":"d3b9d380d7ab69d4","x":-2225,"y":-4080,"width":850,"height":245,"type":"text","text":"# THE EMPIRE"},
+		{"type":"text","text":"# THE EMPIRE","id":"d3b9d380d7ab69d4","x":-2225,"y":-4080,"width":850,"height":245},
 		{"type":"file","file":"StarWars/Characters/Professor Byrec Suvan.md","id":"a3005d2038bbd658","x":-5440,"y":-2880,"width":400,"height":400,"color":"1"},
-		{"type":"file","file":"StarWars/Characters/Val Pellian.md","id":"f957e3e07ab4808a","x":-4640,"y":-2880,"width":400,"height":400},
-		{"type":"file","file":"StarWars/Characters/Kiki.md","id":"5d6cae257c00214f","x":-2040,"y":1120,"width":400,"height":400},
-		{"type":"file","file":"StarWars/Characters/Zabel.md","id":"a196e9cdf59b24dc","x":-2425,"y":-560,"width":400,"height":400},
+		{"type":"file","file":"StarWars/Characters/Kiki.md","id":"5d6cae257c00214f","x":-2040,"y":1120,"width":400,"height":400,"color":"5"},
 		{"type":"text","text":"# The Dawsian Front\n","id":"dc24cf619e3dfa30","x":160,"y":-160,"width":400,"height":400},
-		{"type":"file","file":"StarWars/Characters/Aro.md","id":"33b71abd612ebde1","x":-560,"y":-1840,"width":400,"height":400},
-		{"id":"5e4a685f00da8f6f","x":-2000,"y":-2240,"width":400,"height":400,"color":"1","type":"file","file":"StarWars/Characters/Neophyte.md"},
-		{"type":"file","file":"StarWars/Characters/Gai.md","id":"b749a4772b72cac9","x":-4080,"y":400,"width":400,"height":400},
+		{"type":"file","file":"StarWars/Characters/Aro.md","id":"33b71abd612ebde1","x":-560,"y":-1840,"width":400,"height":400,"color":"5"},
+		{"type":"file","file":"StarWars/Characters/Neophyte.md","id":"5e4a685f00da8f6f","x":-2000,"y":-2240,"width":400,"height":400,"color":"1"},
+		{"type":"file","file":"StarWars/Characters/Gai.md","id":"b749a4772b72cac9","x":-4080,"y":400,"width":400,"height":400,"color":"5"},
 		{"type":"text","text":"# The Crystals","id":"a8f0bb535381528a","x":-5040,"y":-760,"width":400,"height":400,"color":"1"},
-		{"id":"15e92b1d4b1e91f4","x":-5920,"y":-760,"width":400,"height":400,"type":"text","text":"# The Force-Monks"}
+		{"type":"text","text":"# The Force-Monks","id":"15e92b1d4b1e91f4","x":-5920,"y":-760,"width":400,"height":400},
+		{"type":"file","file":"StarWars/Characters/Val Pellian.md","id":"f957e3e07ab4808a","x":-4160,"y":-3080,"width":400,"height":400,"color":"5"},
+		{"type":"text","text":"# Narwahl\n*Middleman Grego Carden uses to purchase stolen antiquities*","id":"69f7bd14785ee805","x":-4680,"y":-2540,"width":250,"height":160},
+		{"type":"text","text":"# Grego Carden\n*Former ISB Head, betrayed  by the Emperor*\n\nSeeks to personally kill the Emperor and take his throne","id":"7492d68c63bab19d","x":-4680,"y":-4080,"width":250,"height":293},
+		{"type":"file","file":"StarWars/Characters/Zabel.md","id":"a196e9cdf59b24dc","x":-2440,"y":-360,"width":400,"height":400,"color":"5"}
 	],
 	"edges":[
 		{"id":"c913d5bbad19fa1a","fromNode":"b749a4772b72cac9","fromSide":"top","toNode":"dc24cf619e3dfa30","toSide":"left","color":"4","label":"Member"},
 		{"id":"0a04bbfdbea870d6","fromNode":"dc24cf619e3dfa30","fromSide":"left","toNode":"5d6cae257c00214f","toSide":"top","label":"Recruit?"},
 		{"id":"916ed1e4b4d2120e","fromNode":"33b71abd612ebde1","fromSide":"bottom","toNode":"dc24cf619e3dfa30","toSide":"top","label":"Could Help With Mandalore?"},
-		{"id":"caca9adda2484e42","fromNode":"dc24cf619e3dfa30","fromSide":"top","toNode":"33b71abd612ebde1","toSide":"right","label":"Recruit?"},
+		{"id":"caca9adda2484e42","fromNode":"dc24cf619e3dfa30","fromSide":"top","toNode":"33b71abd612ebde1","toSide":"right","label":"A Friend...perhaps, a lover?"},
 		{"id":"e1d9880179ae841d","fromNode":"a196e9cdf59b24dc","fromSide":"left","toNode":"a8f0bb535381528a","toSide":"right","color":"1","label":"Tempted"},
 		{"id":"ade1fd790f8919c0","fromNode":"b749a4772b72cac9","fromSide":"top","toNode":"a8f0bb535381528a","toSide":"bottom","color":"1","label":"Wants them for the Front"},
 		{"id":"84e04125107412ed","fromNode":"33b71abd612ebde1","fromSide":"left","toNode":"a8f0bb535381528a","toSide":"top","label":"Wants"},
@@ -38,6 +40,14 @@
 		{"id":"6cc00ad568022230","fromNode":"5e4a685f00da8f6f","fromSide":"left","toNode":"a8f0bb535381528a","toSide":"right","color":"1","label":"Tempted"},
 		{"id":"d0ac35da3d4466c9","fromNode":"a8f0bb535381528a","fromSide":"left","toNode":"15e92b1d4b1e91f4","toSide":"right","toEnd":"none","color":"1","label":"Enemies"},
 		{"id":"3c93b8fc2779e921","fromNode":"dc24cf619e3dfa30","fromSide":"left","toNode":"a196e9cdf59b24dc","toSide":"right","label":"Recruit?"},
-		{"id":"ce20aecd1771748e","fromNode":"5e4a685f00da8f6f","fromSide":"bottom","toNode":"a196e9cdf59b24dc","toSide":"top","toEnd":"none","color":"1","label":"Intense Dislike"}
+		{"id":"ce20aecd1771748e","fromNode":"5e4a685f00da8f6f","fromSide":"bottom","toNode":"a196e9cdf59b24dc","toSide":"top","toEnd":"none","color":"1","label":"Intense Dislike"},
+		{"id":"d230b0e55733217d","fromNode":"33b71abd612ebde1","fromSide":"top","toNode":"f957e3e07ab4808a","toSide":"right","color":"5","label":"Needs to Find the Darksaber"},
+		{"id":"c2ac13b02725cc2e","fromNode":"69f7bd14785ee805","fromSide":"left","toNode":"a3005d2038bbd658","toSide":"right","toEnd":"none","color":"4","label":"Works For"},
+		{"id":"90c11ed303e91c15","fromNode":"f957e3e07ab4808a","fromSide":"left","toNode":"69f7bd14785ee805","toSide":"right","color":"1","label":"Betrayed"},
+		{"id":"2680f7dfb692969d","fromNode":"33b71abd612ebde1","fromSide":"left","toNode":"69f7bd14785ee805","toSide":"bottom","label":"Worked For"},
+		{"id":"56b519cac52234fc","fromNode":"7492d68c63bab19d","fromSide":"right","toNode":"d3b9d380d7ab69d4","toSide":"left","color":"1","label":"Seeks to destroy"},
+		{"id":"5d43bd041aa7e19b","fromNode":"7492d68c63bab19d","fromSide":"bottom","toNode":"69f7bd14785ee805","toSide":"top","label":"Hired"},
+		{"id":"2c6c8e47be1566c2","fromNode":"b749a4772b72cac9","fromSide":"top","toNode":"5e4a685f00da8f6f","toSide":"left","color":"4","label":"Gave him a pamphlet"},
+		{"id":"31d6c7870a58959f","fromNode":"b749a4772b72cac9","fromSide":"top","toNode":"33b71abd612ebde1","toSide":"bottom","fromEnd":"arrow","color":"5","label":"Respect"}
 	]
 }
