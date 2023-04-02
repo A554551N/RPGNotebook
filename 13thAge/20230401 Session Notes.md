@@ -6,7 +6,7 @@
 	* Boon - [[13thAge/Prince of Shadows|Prince of Shadows]] (Positive)
 * **[[13thAge/Terach||Terach]]**
 	* Complication - [[13thAge/Lich King|Lich King]] (Conflicted)
-	* Boon - [[13thAge/Prince of Shadows|Prince of Shadows]] (Positive)
+	* ~~Boon - [[13thAge/Prince of Shadows|Prince of Shadows]] (Positive)~~
 
 ## High Weirdness
 7 -[[13thAge/Terach|Terach]] can only speak by asking questions
