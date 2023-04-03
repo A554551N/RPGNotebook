@@ -4,3 +4,5 @@
 "My soul is shared with the [[13thAge/Prince of Shadows|Prince of Shadows]]"
 
 Terach's arm has been corrupted by the [[13thAge/Lich King|Lich King]]
+
+#lysa #pc 

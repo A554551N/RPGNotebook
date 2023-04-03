@@ -4,34 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8ea36d2c831063ee",
+        "id": "73120f1220755d15",
         "type": "tabs",
         "children": [
           {
-            "id": "9275c6be6e77428e",
+            "id": "af31813c438a0908",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "13thAge/IconMap.canvas",
-                "viewState": {
-                  "x": 326.0000000000001,
-                  "y": 350.8256444150694,
-                  "zoom": -0.8666288843352368
-                }
-              }
-            }
-          },
-          {
-            "id": "154c3af4cb99095c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "13thAge/20230401 Session Notes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -92,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13thAge/IconMap.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,37 +99,39 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9275c6be6e77428e",
+  "active": "af31813c438a0908",
   "lastOpenFiles": [
+    "7thSea/Mercedes Aballon.md",
+    "7thSea/Vengeance.md",
+    "7thSea/Bernoulli.md",
     "13thAge/20230401 Session Notes.md",
+    "7thSea/Saoirse.md",
+    "7thSea/La Buca.md",
+    "7thSea/Giovanni Bernoulli.md",
+    "7thSea/Egis Loneur.md",
+    "7thSea/Rafe Gage.md",
+    "7thSea/Syrneth.md",
+    "7thSea/Stormbringer.md",
+    "7thSea/Cypher Disc.md",
+    "7thSea/Morta.md",
+    "7thSea/Caligari.md",
+    "7thSea/Isle of Bernoulli.md",
+    "7thSea/Gustav.md",
+    "7thSea/Mr Morton.md",
+    "BurningWheel/BurningDox/Melanion.md",
+    "BurningWheel/BurningDox/Cassandra.md",
+    "13thAge/Raik Fistsong.md",
+    "13thAge/Rorschach.md",
     "13thAge/Seifer Drace.md",
-    "13thAge/Elf Queen.md",
-    "13thAge/Crusader.md",
+    "13thAge/Terach.md",
+    "13thAge/The Three.md",
     "13thAge/Prince of Shadows.md",
     "13thAge/Lich King.md",
+    "7thSea",
     "13thAge/IconMap.canvas",
-    "13thAge/High Druid.md",
-    "13thAge/13thAge.md",
-    "13thAge/The Three.md",
-    "13thAge/Terach.md",
-    "13thAge/Adventure/Sea King's Malice - Crocodile Island.md",
-    "13thAge/Rorschach.md",
-    "LazyGMTemplate.md",
     "13thAge/Adventure",
-    "btws2/randomNotes.md",
-    "BurningStars/SecretGMNotes.md",
-    "13thAge/Raik Fistsong.md",
-    "BurningStars/Lore.md",
     "13thAge",
     "7thSea",
-    "BurningStars/Languages.md",
-    "RiseOfTheRunelords/Thunkunt's Send-Off.md",
-    "MaidineOtherSystems/MaidineSWADE.md",
-    "MaidineOtherSystems/MaidineBBF.md",
-    "MaidineOtherSystems/MadineWWN.md",
-    "BurningDox/WorldNotes.md",
-    "BurningDox/Cassandra.md",
-    "BurningDox/Notes.md",
     "Untitled.canvas"
   ]
 }

@@ -3,5 +3,6 @@
   "livePreview": true,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "./"
 }
