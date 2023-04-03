@@ -1,0 +1,1 @@
+*A cadet Inquisitor with a shaken foundation.  He's going to become a powerful weapon for someone.  Who that is remains to be seen.*
