@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "73120f1220755d15",
+        "id": "8ea36d2c831063ee",
         "type": "tabs",
         "children": [
           {
-            "id": "af31813c438a0908",
+            "id": "9275c6be6e77428e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "7th Sea Cortex Hack.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "7th Sea Cortex Hack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,35 +104,38 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "af31813c438a0908",
+  "active": "9275c6be6e77428e",
   "lastOpenFiles": [
-    "7thSea/Mercedes Aballon.md",
-    "7thSea/Vengeance.md",
-    "7thSea/Bernoulli.md",
-    "13thAge/20230401 Session Notes.md",
-    "7thSea/Saoirse.md",
-    "7thSea/La Buca.md",
-    "7thSea/Giovanni Bernoulli.md",
-    "7thSea/Egis Loneur.md",
-    "7thSea/Rafe Gage.md",
-    "7thSea/Syrneth.md",
-    "7thSea/Stormbringer.md",
-    "7thSea/Cypher Disc.md",
-    "7thSea/Morta.md",
-    "7thSea/Caligari.md",
-    "7thSea/Isle of Bernoulli.md",
-    "7thSea/Gustav.md",
-    "7thSea/Mr Morton.md",
+    "7th Sea Cortex Hack.md",
+    "BurningWheel/BurningDox/NPCs/TrokosNPCs.md",
+    "BurningWheel/BurningDox/NPCs/OtherNPCs.md",
+    "BurningWheel/BurningDox/NPCs/KentrikoNPCs.md",
+    "BurningWheel/BurningStars/SessionNotes.md",
+    "BurningWheel/BurningStars/SecretGMNotes.md",
+    "BurningWheel/BurningStars/NPCs.md",
+    "BurningWheel/BurningStars/Lore.md",
+    "BurningWheel/BurningStars/Languages.md",
+    "BurningWheel/BurningDox/WorldNotes.md",
+    "BurningWheel/BurningDox/Notes.md",
+    "BurningWheel/BurningDox/NPCs",
     "BurningWheel/BurningDox/Melanion.md",
     "BurningWheel/BurningDox/Cassandra.md",
-    "13thAge/Raik Fistsong.md",
-    "13thAge/Rorschach.md",
-    "13thAge/Seifer Drace.md",
-    "13thAge/Terach.md",
-    "13thAge/The Three.md",
-    "13thAge/Prince of Shadows.md",
-    "13thAge/Lich King.md",
-    "7thSea",
+    "BurningWheel/BurningDox/BurningDoxIndex.md",
+    "BurningWheel/BurningStars",
+    "BurningWheel/BurningDox",
+    "BurningWheel",
+    "7thSea/Vengeance.md",
+    "7thSea/Syrneth.md",
+    "7thSea/Stormbringer.md",
+    "7thSea/Saoirse.md",
+    "7thSea/Rafe Gage.md",
+    "7thSea/Mr Morton.md",
+    "7thSea/Morta.md",
+    "7thSea/Mercedes Aballon.md",
+    "7thSea/La Buca.md",
+    "7thSea/Isle of Bernoulli.md",
+    "7thSea/Gustav.md",
+    "7thSea/Giovanni Bernoulli.md",
     "13thAge/IconMap.canvas",
     "13thAge/Adventure",
     "13thAge",
