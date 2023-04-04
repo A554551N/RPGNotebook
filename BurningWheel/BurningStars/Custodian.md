@@ -1,0 +1,1 @@
+*Elauthin | Ally of [[Morwen]] | Friend of [[Bumper]] | Brother of [[Galuchanar]] | Speaker for the [[Nightweaver]]*
