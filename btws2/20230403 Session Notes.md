@@ -6,9 +6,9 @@
 	- At the Standing Stones, they see signs of the Giants' passage
 	- Remember to ask for Wisdom saving throws when the party goes near the weird green rocks.
 	- The Giants come at night, they offer praise in Abyssal to "He who is Beneath, He Who Slumbers, He Who Waits...He Who Hungers" and sacrifices a live ox on the fire.
-	- Deija and Skamir follow the giants and determine that they lair further Southwest.
+	- [[Deija]] and [[Skamir]] follow the giants and determine that they lair further Southwest.
 	- Skamir suggests following them deeper in order to find the 'tall door' the party seeks.
-	- Krim detects that the standing stones radiate weird Blodwen-esque magic
+	- [[Krim]] detects that the standing stones radiate weird Blodwen-esque magic
 - The party explores deeper to the Southwest and discovers the Exploration Site **Idol of Klazzalka'Rakkazahaa**
 	- The party determines that giants are within by throwing a big rock
 	- The party remembers that the door they saw in the vision was not in a cave
@@ -17,7 +17,7 @@
 		- Their slogan is 'What Is An Ending But A New Beginning?' to which all giants respond "Let All Begin Again"
 	- The giants chase Deija out, throwing rocks as they go, but the party escapes.
 	- The Giants say that 'they must warn the Prophet' as the party departs.
-	- Amelio recognizes that the slogan of the Giant cult is strikingly similar to the credo of the [[New Dawn]] ("From the Depths of the Darkest Night, Let All Be Born Anew")
+	- [[Amelio]] recognizes that the slogan of the Giant cult is strikingly similar to the credo of the [[New Dawn]] ("From the Depths of the Darkest Night, Let All Be Born Anew")
 - The party completes the exploration of the SW hex and moves into the S hex.
 - They discover the entrance to the **Ancient Mine** exploration site:
 	- Amelio enters the mine alone and is engaged by the six **sword wraiths**

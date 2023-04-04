@@ -1,18 +1,21 @@
 # PCs
-## Zabel
+## [[Zabel]]
 *Chivalry driven Padawan looking for a master*
-## Aro
+## [[Aro]]
 *Credits are king, a merc looking for a mission worth believing in(?)*
-## Chartreuse Gai
+## [[Gai|Chartreuse Gai]]
 *A rebel demolitionist from the Redemption, part of a family of famous guerillas*
-## Val Pellian
+## [[Val Pellian|Doctor Val Pellian]]
 *Professor of Galactic History, Archeologist, a chip on his shoulder the size of the Great Temple*
-## Kiki
+## [[Kiki]]
 *The Empire killed her family and left her crippled, she intends to return the favor.*
 
 # NPCs
 ## Master Jerneh, The Entity in the Crystal
 At the moment of his death, rather than becoming one with the Force, his lifeforce was trapped in a crystal and stored with others of its kind to ensure the next generation had access to training and knowledge.  Ancient and a bit cynical, the Entity will only share that knowledge with one it deems worthy.  While not *evil* per se, the Entity's teachings aren't remotely in line with the Jedi Code.
+
+## [[Neophyte]]
+Neophyte was the Inquisitor assigned to the Imperial Cruiser [[Gladiator]].  He was captured by the party and has been changing them while being changed in kind.  His loyalty in the Empire is shaken, but we're not sure what's going to replace it just yet.
 
 ## Narwahl
 Narwahl is an Imperial Bureaucrat with a desire for advancement.  He has hired Val Pellian and other unsavory academics to recover artifacts for him so that he can offer them as gifts to the Emperor.
