@@ -1,0 +1,1 @@
+*Elven Bard | Follower of [[Galuchanar]] | Father of [[Morwen]]*

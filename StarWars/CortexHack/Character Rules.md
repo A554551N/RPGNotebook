@@ -18,4 +18,10 @@ Stress, when applied, starts at d6.  No stress can ever be reduced below d6, ins
 
 When a character stresses out (gains stress of one type above d12), they gain a d6 of the associated Trauma.  Trauma is just like stress but substantially harder to shake off.
 ### Signature Assets
+<<<<<<< HEAD
 Signature Assets are items that belong to the character that are dice-worthy.  In this build, Signature Assets can have SFX.
+=======
+Signature Assets are items that belong to the character that are dice-worthy.  In this build, Signature Assets can have SFX.
+
+#mechanicsOnly 
+>>>>>>> 23d9e29c0d826537524cdf9f6bfad83dad1a1757

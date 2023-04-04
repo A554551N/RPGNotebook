@@ -5,4 +5,10 @@ I'm currently running one catalyst in the story (Neophyte).  I'm unsure if I lik
 ## Mobs
 Groups of enemies (normally Stormtroopers) can be mushed together into a Mob.  I've been slowly moving away from this approach in favor of just making them Extras that get rolled alongside the **Doom Pool**.  Mobs take up a lot of screen time and I'm not sure they're earning their keep right now.  I think it might be a useful tool for helping background characters make sure they have problems to deal with.
 ## Action Order Initiative
+<<<<<<< HEAD
 During Big Damn Action moments I've kept in the option of Action Order to replace the standard **Narrative Order**.  During **Action Scenes** a player is chosen to act first in the scene, who takes an **Action** to affect the scene while another character takes a **Reaction** to avoid the outcome.  Due to the kind of inverted nature of rolls in an Action Order, the defending roll must beat the Action, rather than vice versa.
+=======
+During Big Damn Action moments I've kept in the option of Action Order to replace the standard **Narrative Order**.  During **Action Scenes** a player is chosen to act first in the scene, who takes an **Action** to affect the scene while another character takes a **Reaction** to avoid the outcome.  Due to the kind of inverted nature of rolls in an Action Order, the defending roll must beat the Action, rather than vice versa.
+
+#mechanicsOnly 
+>>>>>>> 23d9e29c0d826537524cdf9f6bfad83dad1a1757
