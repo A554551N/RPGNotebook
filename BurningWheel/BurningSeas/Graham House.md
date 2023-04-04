@@ -1,0 +1,1 @@
+Graham House is the Navy's Special Weapons Program, so called because it operates out of the old Graham Manor in [[Port Armadel]].  Formerly run by [[Lord Admiral Mason]], it is unclear who is in charge of the program now.

@@ -1,0 +1,1 @@
+Port Armadel is the capital of the Pantellerian Region of the Empire and the headquarters of the 3rd Division of the Imperial Navy.
