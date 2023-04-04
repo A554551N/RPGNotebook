@@ -4,15 +4,24 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "faf2fe6521ba8acc",
         "type": "tabs",
         "children": [
           {
             "id": "8cfc2dd9f76f9cf7",
+=======
+        "id": "8ea36d2c831063ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9275c6be6e77428e",
+>>>>>>> b750919f16e4ec47c29ffa004b9f1b811a73fd6d
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "btws2/Mountain Exploration.md",
                 "mode": "source",
                 "source": false
@@ -26,6 +35,9 @@
               "type": "markdown",
               "state": {
                 "file": "btws2/20230403 Session Notes.md",
+=======
+                "file": "7th Sea Cortex Hack.md",
+>>>>>>> b750919f16e4ec47c29ffa004b9f1b811a73fd6d
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +102,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "btws2/20230403 Session Notes.md",
+=======
+                "file": "7th Sea Cortex Hack.md",
+>>>>>>> b750919f16e4ec47c29ffa004b9f1b811a73fd6d
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +151,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
+<<<<<<< HEAD
   "active": "55b97b8cb401a2d9",
   "lastOpenFiles": [
     "btws2/Mountain Exploration.md",
@@ -168,6 +185,40 @@
     "7thSea/Stormbringer.md",
     "7thSea/Cypher Disc.md",
     "7thSea",
+=======
+  "active": "9275c6be6e77428e",
+  "lastOpenFiles": [
+    "7th Sea Cortex Hack.md",
+    "BurningWheel/BurningDox/NPCs/TrokosNPCs.md",
+    "BurningWheel/BurningDox/NPCs/OtherNPCs.md",
+    "BurningWheel/BurningDox/NPCs/KentrikoNPCs.md",
+    "BurningWheel/BurningStars/SessionNotes.md",
+    "BurningWheel/BurningStars/SecretGMNotes.md",
+    "BurningWheel/BurningStars/NPCs.md",
+    "BurningWheel/BurningStars/Lore.md",
+    "BurningWheel/BurningStars/Languages.md",
+    "BurningWheel/BurningDox/WorldNotes.md",
+    "BurningWheel/BurningDox/Notes.md",
+    "BurningWheel/BurningDox/NPCs",
+    "BurningWheel/BurningDox/Melanion.md",
+    "BurningWheel/BurningDox/Cassandra.md",
+    "BurningWheel/BurningDox/BurningDoxIndex.md",
+    "BurningWheel/BurningStars",
+    "BurningWheel/BurningDox",
+    "BurningWheel",
+    "7thSea/Vengeance.md",
+    "7thSea/Syrneth.md",
+    "7thSea/Stormbringer.md",
+    "7thSea/Saoirse.md",
+    "7thSea/Rafe Gage.md",
+    "7thSea/Mr Morton.md",
+    "7thSea/Morta.md",
+    "7thSea/Mercedes Aballon.md",
+    "7thSea/La Buca.md",
+    "7thSea/Isle of Bernoulli.md",
+    "7thSea/Gustav.md",
+    "7thSea/Giovanni Bernoulli.md",
+>>>>>>> b750919f16e4ec47c29ffa004b9f1b811a73fd6d
     "13thAge/IconMap.canvas",
     "13thAge/Adventure",
     "13thAge",
