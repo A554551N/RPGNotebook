@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "73120f1220755d15",
+        "id": "faf2fe6521ba8acc",
         "type": "tabs",
         "children": [
           {
-            "id": "af31813c438a0908",
+            "id": "8cfc2dd9f76f9cf7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "btws2/Mountain Exploration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55b97b8cb401a2d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "btws2/20230403 Session Notes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "btws2/20230403 Session Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,8 +100,25 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "1fb08571339686f5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "39e56ec09e343bba",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -96,37 +131,42 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "af31813c438a0908",
+  "active": "55b97b8cb401a2d9",
   "lastOpenFiles": [
+    "btws2/Mountain Exploration.md",
+    "btws2/20230403 Session Notes.md",
+    "Attachments/MountainExplorationChart.png",
+    "Attachments",
+    "Attachments/MountainMap.png",
+    "btws2/Pasted image 20230403204125.png",
+    "LazyGMTemplate.md",
+    "BurningWheel/BurningStars/Lore.md",
+    "BurningWheel/BurningStars/NPCs.md",
+    "BurningWheel/BurningStars/SecretGMNotes.md",
+    "BurningWheel/BurningStars/SessionNotes.md",
+    "btws2/randomNotes.md",
+    "13thAge/Terach.md",
+    "13thAge/Seifer Drace.md",
+    "13thAge/Rorschach.md",
+    "13thAge/20230401 Session Notes.md",
+    "13thAge/13thAge.md",
+    "7thSea/La Bucca.md",
+    "7thSea/GMThoughts/Danger Points.md",
+    "7thSea/GMThoughts",
     "7thSea/Mercedes Aballon.md",
     "7thSea/Vengeance.md",
     "7thSea/Bernoulli.md",
-    "13thAge/20230401 Session Notes.md",
     "7thSea/Saoirse.md",
-    "7thSea/La Buca.md",
     "7thSea/Giovanni Bernoulli.md",
     "7thSea/Egis Loneur.md",
     "7thSea/Rafe Gage.md",
     "7thSea/Syrneth.md",
     "7thSea/Stormbringer.md",
     "7thSea/Cypher Disc.md",
-    "7thSea/Morta.md",
-    "7thSea/Caligari.md",
-    "7thSea/Isle of Bernoulli.md",
-    "7thSea/Gustav.md",
-    "7thSea/Mr Morton.md",
-    "BurningWheel/BurningDox/Melanion.md",
-    "BurningWheel/BurningDox/Cassandra.md",
-    "13thAge/Raik Fistsong.md",
-    "13thAge/Rorschach.md",
-    "13thAge/Seifer Drace.md",
-    "13thAge/Terach.md",
-    "13thAge/The Three.md",
-    "13thAge/Prince of Shadows.md",
-    "13thAge/Lich King.md",
     "7thSea",
     "13thAge/IconMap.canvas",
     "13thAge/Adventure",

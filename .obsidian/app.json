@@ -4,5 +4,12 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "newLinkFormat": "shortest",
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "btws2/Attachments",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
