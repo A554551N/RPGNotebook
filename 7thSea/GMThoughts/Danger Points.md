@@ -12,3 +12,5 @@ Danger Points are essentially just Hero Points for bad guys.  I really like the 
 To me, they interact weirdly with the Villain resource Influence since many of the effects my gut wants me to spend Danger Points for are covered under Influence spends.
 
 That said, Danger Points have a value at the table as a way to ensure that players don't feel cheated by a big dramatic swing.  While it might hurt in the moment, the players are at least mollified that their fortunes are improved by the DP spend.
+
+#mechanicsOnly 

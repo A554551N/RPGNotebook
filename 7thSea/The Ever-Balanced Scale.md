@@ -1,4 +1,4 @@
-- A fae-run restaurant in **Carleon**.
+- A [[Sidhe]]-run restaurant in **Carleon**.
 - It was once a noble's mansion (he lost his house in a deal with the current proprietor).
 - No iron is permitted passed the guardhouse.
 - You always feel like there's something moving at the corner of your eye
