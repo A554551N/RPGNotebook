@@ -1,4 +1,4 @@
-**Affiliation:** [[Bernoulli]], Avalon (banished)
+**Affiliation:** [[Bernoulli]], [[Avalon]] (banished)
 
 Rafe is [[7thSea/Saoirse|Saoirse]]'s estranged husband.  He disappeared after the theft of the [[7thSea/Cypher Disc|Cypher Disc]] from Carleon castle 5 years ago.  [[7thSea/Saoirse|Saoirse]] tracked him down to Vodacce and discovered him on the [[Isle of Bernoulli]] living as a Baron in the service of the House.
 
