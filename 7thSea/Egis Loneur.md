@@ -1,4 +1,4 @@
-**Affiliation:** Brotherhood of the Coast, The [[Vengeance]]
+**Affiliation:** Brotherhood of the Coast, The [[Vengeance]], the Musketeers of **Montaigne** (Formerly)
 
 Egis Loneur is a Montaigne swordsman, a former Musketeer of the Guard, and an accomplished huntsman.  He's also a fugitive from Montaigne for crimes he swears he didn't commit.  Instead, he suggests that his ex-wife and her lover were responsible for having him banished from the country.
 
