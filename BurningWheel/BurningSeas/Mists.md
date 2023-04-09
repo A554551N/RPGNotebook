@@ -1,0 +1,3 @@
+The Mists surround the edges of the Archipelago of [[Pantelleria]].  They appeared centuries ago and effectively cut off the island chain from the rest of the [[Old Empire]].  It is unclear what caused the Mist, but it is well understood that no vessel that has attempted to brave the journey has ever returned.  In some cases, flotsam from the remains of the ship in question would float back to the shores of the islands.
+
+Pantellerians have a number of superstitions about the Mist and what happens to ships that enter it.  A canonical answer for the Mists hasn't been provided yet..

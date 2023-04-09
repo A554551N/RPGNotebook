@@ -1,1 +1,1 @@
-*Etharch of [[Envakadi]] | Captain of the Shining Host | Desirous of [[Morwen]] | Enemy of the [[Nightweaver]]*
+*Last Etharch of [[Envakadi]] | Captain of the Shining Host | Desirous of [[Morwen]] | Enemy of the [[Nightweaver]]*
