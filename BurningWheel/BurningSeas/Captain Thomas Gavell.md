@@ -1,1 +1,1 @@
-*Captain of the INS [[Kestral]]*
+*Captain of the INS [[Kestrel]]*

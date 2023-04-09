@@ -1,0 +1,1 @@
+The INS Kestrel was under the command of [[Westley Gibson|Cpt. Gibson]] until he was reassigned to serve as Secretary to the Lord Admiral.  He was succeeded by [[Captain Thomas Gavell]].  The Kestrel is a [[Naval Light Frigate]] in the service of the [[Imperial Navy]]

@@ -16,7 +16,7 @@ The **3rd Division of the Imperial Navy** was stationed at **Port Armadel** to s
 # Known Ships
 - INS [[Indomitable]] (Indomitable Class)
 - INS [[Harrier]]
-- INS [[Kestral]]
+- INS [[Kestrel]]
 - ~~INS [[Midnight Engagement|Midnight]~~ **KIA**
 - INS Silver Streak
 - ~~INS Albatross~~ **KIA**
