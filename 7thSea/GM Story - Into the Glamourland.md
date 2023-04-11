@@ -6,3 +6,4 @@ Jacob Cooper made a deal with the Fae to spare his son Stephen's life when it wa
 1. Visit your family
 2. Learn a method of trapping a spirit within a barrel
 3. Retrieve the necessary wood and sap from the Glamour Wood
+#GMStory 
