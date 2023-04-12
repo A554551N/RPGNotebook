@@ -13,4 +13,9 @@
 	- In discussion with the priest, Bumper learns that there was a time when Aecer 'kicked everyone else out of Heaven' because of the actions of something called '[[Galuchanar|The Cold One]]'
 	- The actions of the Cold One are described in the Rodens **Book of the Prophets** in the **Epistle of Possett, who is known as the Great Betrayer**
 	- In the **Epistle**, Possett describes how the warren is decimated by a strange curse that leaves dead Roden with no obvious wounds (in the same way that the **Custodian** feeds).  At the end of the Epistle, Possett decides to steal out into the Dark to confront the Cold Ones
+- Morwen and Bumper meet in Dzahlal's Vault
+	- Morwen attempts to recall if there is an elven god that uses Aecer's sigil (Ob: 6, History of the Ones Who Lost the War).  She fails and can't recall.
+	- Morwen gives Bumper a friend rock, and they reconcile somewhat
+	- They talk about the Custodian in front of **Vojnik**, Dzahlal's Guard.
+	- 
 #sessionNotes 
