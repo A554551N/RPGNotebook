@@ -11,4 +11,5 @@
 - [[Bumper]] visits the [[Roden Quarter]] to meet with a Father of Aecer named **Wheatblossom**
 	- Bumper recognizes that the symbol of Aecer is an elven character for 'Alacrity' blended with the elven character of 'Divinity'
 	- In discussion with the priest, Bumper learns that there was a time when Aecer 'kicked everyone else out of Heaven' because of the actions of something called '[[Galuchanar|The Cold One]]'
+	- The actions of the Cold One are described in the Rodens **Book of the Prophets** in the **Epistle of Possett, who is known as the Great Betrayer**
 #sessionNotes 
