@@ -1,3 +1,5 @@
 - Bumper gave their beliefs first, Morwen will do Artha first
-- [[Bumper]] is breakfasting with [[Dhazalal]] the Dwarven Merchant to discuss plans for accessing the ancient dwarfhold of **M'rakn A'plana**
+- [[Bumper]] is breakfasting with [[Dzahlal]] the Dwarven Merchant to discuss plans for accessing the ancient dwarfhold of **M'rakn A'plana**
+	- Bumper refuses help from Dzahlal, allowing him to send only a single dwarf and provisions because he is concerned that any more will attract attention in the wastes and anger the Custodian.
+	- Dzahlal agrees to have a copy of the stolen Elven Atlas page made for Bumper so that he can keep the original.
 #sessionNotes 
