@@ -6,4 +6,6 @@
 - [[Morwen]] visits [[Marshal]]
 	- Marshal introduces Morwen to her great-nephew **Rasvan**
 	- The conversation is incredibly awkward.  Marshal and his family are clearly uncomfortable around New Morwen
+	- Marshal questions Morwen's new demeanor, worries that she's changed.
+	- Marshal pities Morwen's immortality, suggests that it would drive him insane.
 #sessionNotes 
