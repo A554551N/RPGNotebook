@@ -8,4 +8,7 @@
 	- The conversation is incredibly awkward.  Marshal and his family are clearly uncomfortable around New Morwen
 	- Marshal questions Morwen's new demeanor, worries that she's changed.
 	- Marshal pities Morwen's immortality, suggests that it would drive him insane.
+- [[Bumper]] visits the [[Roden Quarter]] to meet with a Father of Aecer named **Wheatblossom**
+	- Bumper recognizes that the symbol of Aecer is an elven character for 'Alacrity' blended with the elven character of 'Divinity'
+	- In discussion with the priest, Bumper learns that there was a time when Aecer 'kicked everyone else out of Heaven' because of the actions of something called '[[Galuchanar|The Cold One]]'
 #sessionNotes 
