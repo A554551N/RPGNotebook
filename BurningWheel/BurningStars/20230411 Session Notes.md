@@ -17,5 +17,7 @@
 	- Morwen attempts to recall if there is an elven god that uses Aecer's sigil (Ob: 6, History of the Ones Who Lost the War).  She fails and can't recall.
 	- Morwen gives Bumper a friend rock, and they reconcile somewhat
 	- They talk about the Custodian in front of **Vojnik**, Dzahlal's Guard.
-	- 
+	- Morwen suggests that she would kill herself if she had to in order to protect her father from [[Galuchanar]]
+	- Morwen finds an inscription on the elven mural in the Vault which reads 'Kutyakaya Nistha,' **The City of Light Beneath**.  This is the Elven name of the Dwarven Citadel of M'rakn A'plana
+
 #sessionNotes 
