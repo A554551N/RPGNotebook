@@ -23,3 +23,5 @@
 - The Custodian's weird black eye has the New Constellation trapped within it.
 - The Custodian believes that the Sibiu road on the floor map is broken because it keeps him from going home.
 - The Temple has all of the old constellations in the ceiling and a map of the world on the floor.
+
+![[20230411 Session Notes]]
