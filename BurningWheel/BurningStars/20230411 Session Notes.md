@@ -5,4 +5,5 @@
 - [[Morwen]] asks [[Dhitroth]] to find a nice rock for [[Bumper]]
 - [[Morwen]] visits [[Marshal]]
 	- Marshal introduces Morwen to her great-nephew **Rasvan**
+	- The conversation is incredibly awkward.  Marshal and his family are clearly uncomfortable around New Morwen
 #sessionNotes 
