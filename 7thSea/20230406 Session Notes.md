@@ -7,3 +7,5 @@
 - (Mostly for background) Avalonian privateers in the Queen's service are given a sword on their joining the corps.  Rather than a more standard naval weapon, they are issued a cruciform hilt longsword with the image of the Graal inscribed at the cross of the guard.
 - [[Saoirse]] allows the shipwright to believe she is still a member of **Elaine's Sea Dogs**.  They put the bill to the Royal Treasury.
 - As she leaves her meeting with the shipwright, [[Saoirse]] spotted [[Mr Morton]] amongst a crowd of men on the dock, but he wasn't there when she looked closer.
+
+#sessionNotes

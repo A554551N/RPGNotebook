@@ -21,3 +21,4 @@
 - The party completes the exploration of the SW hex and moves into the S hex.
 - They discover the entrance to the **Ancient Mine** exploration site:
 	- Amelio enters the mine alone and is engaged by the six **sword wraiths**
+#sessionNotes 

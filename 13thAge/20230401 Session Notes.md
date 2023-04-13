@@ -32,3 +32,4 @@
 - Janea
 	- Star - Lysa's bit, visuals
 	- Wish - None
+#sessionNotes 

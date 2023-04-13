@@ -14,7 +14,7 @@
 	- The Mayor of Sibiu proclaims that the constellation is a Phoenix and represents the rise of Man from the ashes.  The village believes him fervently.
 	- The Roden Preacher believes that the constellation is the sigil of Aecer and proves it is time for the Roden to emerge and scour the world of humanity.
 	- The Dwarf tavernman believes it is the **Hammer of Morag**, and points the way to the ancient **Dwarven Halls**
-- Morwen tries to convince the townsfolk to reject the Mayor's plan to follow the [[NewConstellation]].  She fails and [[BurningWheel/BurningStars/NPCs|Marshal]] falls under the Mayor's sway.
+- Morwen tries to convince the townsfolk to reject the Mayor's plan to follow the [[NewConstellation]].  She fails and [[Marshal]] falls under the Mayor's sway.
 - The gang opens the Door from session 1
 - In the ancient temple/planetarium behind the door, Morwen sings the Lament of Stars and realizes that the constellation of the Nightweaver (chief god of the elven pantheon) has been replaced by the New Constellation
 - Bumper found a fallen star-crystal in the Temple
@@ -23,3 +23,5 @@
 - The Custodian's weird black eye has the New Constellation trapped within it.
 - The Custodian believes that the Sibiu road on the floor map is broken because it keeps him from going home.
 - The Temple has all of the old constellations in the ceiling and a map of the world on the floor.
+
+![[20230411 Session Notes]]
