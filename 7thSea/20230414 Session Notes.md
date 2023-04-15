@@ -1,0 +1,3 @@
+- [[Captain Dennis Moss]] and [[Saoirse]] do the nasty.
+- The gang returns to Ashenborough to tell [[GM Story - Into the Glamourland|Jacob Cobbler]] that they have found a way to 
+- 
