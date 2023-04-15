@@ -1,3 +1,7 @@
+#GMStory
+> **Story Completed** 2023/04/14
+
+# Synopsis
 Jacob Cooper made a deal with the Fae to spare his son Stephen's life when it was threatened by plague.  Now the Fae has returned to demand payment: a barrel that can keep a spirit from escaping, prepared to be collected at the end of the week.
 
 **Goal:** Resolve Jacob Cooper's debt to the Fae
@@ -6,7 +10,6 @@ Jacob Cooper made a deal with the Fae to spare his son Stephen's life when it wa
 1. Visit your family
 2. Learn a method of trapping a spirit within a barrel
 3. Retrieve the necessary wood and sap from the Glamour Wood
-#GMStory 
 
 # The Dark Wood
 ## The Guardian of the Dark Wood
