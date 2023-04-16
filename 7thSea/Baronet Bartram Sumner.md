@@ -12,6 +12,12 @@ Saoirse is both a Monarchist and an Avalonian patriot.  The baronet is her oppos
 
 Additionally, the Baronet is an Influence based villain.  At least at the outset she can't really solve him with a sword as she might prefer.  She'll have to do some intriguing to isolate the Baronet from his powerful friends so that she can strike him down.
 
+# Schemes
+## Put an end to Allerton Limited
+- Allerton Limited is a rival shipping company that specializes in moving high-value goods through dangerous waters
+- Sumner knows that Allerton has recently been contracted to move valuable royal goods from Carleon to **Kirkwall** in the Marches.
+- He has hired [[GM Story - Enemy of the Crown|Halla the Red]] to take the ship and its cargo.  The loss of the goods will compromise Allerton and convince the Queen to send her shipping via a safer alternative.
+
 # Arcana
 ## Virtue - The Moonless Night (Subtle)
 Activate your Virtue when you act behind the scenes, from the shadows or via proxy.  For the next Risk, when you determine Raises, every die rolled counts as a Raise.
