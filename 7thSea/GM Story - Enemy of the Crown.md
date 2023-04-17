@@ -12,4 +12,4 @@ No one knows where Sorlidottir makes berth, so the best way to catch her is like
 # Steps
 1. Encounter [[Mr Morton]] Again
 2. Investigate The [[Baronet Bartram Sumner]]
-3. Locate Halla's Holdfast
+3. Protect the **Lightning** on its journey from Carleon to Kirkwall.

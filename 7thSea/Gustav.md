@@ -1,4 +1,4 @@
-**Affiliation:** Eisen, The [[Vengeance]]
+**Affiliation:** **Eisen**, The [[Vengeance]]
 
 ## Image
 ![[Gustav.png]]

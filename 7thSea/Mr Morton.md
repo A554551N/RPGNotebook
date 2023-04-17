@@ -1,4 +1,4 @@
-**Affiliation:** [[Avalon]] (Elaine's Court), Faerie
+**Affiliation:** [[Avalon]] (Elaine's Court), Bryn Bressail
 
 "Mr. Morton" is a [[Sidhe]] Avalonian spy who posed as a spice merchant when he visited the [[Isle of Bernoulli]] in search of the fugitive [[Rafe Gage]].
 

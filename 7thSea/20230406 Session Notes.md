@@ -1,6 +1,6 @@
 **Location:** [[Avalon]]
 
-*The crew arrives in Carleon after the battle with [[Mercedes Aballon]] in the Highland Straits and reunited with [[Captain Dennis Moss]] who had aided them in getting the refugee priests onto Avalonian soil.*
+*The crew arrives in Carleon after the battle with [[Mercedes Abellon]] in the Highland Straits and reunited with [[Captain Dennis Moss]] who had aided them in getting the refugee priests onto Avalonian soil.*
 
 - The Captain and [[Saoirse]] go to dinner at an unusual restaurant in Carleon run by a [[Sidhe]] and their lesser hangers on.  At this restaurant, you pay beforehand and the cashier will return to you the excess value depending on what you order.  You can eat as much as you'd like, but you always receive the exact value of what you pay for.  It's called [[The Ever-Balanced Scale]].
 - After taking the very drunk [[Captain Dennis Moss]] to her house and reuniting with her brother [[Connor Cobbler]], she finds a letter from [[Mr Morton]] on her pillow advising her that he intends to call on her while she is in port.

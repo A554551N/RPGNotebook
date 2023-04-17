@@ -4,3 +4,4 @@
 	- Egis activates his Virtue to escape, leaving the crew behind.  He feels shamed that he abandoned the group
 	- Gustav shows his willingness to sacrifice by tanking the Guardian so that the others could escape.
 	- Jacob makes the barrel and leaves it out for his Fae to collect, which completes [[GM Story - Into the Glamourland]]
+#sessionNotes 
