@@ -3,7 +3,6 @@
 #villain
 # Image
 ![[baronetsumner.png]]
-
 # Summary
 The Baronet Sumner is a cunning and charming man that paid his way into the nobility through his shipping business.  His newly won crown sits quite naturally on his head, and he is well liked by the peerage even if they can't fully ignore the matter of his low birth.
 
