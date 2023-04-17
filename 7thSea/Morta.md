@@ -1,6 +1,9 @@
 **Affiliation:** Unknown
 **Current Employer:** [[Caligari]] Family
 
+## Image
+![[Morta.png]]
+## Story
 Morta is an assassin who, when last we saw her, was affiliated with the [[Caligari]] Family of Vodacce.  She broke into the home of [[Rafe Gage]] seeking his journals so that the [[Caligari]] could steal the legendary [[Stormbringer]] out from under their rivals' noses.
 
 During the initial robbery, she encountered [[Saoirse]] and the two fought.  [[Saoirse]] escaped with the journals but was wounded in the process.
