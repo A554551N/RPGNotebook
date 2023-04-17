@@ -1,4 +1,6 @@
 **Affiliation:** [[Brotherhood of the Coast]]
+# Image
+![[dennis.png]]
 # Traits
 - Inish
 - Fancy Coat
