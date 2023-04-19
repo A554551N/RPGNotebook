@@ -1,4 +1,7 @@
 *Captain of the INS [[Kestrel]]*
 
 # Image
-![[Pasted image 20230418221208.png]]
+![[thomasgavill.png]]
+# Character Traits
+- Open and Honest
+- Bit of a Joker
