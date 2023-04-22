@@ -62,3 +62,4 @@ Negative
 Porte is fucking scary as shit, cutting wounds in the world feels *wrong* to the young Egis.  As for other countries Sorceries?  He knows nothing of them.
 
 ## If you could, what advice would you give your Hero?
+That he doesn't need a noble title to be a noble man.
