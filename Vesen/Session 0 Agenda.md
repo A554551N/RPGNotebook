@@ -16,6 +16,7 @@
 - Foundry link
 - Script Change pg 6
 - Link to Book
+- HeroForge
 
 ## Character Creation
 - PDF pg 22
