@@ -23,6 +23,7 @@
 - Recommend Lifepath Tables on PDF pg 218
 
 ## Intro Session
+- Intro to Skills
 - Demonstrate good use of Script Change
 - Introduce Characters
 
