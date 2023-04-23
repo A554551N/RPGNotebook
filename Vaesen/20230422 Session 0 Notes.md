@@ -1,4 +1,6 @@
 - Character Creation
 	- Lysa pulled **Rescued**, they were saved on the field of battle by Tiffany's Father
 	- Tiffany pulled **Scandal**, they're a disgrace to their family and very drunkenly
-- 
+	- Lysa went to **Middle Age** and also got **Injured** (presumably in the battle where they were rescued)
+	- Tiffany does all the drugs
+	- Lysa is haunted by the spirits of her compatriots.

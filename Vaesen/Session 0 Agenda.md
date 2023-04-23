@@ -1,5 +1,5 @@
 # Session 0
-## Welcome
+## ~~Welcome~~
 - Thanks for Coming!
 - CATS
 	- Concept - Ghost/Monster hunters in 19th Century Scandinavia
@@ -12,13 +12,13 @@
 - Game Format
 	- Monster of the Week with a check-in to 'renew' the show at the end of each Mystery.
 
-## Resources
+## ~~Resources~~
 - Foundry link
 - Script Change pg 6
 - Link to Book
 - HeroForge
 
-## Character Creation
+## ~~Character Creation~~
 - PDF pg 22
 - Recommend Lifepath Tables on PDF pg 218
 
