@@ -5,4 +5,6 @@
 	- Tiffany does all the drugs
 	- Lysa is haunted by the spirits of her compatriots.
 - Session 1 - The Dance of Dreams
-	- This is the gang's first 
+	- This is the gang's first adventure.  They meet Algot Frisk, the butler.
+	- To access the dungeons, you must pull the book "The Imprisonment of the Soul" (3rd bookcase, 3rd shelf, 3rd book from the left)
+	- The gang removed some journals from the old dissection room in the dungeon.
