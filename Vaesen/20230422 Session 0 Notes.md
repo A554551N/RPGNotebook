@@ -8,3 +8,4 @@
 	- This is the gang's first adventure.  They meet Algot Frisk, the butler.
 	- To access the dungeons, you must pull the book "The Imprisonment of the Soul" (3rd bookcase, 3rd shelf, 3rd book from the left)
 	- The gang removed some journals from the old dissection room in the dungeon.
+	- They head to the Witch Cat
