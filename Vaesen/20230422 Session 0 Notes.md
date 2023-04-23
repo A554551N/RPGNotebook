@@ -1,0 +1,4 @@
+- Character Creation
+	- Lysa pulled **Rescued**, they were saved on the field of battle by Tiffany's Father
+	- Tiffany pulled **Scandal**, they're a disgrace to their family and very drunkenly
+- 
