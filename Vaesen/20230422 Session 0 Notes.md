@@ -4,3 +4,5 @@
 	- Lysa went to **Middle Age** and also got **Injured** (presumably in the battle where they were rescued)
 	- Tiffany does all the drugs
 	- Lysa is haunted by the spirits of her compatriots.
+- Session 1 - The Dance of Dreams
+	- This is the gang's first 
