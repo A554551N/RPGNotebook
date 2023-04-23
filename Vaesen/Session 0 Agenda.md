@@ -1,6 +1,6 @@
 # Session 0
 ## Welcome
-- Thanks for Coming
+- Thanks for Coming!
 - CATS
 	- Concept - Ghost/Monster hunters in 19th Century Scandinavia
 	- Aim - Tell a dramatic story about monsters and spooky stuff.  We all win if the story is good!   More granularly we should expect sessions focused on Mystery and we play to find out what happens to our characters.
