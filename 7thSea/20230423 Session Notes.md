@@ -13,4 +13,9 @@
 - She meets with [[Mr Morton]] after the affair at the docks.  He says he will help Saoirse to create a fake office, and offers to secure a ship for her to use.
 	- He steals the navy ship *Diligent* and gives Saoirse 2 days to return it.
 - While the rest of the crew is off fighting Halla, Saoirse goes on her date with [[Baronet Bartram Sumner]]
+	- Saoirse focuses on learning more about Sumner
+	- He spends his Raises looking for flaws in her character that he can exploit later.
+	- They agree to another date in two days time, a picnic.
+	- Sumner tells his backstory, including how the proprietor of the shipping company he worked for 'mysteriously and tragically died,' leaving him the company.
+	- Gundred Thorsson has a cousin who works as a middle-manager in the Vendel League (it's Gunnleaf, who Saoirse sold a ship to)
 	- 
