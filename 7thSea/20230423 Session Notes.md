@@ -10,3 +10,5 @@
 	- She learns that Halla's crew aren't all on board with her alliance with Sumner, and that the Captain of the *Bounty* knows of a rednezvous with Halla's ship.
 	- She is spotted by **Gundred Thorsson** and he and his crew give chase through the harbor.  She escapes them with some wounds
 	- She successfully sabotaged the *Bounty*, it won't make it out of the harbor before the storm arrives, which gives Dennis' crew an advantage.
+- She meets with [[Mr Morton]] after the affair at the docks.  He says he will help Saoirse to create a fake office, and offers to secure a ship for her to use.
+	- He steals the navy ship *Diligent* and gives Saoirse 2 days to return it.
