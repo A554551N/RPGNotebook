@@ -1,4 +1,4 @@
 #sessionNotes 
-**Location: ** [[Avalon]]
+**Location:** [[Avalon]]
 
 - 
