@@ -12,7 +12,10 @@
 [[Terach]] has a Spell Parrot following him around that replicates all of the spells cast within its hearing on a random target.
 
 ## Session
-- 
+- Group meets Uder the Fire Giant and questions him about the passage of the other humans
+	- Uder tells them that the others passed a couple days ago.  He saw them fight against some other group, he didn't see who won.
+	- He warns the group to go around **Vesuvius**, the Duke's pet bulette.
+	- Terach offered tentatively to help Uder open the gate home after all of this is resolved.
 ## Stars & Wishes
 - Justin
 	- Star - Lysa really stuck the bit about only asking questions
