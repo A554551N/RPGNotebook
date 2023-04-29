@@ -18,4 +18,9 @@
 	- They agree to another date in two days time, a picnic.
 	- Sumner tells his backstory, including how the proprietor of the shipping company he worked for 'mysteriously and tragically died,' leaving him the company.
 	- Gundred Thorsson has a cousin who works as a middle-manager in the Vendel League (it's Gunnleaf, who Saoirse sold a ship to)
-	- 
+- [[Egis Loneur]], [[Gustav]], and [[Captain Dennis Moss|Dennis]] sail off aboard the *Diligent* to intercept the pirates attacking the *Lightning*.
+	- Halla nearly kills Gustav during the fighting, and is responsible for the deaths of a number of good Avalonian soldiers.
+	- The *Lightning* escapes combat and makes it to Kirkwall with the jewels
+	- Halla survives the fight and uses *Seidr* to identify her would-be killer (Gustav) and to learn the location of the jewels.
+		- This marks the next step of Halla's scheme to capture the Avalonian Jewels
+	- This means that [[Baronet Bartram Sumner|Sumner]]'s Scheme is failed.  Allerton successfully delivered the jewels.
