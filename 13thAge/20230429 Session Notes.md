@@ -2,11 +2,12 @@
 * **[[13thAge/Seifer Drace|Seifer]]**
 	* Complication - [[High Druid]] (Positive)
 * **[[13thAge/Rorschach|Rorschach]]**
-	* Complication - [[13thAge/Elf Queen|Elf Queen]] (Conflicted)
-	* Boon - [[13thAge/Prince of Shadows|Prince of Shadows]] (Positive)
+	* Boon - [[13thAge/Elf Queen|Elf Queen]] (Conflicted)
+	* Boon - [[Crusader]] (Negative)
+	* Complication - [[Prince of Shadows]]
 * **[[13thAge/Terach||Terach]]**
-	* Complication - [[13thAge/Lich King|Lich King]] (Conflicted)
-	* ~~Boon - [[13thAge/Prince of Shadows|Prince of Shadows]] (Positive)~~
+	* Boon - [[Crusader]] (Conflicted)
+	* Boon - [[13thAge/Prince of Shadows|Prince of Shadows]] (Positive)
 
 ## High Weirdness
 7 -[[13thAge/Terach|Terach]] can only speak by asking questions
