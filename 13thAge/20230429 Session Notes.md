@@ -2,35 +2,46 @@
 * **[[13thAge/Seifer Drace|Seifer]]**
 	* Complication - [[High Druid]] (Positive)
 * **[[13thAge/Rorschach|Rorschach]]**
-	* Boon - [[13thAge/Elf Queen|Elf Queen]] (Conflicted)
-	* Boon - [[Crusader]] (Negative)
-	* Complication - [[Prince of Shadows]]
-* **[[13thAge/Terach||Terach]]**
-	* Boon - [[Crusader]] (Conflicted)
+	* Complication - [[13thAge/Elf Queen|Elf Queen]] (Conflicted)
 	* Boon - [[13thAge/Prince of Shadows|Prince of Shadows]] (Positive)
+* **[[13thAge/Terach||Terach]]**
+	* Complication - [[13thAge/Lich King|Lich King]] (Conflicted)
+	* ~~Boon - [[13thAge/Prince of Shadows|Prince of Shadows]] (Positive)~~
 
 ## High Weirdness
-7 -[[13thAge/Terach|Terach]] can only speak by asking questions
+[[Terach]] has a Spell Parrot following him around that replicates all of the spells cast within its hearing on a random target.
 
 ## Session
-- Party investigates the remains of the *Zephyr*, finds Elisa's journal
-- After examining the evidence of the sahuagin attack on the beach, the party separates.  Rorschach and Terach begin following the tracks by land while Seifer scouts ahead by air.
-- Seifer skips ahead to the Craniform, spotting most of the dangers by air.  They spend the whole day investigating
-- Rorschach and Terach fight their way passed a giant beetle and brave the home of Captain Blackbeard
-- Rorschach pockets about 1500gp worth of gems and a **+2 axe of lightning**.  I warned him that the gems were property of the dragons who financed the expedition due to the pact Terach made with the [[13thAge/The Three|Blue]]'s agent.
-- After reuniting, the party rests.  Rorschach spends his Icon point to dream true and see the fate of Captain Brand.  He sees her floating unconscious in **The Meat Locker Area k-2b**
+- Group meets Uder the Fire Giant and questions him about the passage of the other humans
+	- Uder tells them that the others passed a couple days ago.  He saw them fight against some other group, he didn't see who won.
+	- He warns the group to go around **Vesuvius**, the Duke's pet bulette.
+	- Terach offered tentatively to help Uder open the gate home after all of this is resolved.
+- Group ran into trolls near the lake entrance bearing Crusader symbolism, killed them.
+	- They bear signs of having traveled through the Void, which means someone opened a Gate for them.
+	- an advane party (expand)
+- They are given the blessing of the Sea Mother
+	- [[Rorschach]] gets weird electric eel powers
+	- [[Terach]] has a scaly arm that has claws
+	- [[Seifer Drace|Seifer]] has a weird anglerfish headlight (temporary)
+- They enter Tzar'Grandula through **Tzunto**'s hidden vent access.
+- In the gardens they discovered the wereshark and his pet sharks.  Terach blasts them with ice and kills them all.
+- The Crusader has sent a magic underwater ship here to (expand)
 
 ## Stars & Wishes
 - Justin
-	- Star - Lysa really stuck the bit about only asking questions
-	- Wish - Seifer being able to fly really trivialized the adventure
+	- Star - I liked getting to see Terach do cool combos
+	- Wish - Zippier fight scenes
 - Greg
-	- Star - Lysa's bit
-	- Wish - Underwater combat
+	- Star - janea's aquatic forms, big damage spells from Terach, 
+	- Wish - Wants more rogue bits
 - Lysa
-	- Star - Rorschach for looting, Seifer for scouting ahead and learning a bunch
-	- Wish - Lysa felt like Terach didn't do much this session.  She wants to find a spell parrot to tame.  More Pirates
+	- Star - Janea's Aquatic Form, Enjoyed roleplaying with Uder, enjoyed the social solution, enjoyed getting rewarded for roleplay.
+	- Wish - Fight in the arena
 - Janea
-	- Star - Lysa's bit, visuals
-	- Wish - None
+	- Star - Craniform Voices, Non-combat options, Lysa playing to her quirks
+	- Wish - No Wishes
+
+## Notes for Next Time
+- Stat up the +2 axe of lightning that Rorschach took from Captain Blackbeard
+- fill in (expand)
 #sessionNotes 
