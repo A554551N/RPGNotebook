@@ -1,4 +1,6 @@
 - Character Creation
+	- Lysa is playing [[Sven]] the Old Soldier
+	- Tiffany is playing [[Astrid]] the Black Sheep Noble
 	- Lysa pulled **Rescued**, they were saved on the field of battle by Tiffany's Father
 	- Tiffany pulled **Scandal**, they're a disgrace to their family and very drunkenly
 	- Lysa went to **Middle Age** and also got **Injured** (presumably in the battle where they were rescued)
