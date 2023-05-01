@@ -22,5 +22,5 @@
 	- Halla nearly kills Gustav during the fighting, and is responsible for the deaths of a number of good Avalonian soldiers.
 	- The *Lightning* escapes combat and makes it to Kirkwall with the jewels
 	- Halla survives the fight and uses *Seidr* to identify her would-be killer (Gustav) and to learn the location of the jewels.
-		- This marks the next step of Halla's scheme to capture the Avalonian Jewels
+		- This marks the next step of Halla's scheme to capture the Avalonian Jewels.
 	- This means that [[Baronet Bartram Sumner|Sumner]]'s Scheme is failed.  Allerton successfully delivered the jewels.
