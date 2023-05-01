@@ -7,3 +7,6 @@
 - Gustav tells the story of how he lost his castle to the Count and Countess Mitternacht to [[Saoirse]]
 - That night, a [[Blutsaugr]] attempts to attack Gustav
 	- The blutsaugr looks like a drowned sailor.  His neck rotates in all directions easily.  When it screams the jaw unhinges like a Predator revealing lamprey-like jaws beneath.
+	- The group tries to kill it to no avail and decides to flee the house for the safety of the nearest church
+- The old priest from the Invisible College that Saoirse saved from the Inquisition is also at the church.
+	- He identifies the creature for Saoirse and advises her to remain in the safety of the church and daylight until their ship is made ready to leave.
