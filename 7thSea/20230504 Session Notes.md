@@ -19,4 +19,6 @@
 	- Al'Tabil is a small-time drug smuggler who moves Iskandar drugs into Theah via Bernoulli.
 - Gespucce offers Saoirse **5 Wealth** to go and get Giovanni back.
 - Upon her agreement, Gespucce gives her a ship and crew, along with Mario the guard and the Fate Witch Tessera to hunt down Al'Tabil
+- After being blessed by Tessera, Saoirse fights her way into Al'Talib's stronghold and rescues Giovanni and Sayeda from the smuggler.
+- Saoirse permits the hitman Mario to burn down dude's place, thus fulfilling her obligation to Bernoulli.
 #sessionNotes
