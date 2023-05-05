@@ -6,5 +6,6 @@
 - [[Saoirse]] and the gang take ship to Bernoulli, pirating along the way.
 - Arrives in Bernoulli 3 weeks after the end of last session
 - Upon arriving, Saoirse asks after [[Giovanni Bernoulli|Giovanni]] and is immediately arrested and taken to the head of the [[Bernoulli]]
-- 
+- Gespucce Bernoulli tasks Saoirse with finding out what happened to Giovanni.  She is taken to **Vincenzo's Winehouse**, where he was taken.
+
 #sessionNotes
