@@ -15,4 +15,6 @@
 	- Egis notes in the log that a second Imperial ship arrived just before the suspicious one.  The *Hikal* stayed overnight and departed the next morning.
 - On the way, she encounters **Akhua**, Giovanni's lover's brother.  He is looking for his sister who has been missing for a week.  She sailed aboard the Hikal.
 - The letter Saoirse found identifies the time and place of a sexytime rendezvous, and confirms that Giovanni and Sayida were seeing each other.
+- The captain of *Nafkha* is captained by a man named **Al'Tabil**
+- 
 #sessionNotes
