@@ -1,4 +1,4 @@
-**Location:** [[Isle of Bernoulli]]
+ **Location:** [[Isle of Bernoulli]]
 
 *The group was attacked by a Blutsager sent by an enemy of Gustav's.  They've spent the last two weeks holed up in a church and now they're ready to hit the seas again.*
 
