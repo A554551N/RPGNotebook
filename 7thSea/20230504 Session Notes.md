@@ -7,5 +7,9 @@
 - Arrives in Bernoulli 3 weeks after the end of last session
 - Upon arriving, Saoirse asks after [[Giovanni Bernoulli|Giovanni]] and is immediately arrested and taken to the head of the [[Bernoulli]]
 - Gespucce Bernoulli tasks Saoirse with finding out what happened to Giovanni.  She is taken to **Vincenzo's Winehouse**, where he was taken.
-
+- **Dramatic Sequence - Investigation**
+	- Saoirse learns that Giovanni was taken by 5 Crescent Imperials
+	- Egis finds a letter that Vincenzo recognizes as having been delivered to Giovanni in the shop.  It is written in Imperial and scented with an exotic perfume
+	- They depart and speak to the dockmaster who admits to having allowed someone to dock without being recorded.  The Crescent ship *Nafkha* was onshore  for about two hours.  The captain and crew appeared to be related.  He seemed intent on something the master couldn't see, paid a hefty bribe for the anonymity, and departed.
+	- 
 #sessionNotes
