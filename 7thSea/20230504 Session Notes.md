@@ -16,5 +16,7 @@
 - On the way, she encounters **Akhua**, Giovanni's lover's brother.  He is looking for his sister who has been missing for a week.  She sailed aboard the Hikal.
 - The letter Saoirse found identifies the time and place of a sexytime rendezvous, and confirms that Giovanni and Sayida were seeing each other.
 - The captain of *Nafkha* is captained by a man named **Al'Tabil**
-- 
+	- Al'Tabil is a small-time drug smuggler who moves Iskandar drugs into Theah via Bernoulli.
+- Gespucce offers Saoirse **5 Wealth** to go and get Giovanni back.
+- Upon her agreement, Gespucce gives her a ship and crew, along with Mario the guard and the Fate Witch Tessera to hunt down Al'Tabil
 #sessionNotes
