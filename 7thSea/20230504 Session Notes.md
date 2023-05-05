@@ -11,5 +11,6 @@
 	- Saoirse learns that Giovanni was taken by 5 Crescent Imperials
 	- Egis finds a letter that Vincenzo recognizes as having been delivered to Giovanni in the shop.  It is written in Imperial and scented with an exotic perfume
 	- They depart and speak to the dockmaster who admits to having allowed someone to dock without being recorded.  The Crescent ship *Nafkha* was onshore  for about two hours.  The captain and crew appeared to be related.  He seemed intent on something the master couldn't see, paid a hefty bribe for the anonymity, and departed.
-	- 
+	- The innkeeper of the inn Saoirse is staying at saw a cloaked figure nearly knock down one of his patrons.  Shortly after, the Imperial in question followed and nearly knocked down.
+	- Egis notes in the log that a second Imperial ship arrived just before the suspicious one.  The *Hikal* stayed overnight and departed the next morning.
 #sessionNotes
