@@ -1,3 +1,4 @@
 - [[Bumper]] hires [[Kornelie Bonejaw]] to guide her to [[Kamazamka]] across the Western Wastes
 - Kornelie passes an Ob 3 Lost-Treasure Wise to find a weird compass like object that tracks the essence of legendary things amongst the random treasures in Dzhalal's vault (called a Kijametit)
+	- Kornelie gets [[Dzahlal]] to give her access to the device for the journey.
 - 
