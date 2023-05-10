@@ -7,3 +7,5 @@
 - Kornelie meets the Custodian, it goes about as bad as can be expected
 - They use the [[Stellar Atlas]] to confirm that the Dark Weaver was once imprisoned within [[Mrak'n A'plana]].  After imprisoning her, the gods return to the sky.
 - During the night, the Custodian kills a monster.
+- Kornelie gets the group lost, sending them into the Valley of Bones to inadvertantly confront the [[Singer in the Wastes]]
+- They agree to the Singer's game, a story for a story until the Singer is bored.
