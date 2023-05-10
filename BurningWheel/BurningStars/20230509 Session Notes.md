@@ -1,0 +1,2 @@
+- [[Bumper]] hires [[Kornelie Bonejaw]] to guide her to [[Kamazamka]] across the Western Wastes
+- 
