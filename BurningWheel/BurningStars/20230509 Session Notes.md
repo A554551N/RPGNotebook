@@ -4,4 +4,6 @@
 - Bumper talks to [[Marshal]] about bringing the Roden aboveground to live amongst the villagers.  He fails the test but gets close.  Marshal agrees to talk it over further when Bumper returns.
 	- Bumper gives Marshal one of the soul gems to sell to Dzahlal, it's worth a fuck ton.
 - Kornelie meets up with her father to warn him that she's leaving with Bumper.
-- 
+- Kornelie meets the Custodian, it goes about as bad as can be expected
+- They use the [[Stellar Atlas]] to confirm that the Dark Weaver was once imprisoned within [[Mrak'n A'plana]].  After imprisoning her, the gods return to the sky.
+- During the night, the Custodian kills a monster.
