@@ -1,3 +1,0 @@
-Stormbringer is a [[7thSea/Syrneth|Syrneth]] artifact pursued by [[7thSea/Saoirse|Saoirse]] and [[7thSea/Rafe Gage|Rafe Gage]] that is supposedly hidden in a [[7thSea/Syrneth|Syrneth]] ruin located on the coast of **Ifri**.  Legends vary about its capabilities, but most revolve around the artifact's ability to control weather.  According to the version of the legend that [[7thSea/Saoirse|Saoirse]] has access to, the [[7thSea/Syrneth|Syrneth]] of Ifri were able to hold off an armada of other [[7thSea/Syrneth|Syrneth]] using the power of the device
-
-The exact location is still being determined, but we know that it requires the special cypher disc that [[7thSea/Rafe Gage|Rafe]] received anonymously to locate/open the ruin that contains it.

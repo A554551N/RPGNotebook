@@ -1,7 +1,7 @@
 **Affiliation:** [[Brotherhood of the Coast]], [[Avalon]], the [[Vengeance]]
 
 ## Current Story
-Locate and retrieve the [[Stormbringer]] before her husband [[7thSea/Rafe Gage|Rafe Gage]]
+Locate and retrieve the [[Stormbringer]] before her husband [[Rafe Gage|Rafe Gage]]
 
 ## Backgrounds
 - **Avalonian Privateer** - Earn a Hero Point when you defeat enemies of the Crown of Avalon
