@@ -9,4 +9,4 @@
 	- The [[Captain Holst|Captain]] appears in the doorway and offers [[Saoirse]] safety from the monster if she surrenders.  She refuses.
 	- The two fight belowdecks, [[Saoirse]] trying to escape while the Hexenwerker does his best to retrieve the stolen drafts.
 	- Abovedeck, the heroes realize that loud noises disorient the creature and use that to their advantage to help survive.
-	- 
+	- Vermaidenschlaf = Eisen battlefield crack
