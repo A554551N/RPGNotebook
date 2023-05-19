@@ -4,7 +4,7 @@
 
 - [[Giovanni Bernoulli|Giovanni]] shows up early the next morning with breakfast
 - it's revealed that Gustav is taking anti-vampire precautions
-- Giovanni agress to allowing Saoirse to take [[Tessera Bernoulli]] aboard her ship to help locate the Stormbringer in Ifri, but only if she promises to return the fate witch to Bernoulli within 3 months.
+- Giovanni agress to allowing [[Saoirse]] to take [[Tessera Bernoulli]] aboard her ship to help locate the Stormbringer in Ifri, but only if she promises to return the fate witch to Bernoulli within 3 months.
 - Tessera and her servant Ginestra arrive to talk terms with Saoirse
 	- Saoirse suggests that she will try to find a way for Tessera to escape the ship during her time with the Vengeance.
 	- Tessera warns Saoirse that Gespucci [[Bernoulli]] will have her killed if the witch doesn't return as agreed.
