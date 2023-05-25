@@ -21,7 +21,7 @@
 		{"id":"caca9adda2484e42","fromNode":"dc24cf619e3dfa30","fromSide":"top","toNode":"33b71abd612ebde1","toSide":"right","label":"A Friend...perhaps, a lover?"},
 		{"id":"e1d9880179ae841d","fromNode":"a196e9cdf59b24dc","fromSide":"left","toNode":"a8f0bb535381528a","toSide":"right","color":"1","label":"Tempted"},
 		{"id":"ade1fd790f8919c0","fromNode":"b749a4772b72cac9","fromSide":"top","toNode":"a8f0bb535381528a","toSide":"bottom","color":"1","label":"Wants them for the Front"},
-		{"id":"84e04125107412ed","fromNode":"33b71abd612ebde1","fromSide":"left","toNode":"a8f0bb535381528a","toSide":"top","label":"Wants"},
+		{"id":"84e04125107412ed","fromNode":"33b71abd612ebde1","fromSide":"left","toNode":"a8f0bb535381528a","toSide":"top","label":"Wants to Destroy"},
 		{"id":"1881b43206dda000","fromNode":"5d6cae257c00214f","fromSide":"left","toNode":"a8f0bb535381528a","toSide":"right","color":"1","label":"Too good a weapon to waste"},
 		{"id":"ec9430839a0a2592","fromNode":"f957e3e07ab4808a","fromSide":"left","toNode":"a3005d2038bbd658","toSide":"right","toEnd":"none","color":"1","label":"Enemies"},
 		{"id":"a6b55a1f6eada96c","fromNode":"33b71abd612ebde1","fromSide":"left","toNode":"5e4a685f00da8f6f","toSide":"right","color":"4","label":"Wants lightsaber training"},
