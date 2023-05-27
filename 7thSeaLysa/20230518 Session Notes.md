@@ -9,4 +9,12 @@
 	- The [[Captain Holst|Captain]] appears in the doorway and offers [[Saoirse]] safety from the monster if she surrenders.  She refuses.
 	- The two fight belowdecks, [[Saoirse]] trying to escape while the Hexenwerker does his best to retrieve the stolen drafts.
 	- Abovedeck, the heroes realize that loud noises disorient the creature and use that to their advantage to help survive.
-	- Vermaidenschlaf = Eisen battlefield crack
+	- The fight wraps up with [[Giovanni Bernoulli|Giovanni]] joining [[Saoirse]] belowdecks and forcing the Captain to surrender.
+- After returning to the church, they encounter [[Klaus]], a knight of Der Kreuzritter
+	- Klaus reads the documents to learn how to dismantle the [[Blutsaugr]]
+	- He recognizes that [[Gustav]] is abusing [[Vermaidenschlaf]], an Eisen concoction that allowed men on the battlefield to remaind conscious far beyond reasonable limits.
+	- [[Vermaidenschlaf]] is dangerous because it makes the drinker go insane if use is not limited.
+	- After helping [[Gustav]] to give up the potion, [[Klaus]] offers him a coin marked with the Rose and Cross and invites him to visit the order in Eisen.
+- Knowing how to defeat the Blutsaugr, the crew waits for morning and removes its hexenwerk Key (a huge spike driven through the breastbone that contains the potions keeping the body unnaturally alive and docile.)
+- The two apprentices of [[Captain Holst]] are still free in [[Isle of Bernoulli|Bernoulli]]
+#sessionNotes 
