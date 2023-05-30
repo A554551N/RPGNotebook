@@ -1,0 +1,1 @@
+**Strong Start:** Tanithil informs the party that they cannot leave without the Crown.
