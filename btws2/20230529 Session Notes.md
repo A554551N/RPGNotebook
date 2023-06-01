@@ -22,3 +22,4 @@
 		- Any Teller destroyed during combat self-destruct to prevent their keys from being captured.
 	- The police are called (the zone Alarm level goes up by 1), but no police force will ever arrive.
 - Eventually [[Krim]] is able to Hypnotic Pattern [[Skamir]] and drag him out of the vault.
+#sessionNotes 

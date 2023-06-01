@@ -5,3 +5,4 @@
 	- Krim also gets visioned, she sees elves marching arm in arm with weird mutated dwarves.  She dies of an arrow in the back.
 - Amelio and Krim convince two of the spirits to rest by promising to return their bones to the Kingdom.
 - [[Tanithil]] informs the group that the Key to the Mountain is ready, and dispatches a courier to deliver it at the beginning of next session.
+#sessionNotes 
