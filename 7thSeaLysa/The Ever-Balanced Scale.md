@@ -8,3 +8,7 @@
 	- Nothing on the menu has a price, you always get exactly what you paid for.
 - There are no waiters.  At some point after announcing your order to the empty air, the guests become distracted by the fine atmosphere and conversation and then discover that the food has been sitting in front of them for a moment or two.
 - According to regular guests, the people in the same dining room as you aren't there by chance.  Coincidence is a strange thing within the Scale
+
+> [!info]- Tags
+> #7thSea 
+

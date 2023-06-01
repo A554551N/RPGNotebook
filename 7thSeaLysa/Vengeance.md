@@ -10,3 +10,7 @@ The Vengeance is an Avalonian Brig owned by [[Saoirse]].  It flies both an Avalo
 ### Notable Crew
 #### 'Big Boots' Ashton
 Formerly " 'Ard a 'Earin' " Ashton, the lanky midshipman recently acquired a new pair of fancy boots that he just won't shut up about.
+
+> [!info]- Tags
+> #7thSea 
+

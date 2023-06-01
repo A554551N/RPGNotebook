@@ -2,3 +2,6 @@ The Cypher Disc was stolen by an unknown group from the **Castle of Carleon** in
 
 # What is the Disc
 - According to [[Rafe Gage|Rafe]], it allows one to decipher ancient [[Syrneth]] charts and codes to locate their ruins.
+
+> [!info]- Tags
+> #7thSea 

@@ -1,6 +1,5 @@
 **Villainy** 10 | **Strength 4** | **Influence (Current)** 4
 **Affiliation:** [[Avalon]]
-#villain
 # Image
 ![[baronetsumner.png]]
 # Summary
@@ -35,3 +34,7 @@ Spend a **Danger Point** to keep another character from drawing a weapon, starti
 
 ## An Honest Misunderstanding
 Spend a **Danger Point** to *reinterpret* something you just said in a way that everyone around believes that you are paying the subject of your threat or insult a compliment.
+
+> [!info]- Tags
+> #7thSea #villain 
+

@@ -7,3 +7,7 @@ When she demanded to know what happened, Rafe admitted that he was on the run fr
 In the years since his disappearance, he has been seeking the [[Syrneth]] artifact [[Stormbringer]] for his patrons in the [[Isle of Bernoulli|Bernoulli]] family while watching over his shoulder for Avalonian spies, as well as the mysterious group that provided him with the [[Cypher Disc|Disc]] to begin with.
 
 When we saw him last he was squaring off with an Avalonian Spy ([[Mr Morton|Mr Morton]]) and might be dead.
+
+> [!info]- Tags
+> #7thSea 
+

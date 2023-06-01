@@ -19,3 +19,7 @@ The Cobbler Family resides in the village of Ashenborough in Avalon
 
 # Mom
 # Dad
+
+> [!info]- Tags
+> #7thSea 
+

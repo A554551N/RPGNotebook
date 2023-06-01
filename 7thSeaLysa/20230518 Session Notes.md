@@ -17,4 +17,7 @@
 	- After helping [[Gustav]] to give up the potion, [[Klaus]] offers him a coin marked with the Rose and Cross and invites him to visit the order in Eisen.
 - Knowing how to defeat the Blutsaugr, the crew waits for morning and removes its hexenwerk Key (a huge spike driven through the breastbone that contains the potions keeping the body unnaturally alive and docile.)
 - The two apprentices of [[Captain Holst]] are still free in [[Isle of Bernoulli|Bernoulli]]
-#sessionNotes 
+
+> [!info]- Tags
+> #sessionNotes #7thSea 
+

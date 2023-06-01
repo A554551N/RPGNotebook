@@ -9,3 +9,7 @@ La Bucca has become a hub of Thean intrigue, a place where ambassadors of the va
 
 # Map of La Bucca
 ![[map_labucca.png]]
+
+> [!info]- Tags
+> #7thSea 
+

@@ -9,4 +9,7 @@
 	- Morton tells Saoirse of a tree in the forest that has sap and woood that repels spirits.  A barrel made of the stuff would keep a ghost in.
 	- The forest has a protector that values seeds from distant lands and for the dead to be interred within the forest  It also values a good story and a worthy cause.  It will become angry when a tree is harmed.
 	- Morton secured an invitation in the name of **Frances Mereworth** to a party that Lord Sumner is throwing (for [[GM Story - Enemy of the Crown]])
-#sessionNotes 
+
+> [!info]- Tags
+> #sessionNotes #7thSea 
+

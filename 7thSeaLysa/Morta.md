@@ -11,4 +11,7 @@ During the initial robbery, she encountered [[Saoirse]] and the two fought.  [[S
 During the ensuing [[Isle of Bernoulli]] incident, Morta and [[Saoirse]] would cross blades once more on the hold of the ship that the assassin had sailed in on.  In this, [[Saoirse]] once again emerged triumphant.
 
 When we saw Morta last, she was bound for [[Caligari]] territory to advise the Prince of the House that she had failed.
-#villain 
+
+> [!info]- Tags
+> #7thSea #villain 
+

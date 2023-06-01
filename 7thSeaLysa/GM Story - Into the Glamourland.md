@@ -1,5 +1,5 @@
-#GMStory
-> **Story Completed** 2023/04/14
+
+> [!success]- Completed [[20230414 Session Notes|04/14/2023]]
 
 # Synopsis
 Jacob Cooper made a deal with the Fae to spare his son Stephen's life when it was threatened by plague.  Now the Fae has returned to demand payment: a barrel that can keep a spirit from escaping, prepared to be collected at the end of the week.
@@ -43,3 +43,7 @@ Removing Wood From the Heart is an Action Sequence.  A barrel will require six s
 	- The Guardian spends its next action subsuming the dead, spending 1 raise to do so.
 - Plant a foreign tree (2 raises, one to dig the hole, one to plant it.)
 	- The Guardian takes joy in the new tree, slowly making it part of itself.  It will spend 3 raises doing so rather than attacking.
+
+> [!info]- Tags
+> #7thSea #GMStory 
+

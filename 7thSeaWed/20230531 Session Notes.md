@@ -14,3 +14,6 @@
 	- [[Sandro]] found a book of his own satire in Varnham's study.  Inside is a letter from the warden of La Buca informing Varnham that the 'prisoner was still secure beneath the island'.  He also found a letter written in ~~red ink~~ **blood** that says "I haven't forgotten you" with a date a little over a week ago.
 	- Tristan tells the group that after receiving the letter, Varnham went into a frenzy of drinking and preparation.  It worried Tristan immensely.  A few days prior to the party's arrival, Varnham was found in the armory holding a gun with a bullet hole in his head.
 - Next session will open with an **Action Sequence** in the Underwater Syrneth Ruin where the knife comes from.
+
+> [!info]- Tags
+> #sessionNotes  #7thSea 

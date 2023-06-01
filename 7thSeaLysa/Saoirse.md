@@ -11,4 +11,6 @@ Locate and retrieve the [[Stormbringer]] before her husband [[Rafe Gage|Rafe Gag
 - **Virtue - Intuitive** - Activate to ask the GM one yes or no question about an NPC.  The GM must answer honestly and be generous with their answer.
 - **Hubris - Stubborn** - Receive a Hero Point when your Hero is stubborn and refuses to change her mind in the face of evidence.
 
-#lysa #pc
+> [!info]- Tags
+> #7thSea #lysa #pc
+

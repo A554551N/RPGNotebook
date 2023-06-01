@@ -1,4 +1,3 @@
-#sessionNotes 
 **Location:** [[Avalon]], **The Northern Trade Sea**
 
 - [[Saoirse]] tries to convince [[Captain Dennis Moss]] to use his ship to pursue Sumner's Hired Pirates ([[GM Story - Enemy of the Crown]]), but realizes she's not even sure if she's getting paid yet (and so can't offer that payment to Dennis.)
@@ -24,3 +23,7 @@
 	- Halla survives the fight and uses *Seidr* to identify her would-be killer (Gustav) and to learn the location of the jewels.
 		- This marks the next step of Halla's scheme to capture the Avalonian Jewels.
 	- This means that [[Baronet Bartram Sumner|Sumner]]'s Scheme is failed.  Allerton successfully delivered the jewels.
+
+> [!info]- Tags
+> #sessionNotes #7thSea 
+

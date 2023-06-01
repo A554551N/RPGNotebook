@@ -6,3 +6,6 @@ He met [[Saoirse]] at the home of [[Giovanni Bernoulli]] and attempted to recrui
 
 When we last saw him he was squaring off with the fugitive Baron in his office on the [[Isle of Bernoulli]].
 
+> [!info]- Tags
+> #7thSea 
+

@@ -8,3 +8,7 @@ He met [[Saoirse]] after the latter broke into the home of her ex-husband [[Rafe
 During the course of the investigation, Giovanni was nearly killed during a police raid on the ship that [[Morta]] had sailed in on, but was rescued by [[Egis Loneur]]
 
 A bit of a rake, Giovanni immediately attempted to ingratiate himself to [[Saoirse]], offering her a number of inducements only available to a man of his station ('Perhaps you'd like to take a turn about the harbor at sunset on my private launch?').  He was devastated when he learned that [[Saoirse]] hadn't been entirely honest with him about her involvement in the crime at the outset.
+
+> [!info]- Tags
+> #7thSea 
+

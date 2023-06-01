@@ -13,4 +13,5 @@ To me, they interact weirdly with the Villain resource Influence since many of t
 
 That said, Danger Points have a value at the table as a way to ensure that players don't feel cheated by a big dramatic swing.  While it might hurt in the moment, the players are at least mollified that their fortunes are improved by the DP spend.
 
-#mechanicsOnly 
+> [!info]- Tags
+> #mechanicsOnly #7thSea 

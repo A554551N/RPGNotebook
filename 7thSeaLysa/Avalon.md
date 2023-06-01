@@ -6,3 +6,7 @@ Avalon is a nation of the **Glamour Isles**.  Queen Elaine rules the United King
 	- [[Saoirse]]'s family are Avalonian and live outside of Carleon.
 - [[Mr Morton]] is [[Sidhe]], and currently serves as a spy abroad for Queen Elaine.
 - [[Baronet Bartram Sumner]] is from here and works for the Sea Dogs as Chief Provisioner
+
+> [!info]- Tags
+> #7thSea 
+

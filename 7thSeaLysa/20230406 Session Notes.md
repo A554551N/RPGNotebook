@@ -8,4 +8,6 @@
 - [[Saoirse]] allows the shipwright to believe she is still a member of **Elaine's Sea Dogs**.  They put the bill to the Royal Treasury.
 - As she leaves her meeting with the shipwright, [[Saoirse]] spotted [[Mr Morton]] amongst a crowd of men on the dock, but he wasn't there when she looked closer.
 
-#sessionNotes
+> [!info]- Tags
+> #sessionNotes #7thSea 
+

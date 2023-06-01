@@ -14,3 +14,7 @@
 - Rescued [[Saoirse]] from bounty hunters off the coast of **Castille**.
 - Went to dinner together at [[The Ever-Balanced Scale]]
 - They boned, it wasn't big deal to Saoirse, but it **was** to Dennis.
+
+> [!info]- Tags
+> #7thSea 
+

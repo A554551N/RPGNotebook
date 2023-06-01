@@ -6,3 +6,7 @@ Recently, they elevated [[Rafe Gage]] to the rank of Baron so that he would aid 
 
 ## Notable Members
 - [[Giovanni Bernoulli]]
+
+> [!info]- Tags
+> #7thSea 
+

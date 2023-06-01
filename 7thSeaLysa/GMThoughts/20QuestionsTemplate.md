@@ -19,3 +19,7 @@
 ## Is your Hero a member of a guild, gentle's club, or secret society?
 ## What does your Hero think of Sorcery?
 ## If you could, what advice would you give your Hero?
+
+> [!info]- Tags
+> #7thSea 
+

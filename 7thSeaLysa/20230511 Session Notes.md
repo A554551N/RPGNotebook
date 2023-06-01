@@ -24,4 +24,6 @@
 - Saoirse demands answers, to which the Captain merely laughs and asks "You believe that I have a dangerous monster in the hold.  You saw it leave, and now you walk straight into its lair?"
 - As if on cue, Giovanni is suddenly dragged out of sight by the Blutsaugr.
 
-#sessionNotes 
+> [!info]- Tags
+> #sessionNotes #7thSea 
+

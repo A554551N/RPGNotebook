@@ -7,3 +7,7 @@
 # Traits
 - Drinks
 - Thick Inish accent
+
+> [!info]- Tags
+> #7thSea 
+

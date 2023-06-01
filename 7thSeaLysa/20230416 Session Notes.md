@@ -13,4 +13,7 @@
 	- During the seduction, [[Egis Loneur|Egis]] sneaks into Sumner's office and finds a hidden ledger.  He notes a number of payments to someone called "Halla" and a list of dates and amounts alongside some initials.
 	- Egis has to sneak out quickly as Sumner arrives in the study to give Thorsson money, he's spotted by a member of the security team re-entering the party suspiciously.
 	- Sumner invites Saoirse to dinner sometime over the next couple of days.  She accepts.
-#sessionNotes 
+
+> [!info]- Tags
+> #sessionNotes #7thSea 
+

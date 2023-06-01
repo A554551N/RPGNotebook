@@ -7,3 +7,7 @@ The Syrne were an ancient people that predate men on Theah.  What little is know
 # Known Artifacts
 - [[Stormbringer]]
 - [[Cypher Disc]]
+
+> [!info]- Tags
+> #7thSea 
+

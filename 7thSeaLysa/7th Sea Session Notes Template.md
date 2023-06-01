@@ -3,4 +3,7 @@
 *A brief summary from last time*
 
 - Notes start here
-#sessionNotes
+
+> [!info]- Tags
+> #sessionNotes
+
