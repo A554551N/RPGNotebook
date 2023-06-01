@@ -8,3 +8,5 @@
 - [[Countess Daniele Lucette D'Plamondon|Daniele]]'s sister is named Margaux
 - The party infiltrates the village of [[Geistwynd]] and interrupts the blood rite.  Jean-Paul is killed by Daniele before succumbing to her wounds.
 - The party reunites 10 years later in the city of Wandesboro in Avalon for the funeral of Jonathan Varnham (Knight of Avalon)
+	- The party is met by **Tristan Price**, local head of the Explorers' Society and Jonathan's lover.
+	- They've been invited to stay at 
