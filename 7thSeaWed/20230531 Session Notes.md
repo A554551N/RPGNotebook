@@ -1,0 +1,8 @@
+- The original crew includes:
+	-  Jonathan Varnham (Knight of Avalon)
+	- Jean-Paul d'Plamandon (Montaigne Courtier)
+	- Rufino Amado Augusto Juanfran Cardozo (Castillian Duelist)
+	- Bolvangr Krause (Eisen Mercenary)
+	- Nikola Nurmagomedov (Ussuran Knight)
+	- Sandro di Giovanni (Vodacce Satirist)
+- 
