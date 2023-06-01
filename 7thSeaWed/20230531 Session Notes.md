@@ -2,9 +2,9 @@
 	-  ~~Jonathan Varnham (Knight of Avalon)~~ Dead by suicide
 	- ~~Jean-Paul d'Plamandon (Montaigne Courtier)~~ Dead by knife
 	- ~~Rufino Amado Augusto Juanfran Cardozo (Castillian Duelist)~~ ~~Dead by being shoved into a nightmare hole~~ Escaped the nightmare hole
-	- Bolvangr Krause (Eisen Mercenary)
-	- Nikola Nurmagomedov (Ussuran Knight)
-	- Sandro di Giovanni (Vodacce Satirist)
+	- [[Bolvangr]] Krause (Eisen Mercenary)
+	- [[Nikola]] Nurmagomedov (Ussuran Knight)
+	- [[Sandro]] di Giovanni (Vodacce Satirist)
 - [[Countess Daniele Lucette D'Plamondon|Daniele]]'s sister is named Margaux
 - The party infiltrates the village of [[Geistwynd]] and interrupts the blood rite.  Jean-Paul is killed by Daniele before succumbing to her wounds.
 - The party reunites 10 years later in the city of Wandesboro in Avalon for the funeral of Jonathan Varnham (Knight of Avalon)
