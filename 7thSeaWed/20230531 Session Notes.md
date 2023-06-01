@@ -5,4 +5,5 @@
 	- Bolvangr Krause (Eisen Mercenary)
 	- Nikola Nurmagomedov (Ussuran Knight)
 	- Sandro di Giovanni (Vodacce Satirist)
-- 
+- [[Countess Daniele Lucette D'Plamondon|Daniele]]'s sister is named Margaux
+- The party infiltrates the village of [[Geistwynd]] and interrupts the blood rite
