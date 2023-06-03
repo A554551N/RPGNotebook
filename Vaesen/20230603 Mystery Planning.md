@@ -4,6 +4,12 @@ Now a man grown, he rules his lands with a hard hand just like his father taught
 
 So far the arrangement has gone swimmingly, while the rebels might still desire to oust him, they cannot do so without earning the ire of the worm.  It uses its magic to push people away from a destructive course, but Bendz has convinced her that killing one of the ringleaders will solve the problem permanently.
 
+# Countdown
+1. A judge arrives from (Nearby City)
+2. Additional villagers are enthralled by the Lindworm to testify against Oleana
+3. Oleana is declared guilty by the judge.
+**Catastrophe**: Oleana is executed
+
 # Clues
 - A shining scale
 - an old crone who remembers leaving offerings in the pool as a child
@@ -13,6 +19,10 @@ So far the arrangement has gone swimmingly, while the rebels might still desire 
 - There is a cache of weaponry concealed inside of Johann's house
 - Oleana's house contains hidden letters between her, Johann, Miriam, and Isac describing their plan for taking the castle.
 - Some of the villagers know that Johann and Oleana were conspiring against the Count.  Most people though, think they were having an affair.
+- Miriam has a library of folklore that describes a Lindworm with methods of dealing with them.
+- Torsten's personality has changed dramatically recently
+- The Count's coffers are running low from paying the Worm
+- 
 # Countdown
 # The Lindworm, Glitterpool
 **Might** 12 | **Body Control** 8 | **Magic** 8 | **Manipulation** 7 | **Fear** 2
@@ -65,7 +75,15 @@ Isac is the town's blacksmith.  Up until recently he has been working against th
 This makes it all the more surprising when he comes out in support of the Count.  He has spent his evenings bellowing to anyone who will listen at the tavern that the problems of the village are the fault of witches and monsters, not the Count.
 
 ## Miriam Sparv
-Miriam Sparv is the mistress of the Arjeplog school.  She is friendly and outgoing, but worried about the change that's come over Torsten (whom she fancies) and the death of her friend Johann
+Miriam Sparv is the mistress of the Arjeplog school.  She is friendly and outgoing, but worried about the change that's come over Torsten (whom she fancies) and the death of her friend Johann.  She knows that Oleana and Johann weren't romantic, but can't explain their connection without endangering herself.
+
+Miriam has a small but functional library of folklore collected from the older folks around town that she is collecting 'For Posterity'
+
+## Count Bendz
+Count Bendz is lord of Arjeplog County.  He's a hard man, but he disguises it under a thin veneer of sociability.  His father has left the county in debt, and he is pushing the serfs and villagers hard to find more money to pay his creditors.  The people refuse to be pushed further, and a revolution is brewing in the village.
+
+He is superstitious, and becoming paranoid about visitors to the village (believing that they might be associates of the rebellion)
+
 # Hook
 *A letter received by Sven several weeks after the events at the Black Cat Inn*
 
