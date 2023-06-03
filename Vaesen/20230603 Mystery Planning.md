@@ -54,7 +54,18 @@ Unfortunately he was a bit too outspoken for the Count's liking, and he was kill
 ## Oleana Lindgren
 Oleana is a baker and another member of the rebellion against Bendz.  She was smarter about keeping her allegiances quiet, but not quiet enough.  The Lindworm used her as a weapon to kill Johann (at Bendz' insistance).  She was immediately caught and is now being held in the village's meagre jail until the Count is ready to see her.
 
-A search of her house will reveal let
+A search of her house will reveal a cache of preserved food and medicine under the floorboards.
+
+## Isac Lindgren
+Tobjorn is a stubborn older man who works at the carriage post.  He is married to Oleana, and is aware that she's involved in something with folks in town.  He is suspicious that she is having an affair, which is seemingly confirmed by the murder.
+
+## Torsten Bremen
+Isac is the town's blacksmith.  Up until recently he has been working against the Count in secret, mending armor and manufacturing weapons.  Broad and tall, with a dark beard and a pronounced limp.  He is known to talk as little as possible.
+
+This makes it all the more surprising when he comes out in support of the Count.  He has spent his evenings bellowing to anyone who will listen at the tavern that the problems of the village are the fault of witches and monsters, not the Count.
+
+## Miriam Sparv
+Miriam Sparv is the mistress of the Arjeplog school.  She is friendly and outgoing, but worried about the change that's come over Torsten (whom she fancies) and the death of her friend Johann
 # Hook
 *A letter received by Sven several weeks after the events at the Black Cat Inn*
 
