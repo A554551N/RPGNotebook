@@ -42,3 +42,16 @@ Slitherpool just wants to be remembered again, she would be willing to stop aidi
 - [ ] Cautious -1
 - [ ] Wounded -2 (bargains for its life)
 - [ ] Broken - Hurls itself headlong into its enemies and then flees, returns after 1d6 hours.
+
+# Hook
+*A letter received by Sven several weeks after the events at the Black Cat Inn*
+
+Greetings brother,
+It's been so long since our days on the battlefield together, and to be honest I thought you dead.  Imagine my surprise when I heard from another fellow that they'd seen you alive and well in Upsala.
+
+Though catching up would be reason enough to seek you out, I must admit I have an ulterior motive in my letter.  It's somewhat delicate and I'd prefer to discuss it in person at my home in Arjeplog (we're about three days north of Upsala by train and carriage) if you're willing.  The situation is queer and I'm not sure I could put it into writing even if I were sure this letter wouldn't be intercepted.
+
+If you're willing, I will expect you in Arjeplog in no more than two weeks.  I can't wait to see you again.
+
+Your Friend,
+Johann
