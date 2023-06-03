@@ -10,7 +10,9 @@ So far the arrangement has gone swimmingly, while the rebels might still desire 
 - The victim was outspoken in his opposition to the Count.
 - Other outspoken people have suddenly stopped being so, and are instead speaking of how mistaken they were.
 	- Under close examination these people have a strange metallic gleam in their eyes.
-- 
+- There is a cache of weaponry concealed inside of Johann's house
+- Oleana's house contains hidden letters between her, Johann, Miriam, and Isac describing their plan for taking the castle.
+- Some of the villagers know that Johann and Oleana were conspiring against the Count.  Most people though, think they were having an affair.
 # Countdown
 # The Lindworm, Glitterpool
 **Might** 12 | **Body Control** 8 | **Magic** 8 | **Manipulation** 7 | **Fear** 2
@@ -43,6 +45,16 @@ Slitherpool just wants to be remembered again, she would be willing to stop aidi
 - [ ] Wounded -2 (bargains for its life)
 - [ ] Broken - Hurls itself headlong into its enemies and then flees, returns after 1d6 hours.
 
+# NPCs
+## Johann Kurtz
+Johann is an old soldier and a former friend of Sven's.  He has been suffering under the rule of Count Bendz with the rest of the village, but his soldier spirit has led to him building up a resistance against the Count.  Along with a few other ringleaders he has been collecting medicine, food, and weapons to use in the upcoming battle.
+
+Unfortunately he was a bit too outspoken for the Count's liking, and he was killed by a villager acting as the Lindworm's puppet.
+
+## Oleana Lindgren
+Oleana is a baker and another member of the rebellion against Bendz.  She was smarter about keeping her allegiances quiet, but not quiet enough.  The Lindworm used her as a weapon to kill Johann (at Bendz' insistance).  She was immediately caught and is now being held in the village's meagre jail until the Count is ready to see her.
+
+A search of her house will reveal let
 # Hook
 *A letter received by Sven several weeks after the events at the Black Cat Inn*
 
