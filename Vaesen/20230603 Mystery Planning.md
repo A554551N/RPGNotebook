@@ -6,9 +6,10 @@ So far the arrangement has gone swimmingly, while the rebels might still desire 
 
 # Clues
 - A shining scale
-- an old crone who remembers leaving offerings in the pool
+- an old crone who remembers leaving offerings in the pool as a child
 - The victim was outspoken in his opposition to the Count.
-- Other outspoken people have suddenly stopped being so, and are instead speaking of how much they enjoy the Count's rule.
+- Other outspoken people have suddenly stopped being so, and are instead speaking of how mistaken they were.
+	- Under close examination these people have a strange metallic gleam in their eyes.
 - 
 # Countdown
 # The Lindworm, Glitterpool
