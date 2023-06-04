@@ -17,7 +17,7 @@ So far the arrangement has gone swimmingly, while the rebels might still desire 
 - Other outspoken people have suddenly stopped being so, and are instead speaking of how mistaken they were.
 	- Under close examination these people have a strange metallic gleam in their eyes.
 - There is a cache of weaponry concealed inside of Johann's house
-- Oleana's house contains hidden letters between her, Johann, Miriam, and Isac describing their plan for taking the castle.
+- Oleana's house contains hidden letters between her, Johann, and Miriam describing their plan for recruiting villagers and taking the castle.
 - Some of the villagers know that Johann and Oleana were conspiring against the Count.  Most people though, think they were having an affair.
 - Miriam has a library of folklore that describes a Lindworm with methods of dealing with them.
 	- That library might also contain records of older people's accounts of their 'alliance' with the spirit of the pool.
