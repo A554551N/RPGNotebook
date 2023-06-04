@@ -9,7 +9,7 @@
 - They end up following the constable to the jail anyway.  Sven begins arguing loudly with the officer to allow Astrid to gain the confidence of Oleana, who is in the jail.
 	- Sven gets himself arrested on purpose in order to speak to Oleana
 	- Oleana opens up and tells him about her dream where she saw the glowing lanterns just before the murder
-- Astrid identifies the creature scale as belonging to a Lindworm
+- Astrid identifies the creature scale as belonging to a **Lindworm**
 - Astrid travels out of the village with the carriage driver (Isac).  She determines that he is **not** involved in the rebellion.
 - Astrid meets Count Niklaus Bendz, he is very chivalrous but full of nervous energy.
 	- During the meeting Bendz reveals that his father died years ago, he now occupies the castle alone with the servants.
