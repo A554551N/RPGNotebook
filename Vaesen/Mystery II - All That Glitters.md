@@ -11,18 +11,18 @@ So far the arrangement has gone swimmingly, while the rebels might still desire 
 **Catastrophe**: Oleana is executed
 
 # Clues
-- A shining scale
-- an old crone who remembers leaving offerings in the pool as a child
-- The victim was outspoken in his opposition to the Count.
-- Other outspoken people have suddenly stopped being so, and are instead speaking of how mistaken they were.
-	- Under close examination these people have a strange metallic gleam in their eyes.
-- There is a cache of weaponry concealed inside of Johann's house
-- Oleana's house contains hidden letters between her, Johann, and Miriam describing their plan for recruiting villagers and taking the castle.
-- Some of the villagers know that Johann and Oleana were conspiring against the Count.  Most people though, think they were having an affair.
-- Miriam has a library of folklore that describes a Lindworm with methods of dealing with them.
+- [ ] A shining scale
+- [ ] an old crone who remembers leaving offerings in the pool as a child
+- [ ] The victim was outspoken in his opposition to the Count.
+- [ ] Other outspoken people have suddenly stopped being so, and are instead speaking of how mistaken they were.
+	- [ ] Under close examination these people have a strange metallic gleam in their eyes.
+- [x] There is a cache of weaponry concealed inside of Johann's house
+- [ ] Oleana's house contains hidden letters between her, Johann, and Miriam describing their plan for recruiting villagers and taking the castle.
+- [ ] Some of the villagers know that Johann and Oleana were conspiring against the Count.  Most people though, think they were having an affair.
+- [ ] Miriam has a library of folklore that describes a Lindworm with methods of dealing with them.
 	- That library might also contain records of older people's accounts of their 'alliance' with the spirit of the pool.
-- Torsten's personality has changed dramatically recently
-- The Count's coffers are running low from paying the Worm
+- [ ] Torsten's personality has changed dramatically recently
+- [ ] The Count's coffers are running low from paying the Worm
 
 # Countdown
 # The Lindworm, Glitterpool
