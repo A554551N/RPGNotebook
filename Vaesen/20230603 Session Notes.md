@@ -14,6 +14,7 @@
 - Astrid meets Count Niklaus Bendz, he is very chivalrous but full of nervous energy.
 	- During the meeting Bendz reveals that his father died years ago, he now occupies the castle alone with the servants.
 	- He is very rude to the servants but very polite to Astrid
+- Sven is released from the jail and taken to the count on an old broken-down nag.
 > [!info]- Tags
 > #sessionNotes #vaesen 
 > 
