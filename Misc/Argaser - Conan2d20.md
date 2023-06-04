@@ -5,18 +5,14 @@
 |:-------:|:---------:|:-----:|:------------:|:------------:|:-----------:|:---------:|
 |    9    |     10     |   9   |      7       |      10       | 7           | 7         |
 
-| Element  | Result         | Mech Effect                       | Other                 |
-| -------- | -------------- | --------------------------------- | --------------------- |
-| Homeland | Gunderland     | Hunter (Talent)                   | Language: Aquillonian |
-| Caste    | Priesthood     | Priest (Talent), Subject (Talent) | Skill: Lore           |
-| Story    | Forced Penance | Criminal Past (Trait)             |                       |
+| Element  | Result         | Mech Effect                       | Other                              |
+| -------- | -------------- | --------------------------------- | ---------------------------------- |
+| Homeland | Gunderland     | Hunter (Talent)                   | Language: Aquillonian              |
+| Caste    | Priesthood     | Priest (Talent), Subject (Talent) | Skill: Lore (+1 Expertise & Focus) | 
+| Story    | Forced Penance | Criminal Past (Trait)             |                                    |
 
 # Story
 Whatever offense was committed, you didn’t do it.  Somehow you were blamed, and another bore witness against you, falsely. You tried to explain this when you were accused, but the high priest did not care. Your penance was brief, but unduly harsh. What were you accused of?  What was the penance? Do you know who incriminated you? Do you plot revenge?
-
-Argas knew from a young age that the glories of the cult of Mitra were false, but he didn't know the right way until later.  Venturing far from home in pursuit of a wandering farm animal, Argas wandered into one of the sacred groves of Bori and inadvertently interrupted the ritual.  The priests, worried that he would report them for their illicit worship, intended to kill him.  Something in his eyes stayed their hand, and he remained among them to learn their ways.  His family hasn't seen him since.
-
-He rose rapidly through the hidden hierarchy of the temple and was in competition for another man to be named the First Son of Bori.  The day before the augury was to be held to determine who would lead the temple, a whisper ran through the temple that Argas had been seen at the temple of Mitra in the nearby town, that he had offered the Aquillonian god veneration.  A lie, he insisted, but a persuasive one given that he *had* gone down to the town just days before.  The augury was completed, his foe was selected, and he was given the "opportunity" to repent his sins by 
 
 # Talents
 ## Hunter
