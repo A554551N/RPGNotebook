@@ -11,7 +11,7 @@ So far the arrangement has gone swimmingly, while the rebels might still desire 
 **Catastrophe**: Oleana is executed
 
 # Clues
-- [ ] A shining scale
+- [x] A shining scale
 - [ ] an old crone who remembers leaving offerings in the pool as a child
 - [ ] The victim was outspoken in his opposition to the Count.
 - [ ] Other outspoken people have suddenly stopped being so, and are instead speaking of how mistaken they were.

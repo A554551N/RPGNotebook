@@ -5,7 +5,9 @@
 	- Astrid finds Johann's journal hidden in the secret compartment in his desk
 	- Sven finds weapons cached inside of Johann's mattress
 	- Johann met with Siv (another soldier from Sven's past) a few days before sending the letter to Sven.
-	- Constable Alfred Haglund arrives and is about to arrest them for snooping around 
+	- Constable Alfred Haglund arrives and is about to arrest them for snooping around.  Astrid leans on her connection to the nobility to be let free.
+- They end up following the constable to the jail anyway.  Sven begins arguing loudly with the officer to allow Astrid to gain the confidence of Oleana, who is in the jail.
+	- Sven gets himself arrested on purpose in order to 
 > [!info]- Tags
 > #sessionNotes #vaesen 
 > 
