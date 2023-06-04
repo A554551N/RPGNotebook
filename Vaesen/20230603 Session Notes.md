@@ -5,7 +5,7 @@
 	- Astrid finds Johann's journal hidden in the secret compartment in his desk
 	- Sven finds weapons cached inside of Johann's mattress
 	- Johann met with Siv (another soldier from Sven's past) a few days before sending the letter to Sven.
-- 
+	- Constable Alfred Haglund arrives and is about to arrest them for snooping around 
 > [!info]- Tags
 > #sessionNotes #vaesen 
 > 
