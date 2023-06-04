@@ -15,4 +15,7 @@
 	- They do this while the Sleepwalkers (everyone else in the inn) attempt to break down the cellar door and stop him.  Once the ritual is complete, the walkers wake up and don't clearly remember what happened.
 - The priest helps sell a cover story that there was some kind of gas leak(?) that made everyone sleepy.
 - Astrid and Sven reveal to Sophia that her father is dead.  This trauma awakens her family's latent talent for the Sight in her.
-#sessionNotes 
+
+> [!info]- Tags
+> #sessionNotes 
+

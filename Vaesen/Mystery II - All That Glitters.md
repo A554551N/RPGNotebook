@@ -20,9 +20,10 @@ So far the arrangement has gone swimmingly, while the rebels might still desire 
 - Oleana's house contains hidden letters between her, Johann, Miriam, and Isac describing their plan for taking the castle.
 - Some of the villagers know that Johann and Oleana were conspiring against the Count.  Most people though, think they were having an affair.
 - Miriam has a library of folklore that describes a Lindworm with methods of dealing with them.
+	- That library might also contain records of older people's accounts of their 'alliance' with the spirit of the pool.
 - Torsten's personality has changed dramatically recently
 - The Count's coffers are running low from paying the Worm
-- 
+
 # Countdown
 # The Lindworm, Glitterpool
 **Might** 12 | **Body Control** 8 | **Magic** 8 | **Manipulation** 7 | **Fear** 2
