@@ -1,15 +1,16 @@
 {
 	"nodes":[
-		{"type":"file","file":"BurningWheel/BurningStars/Din'Geletokir.md","id":"7d3a5207b23a2fb0","x":-220,"y":-180,"width":260,"height":64},
-		{"type":"file","file":"BurningWheel/BurningStars/New Sibiu.md","id":"f63d90f0f1d244e3","x":-461,"y":-180,"width":227,"height":64},
-		{"type":"file","file":"BurningWheel/BurningStars/Kamazamka.md","id":"0548bd497f72c02a","x":649,"y":-174,"width":232,"height":58},
-		{"type":"file","file":"BurningWheel/BurningStars/Mrak'n A'plana.md","id":"33c52324492e7133","x":1220,"y":-174,"width":287,"height":64},
-		{"id":"9c292be262ea359b","x":756,"y":390,"width":250,"height":60,"type":"text","text":"Map Key"},
-		{"id":"98f13dd431ea2430","x":756,"y":608,"width":250,"height":60,"type":"text","text":""},
-		{"id":"f64999c118f64d0d","x":664,"y":114,"width":370,"height":212,"type":"file","file":"BurningWheel/BurningStars/Singer in the Wastes.md"},
 		{"id":"e5e0f6703dfa597a","x":124,"y":20,"width":400,"height":400,"type":"file","file":"BurningWheel/BurningStars/The Unclaimed Lands.md"},
-		{"type":"file","file":"BurningWheel/BurningStars/Sibiu.md","id":"c6ada9eb683efdb5","x":-167,"y":-360,"width":154,"height":50},
-		{"type":"file","file":"BurningWheel/BurningStars/Envakadi.md","id":"8cba8f8190c810c4","x":-267,"y":190,"width":201,"height":60}
+		{"type":"file","file":"BurningWheel/BurningStars/Sibiu.md","id":"c6ada9eb683efdb5","x":-107,"y":-378,"width":154,"height":50},
+		{"type":"file","file":"BurningWheel/BurningStars/Din'Geletokir.md","id":"7d3a5207b23a2fb0","x":-160,"y":-198,"width":260,"height":100},
+		{"id":"f64999c118f64d0d","x":695,"y":96,"width":370,"height":212,"type":"file","file":"BurningWheel/BurningStars/Singer in the Wastes.md"},
+		{"id":"9c292be262ea359b","x":787,"y":372,"width":250,"height":60,"type":"text","text":"Map Key"},
+		{"id":"98f13dd431ea2430","x":787,"y":590,"width":250,"height":60,"type":"text","text":""},
+		{"type":"file","file":"BurningWheel/BurningStars/Mrak'n A'plana.md","id":"33c52324492e7133","x":1251,"y":-280,"width":287,"height":234},
+		{"type":"file","file":"BurningWheel/BurningStars/Kamazamka.md","id":"0548bd497f72c02a","x":680,"y":-192,"width":271,"height":94},
+		{"type":"file","file":"BurningWheel/BurningStars/Envakadi.md","id":"8cba8f8190c810c4","x":-362,"y":161,"width":255,"height":118},
+		{"type":"file","file":"BurningWheel/BurningStars/New Sibiu.md","id":"f63d90f0f1d244e3","x":-547,"y":-227,"width":227,"height":64},
+		{"id":"48411095db812176","x":-720,"y":-103,"width":400,"height":50,"type":"file","file":"BurningWheel/BurningStars/Din'Geletokir Roden.md"}
 	],
 	"edges":[
 		{"id":"ff4f3e968e216a83","fromNode":"f63d90f0f1d244e3","fromSide":"right","toNode":"7d3a5207b23a2fb0","toSide":"left","toEnd":"none"},
@@ -24,6 +25,7 @@
 		{"id":"ee26bd6c90757121","fromNode":"9c292be262ea359b","fromSide":"bottom","toNode":"98f13dd431ea2430","toSide":"top","toEnd":"none","color":"#2e000e","label":"Underground"},
 		{"id":"909f0a7b07c4768c","fromNode":"9c292be262ea359b","fromSide":"left","toNode":"98f13dd431ea2430","toSide":"top","color":"3","label":"Secret Way"},
 		{"id":"2657cdfc3964496a","fromNode":"0548bd497f72c02a","fromSide":"right","toNode":"33c52324492e7133","toSide":"left","toEnd":"none","color":"#2e000e","label":"Permanently Closed"},
-		{"id":"5aecc3df132fc571","fromNode":"e5e0f6703dfa597a","fromSide":"right","toNode":"f64999c118f64d0d","toSide":"left","label":"1 day"}
+		{"id":"5aecc3df132fc571","fromNode":"e5e0f6703dfa597a","fromSide":"right","toNode":"f64999c118f64d0d","toSide":"left","label":"1 day"},
+		{"id":"b7b16eb80a76f28f","fromNode":"7d3a5207b23a2fb0","fromSide":"left","toNode":"48411095db812176","toSide":"right"}
 	]
 }
