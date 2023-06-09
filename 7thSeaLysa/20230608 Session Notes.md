@@ -7,6 +7,9 @@
 - The ship survives the storm and docks off the coast of Ifri with about 2 hours lead over their pursuers
 - Wasting no time, [[Saoirse]] leaves a small rearguard and begins trekking across trackless jungle in the hurricane.
 - On the other side of the jungle she sees [[Rafe Gage|Rafe's]] camp and infiltrates it with **Second Story Work**
+- She enters [[Rafe Gage|Rafe's]] tent and finds him in the middle of changing clothes, which leaves her flustered.  [[Gustav]] follows her in.
+- [[Rafe Gage|Rafe]] appears perfectly at east, as opposed to [[Saoirse]] who is very nervous.
+- She recalls hearing that Rafe was sleeping with a Montaigne Captain (Pichard)
 - 
 
 > [!info]- Tags
