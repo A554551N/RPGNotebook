@@ -1,5 +1,6 @@
 
-> [!success] Complete
+> [!success] Completed [[20230423 Session Notes|04/23/2023]]
+
 
 # Synopsis
 Lord Bartram Sumner has been selling State secrets to a Vesten contact in the service of the feared raider Halla Sorlidottir, who has been using this information to devastating effect against the trading fleet of Avalon.
