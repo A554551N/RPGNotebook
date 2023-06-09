@@ -10,7 +10,11 @@
 - She enters [[Rafe Gage|Rafe's]] tent and finds him in the middle of changing clothes, which leaves her flustered.  [[Gustav]] follows her in.
 - [[Rafe Gage|Rafe]] appears perfectly at east, as opposed to [[Saoirse]] who is very nervous.
 - She recalls hearing that Rafe was sleeping with a Montaigne Captain (Pichard)
-- 
+- A guard arrives and warns Rafe  about the approaching Caligari, Avalon, and Montaigne soldiers
+- He plans a hasty evacuation of the camp and reveals that it's booby trapped with explosives
+- The camp is emptied and Rafe blows up the encircling soldiers (including Morta and the Caligari's three Stregha)
+- Tessera reveals that the other Fate Witches can track her.  Gustav and Egis are assigned to take her away from the relic so that she can't reveal its position.
+- They go deeper into the jungle and Rafe shows her the entry to the temple, a round hole in the ground.  Once they descend via rope it is revealed that they are inside of a massive underground structure
 
 > [!info]- Tags
 > #7thSea#sessionNotes
