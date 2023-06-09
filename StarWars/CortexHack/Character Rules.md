@@ -1,4 +1,5 @@
 ## Trait Sets
+
 |  Values  |   Roles   |   Distinctions    |
 |:--------:|:---------:|:-----------------:|
 | Freedom  |  Leader   |    Background     |
