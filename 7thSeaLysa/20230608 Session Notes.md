@@ -20,6 +20,10 @@
 - They fight an action sequence against Morta, who entered the tower via Second Story Work, and an ancient automaton guardian that protects the Eye.  Saoirse easily prevails over them (I rolled hot fucking garbage, thanks Ike.)
 - Saoirse activates the crown and now controls global weather.  Rafe can't easily take it from her because it will try to kill anyone who takes it.
 - She attempts to convince [[Rafe Gage|Rafe]] to flee from [[Bernoulli]]'s wrath by returning the [[Cypher Disc]] to Avalon and getting his exile relieved.
+	- He agrees if they can find a way to get him away.
+- She decides to put the artifact back and block the place up.  When she attempts to do so, [[Mr Morton]] appears and demands the relic for [[Avalon]].
+	- She convinces Morton to aid her in destroying the relic for fear that Queen Elaine's successor might be less worthy than she is.
+	- [[Saoirse]] smuggles the relic out of Ifri glamoured into the form of a necklace.
 
 > [!info]- Tags
 > #7thSea#sessionNotes
