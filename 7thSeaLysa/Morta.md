@@ -12,6 +12,8 @@ During the ensuing [[Isle of Bernoulli]] incident, Morta and [[Saoirse]] would c
 
 When we saw Morta last, she was bound for [[Caligari]] territory to advise the Prince of the House that she had failed.
 
+Morta appeared again in Ifri, still trying to claim the [[Stormbringer]] for Caligari.  She and [[Saoirse]] fought, with Saoirse prevailing.  Morta swore vengeance and disappeared once again.
+
 > [!info]- Tags
 > #7thSea #villain 
 
