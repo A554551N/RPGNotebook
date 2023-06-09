@@ -1,4 +1,4 @@
-**Affiliation:** [[Avalon]],[[Brotherhood of the Coast]]
+**Affiliation:** [[Avalon]], [[Brotherhood of the Coast]]
 # Image
 ![[dennis.png]]
 # Traits

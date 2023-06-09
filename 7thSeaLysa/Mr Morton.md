@@ -6,6 +6,8 @@ He met [[Saoirse]] at the home of [[Giovanni Bernoulli]] and attempted to recrui
 
 When we last saw him he was squaring off with the fugitive Baron in his office on the [[Isle of Bernoulli]].
 
+Upon her return to [[Avalon]], [[Saoirse]] quickly became wrapped up in Morton's affairs.  She aided him in the [[Baronet Bartram Sumner#^8bbc3a|Plot to Steal the Queen's Gift to the Highland Marches]].  As recompense, Morton has taken on [[Saoirse]] as a kind of employee, offering her work that can't be handled by the normal intelligence services of Avalon.
+
 > [!info]- Tags
 > #7thSea 
 
