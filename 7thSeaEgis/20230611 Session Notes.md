@@ -3,7 +3,7 @@
 
 *After freeing Gaspard from the fleshmongers, Olivain returns to the farm . . .*
 
-- Olivain's father doesn't want to make the annual trip to Bazieu to sell produce because his sister is getting ready to have a baby, but he won't let Olivain take the shipment alone because he doesn't trust Olivain to do a good job
+- [[Olivain]]'s father doesn't want to make the annual trip to Bazieu to sell produce because his sister is getting ready to have a baby, but he won't let Olivain take the shipment alone because he doesn't trust Olivain to do a good job
 	- Olivain steals the cart and some money and snuck out while his sister is giving birth so that his father can't come with him.
 - On the way to the village, Olivain gets into a verbal altercation with another farmer's son named John.  John thinks Olivain should stop hitting on his sister Miriam.  Olivain thinks John should mind his own fucking business.
 - **Risk - Market Day** - *Olivain puts on a show to mock John's family business and drive customers to his own stall instead.*  **3 Raises**
@@ -18,6 +18,7 @@
 - The rest of the day's trade is carried out respectfully.  Olivain's hand crafted toy guns sell better than expected.
 - Olivain buys his sister a new baby outfit from a stand run by Sev and Antoinette, friends of his father's.  They tell him they chased off some hooligans that made an attempt on his stand while he was in jail.
 - That night at the inn, Olivain spots [[Honorius]], dressed in plain merchant's clothes.  Olivain buys him a drink.
+- [[Honorius]] tells [[Olivain]] that he is in town seeking bandits that are planning to attack the Market.
 - 
 > [!info]- Tags
 > #7thSea#sessionNotes
