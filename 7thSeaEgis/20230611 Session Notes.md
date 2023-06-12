@@ -2,7 +2,7 @@
 
 *After freeing Gaspard from the fleshmongers, Olivain returns to the farm . . .*
 
-- Notes start here
+- Olivain accompanies his father on the produce delivery to Bazieu
 
 > [!info]- Tags
 > #7thSea#sessionNotes
