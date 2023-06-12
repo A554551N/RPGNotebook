@@ -16,6 +16,9 @@
 - Olivain spends the night in the drunk tank because Marcus paid off a guard to have him arrested.
 - Olivain insults John's father as he returns to the Market.  He can see that someone has messed with his stall, but that someone ran them off.
 - The rest of the day's trade is carried out respectfully.  Olivain's hand crafted toy guns sell better than expected.
+- Olivain buys his sister a new baby outfit from a stand run by Sev and Antoinette, friends of his father's.  They tell him they chased off some hooligans that made an attempt on his stand while he was in jail.
+- That night at the inn, Olivain spots [[Honorius]], dressed in plain merchant's clothes.  Olivain buys him a drink.
+- 
 > [!info]- Tags
 > #7thSea#sessionNotes
 
