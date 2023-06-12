@@ -21,6 +21,14 @@
 - [[Honorius]] tells [[Olivain]] that he is in town seeking bandits that are planning to attack the Market.
 - Honorius and Olivain converse, Honorius tells Olivain about the Musketeer trials that will be held in a year or so.  Anyone can fight for their place in the Guard via the Trial.
 - As they talk, a large number of armed men begin entering and ordering drinks, then sit together in the corner.
+- The leader of this band approaches the bar and threatens the barman.  He tells him that the men are taking over the inn to use as a staging point for taking over the town.
+	- Egis casually insults the man (to activate his Hubris), who attacks him to show him his place.
+- **Action Sequence - We Met in a Tavern** - *Olivain fights bandits in the tavern at Bazieu to impress Honorius.
+	- **Round 1 (Finesse - Weaponry)**
+		- Claude (the bandit leader) comes at Olivain with a gun and bare knuckles.  He deals Olivain several blows.
+		- Olivain replies by grabbing a stool and breaking it over the man's gun arm, then grabbing his gun and striking him with his cane.
+	- **Round 2 (Finesse - Athletics)**
+		- 
 > [!info]- Tags
 > #7thSea#sessionNotes
 
