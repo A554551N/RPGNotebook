@@ -23,12 +23,21 @@
 - As they talk, a large number of armed men begin entering and ordering drinks, then sit together in the corner.
 - The leader of this band approaches the bar and threatens the barman.  He tells him that the men are taking over the inn to use as a staging point for taking over the town.
 	- Egis casually insults the man (to activate his Hubris), who attacks him to show him his place.
+> [!success] Hero Story Step Completed
+
 - **Action Sequence - We Met in a Tavern** - *Olivain fights bandits in the tavern at Bazieu to impress Honorius.
+	- The fight involves 9 Brutes and a Minor Villain, [[Hugo del Norte]]
 	- **Round 1 (Finesse - Weaponry)**
 		- Claude (the bandit leader) comes at Olivain with a gun and bare knuckles.  He deals Olivain several blows.
 		- Olivain replies by grabbing a stool and breaking it over the man's gun arm, then grabbing his gun and striking him with his cane.
 	- **Round 2 (Finesse - Athletics)**
-		- 
+		- Claude gets shot, a brute goes down, Olivain gets fucked up (2 dramatic wounds)
+	- **Round 3 (Finesse - Aim)
+		- Olivain has the wild idea that if he can *just* put down the leader that the others will scatter.  He creates an opportunity to *look really fucking cool in front of [[Honorius]]* and activates it with an improv penalty into Athletics.  He leaps from brute to brute across the room before driving a large beer mug directly into the Villain's face.
+		- The blow draws a little blood, which satisfies Olivain.  [[Hugo del Norte]] responds by stomping him into **Helpless**.
+		- Before the killing blow can be struck, [[Honorius]] drags Olivain from the building.
+> [!success] Hero Story Step Completed
+
 > [!info]- Tags
 > #7thSea#sessionNotes
 
