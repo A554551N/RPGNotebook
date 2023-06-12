@@ -19,7 +19,8 @@
 - Olivain buys his sister a new baby outfit from a stand run by Sev and Antoinette, friends of his father's.  They tell him they chased off some hooligans that made an attempt on his stand while he was in jail.
 - That night at the inn, Olivain spots [[Honorius]], dressed in plain merchant's clothes.  Olivain buys him a drink.
 - [[Honorius]] tells [[Olivain]] that he is in town seeking bandits that are planning to attack the Market.
-- 
+- Honorius and Olivain converse, Honorius tells Olivain about the Musketeer trials that will be held in a year or so.  Anyone can fight for their place in the Guard via the Trial.
+- As they talk, a large number of armed men begin entering and ordering drinks, then sit together in the corner.
 > [!info]- Tags
 > #7thSea#sessionNotes
 
