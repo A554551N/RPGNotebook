@@ -1,6 +1,6 @@
 **Location:** Where it takes place
 
-*A brief summary from last time*
+*After freeing Gaspard from the fleshmongers, Olivain returns to the farm . . .*
 
 - Notes start here
 
