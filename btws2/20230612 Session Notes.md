@@ -1,0 +1,1 @@
+**Strong Start:** The party is faced with a great bridge across a bottomless chasm.  It is obviously rigged to blow.
