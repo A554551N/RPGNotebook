@@ -6,5 +6,6 @@
 - Captain of the [[Harrier]].  The first mate is her long-time friend [[Peyton]]
 
 # Current Beliefs
-
+- I will do what must be done to help Westley get a seat on the Board.  I failed to kill Lynwood, but perhaps I can do it without actually hurting him?
+- I will be sure that the Lord Admiral does not unjustly punish Marsh Jr for his father's actions
 #pc #lysa 
