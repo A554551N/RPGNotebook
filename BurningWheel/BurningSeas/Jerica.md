@@ -5,4 +5,6 @@
 - Formerly married to Doctor [[Jeremy Roberts]], with whom she had a daughter: [[Hope Roberts]]
 - Captain of the [[Harrier]].  The first mate is her long-time friend [[Peyton]]
 
+# Current Beliefs
+
 #pc #lysa 
