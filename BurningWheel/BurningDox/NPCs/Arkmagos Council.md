@@ -15,7 +15,7 @@ Sfyri was a member of the Enkavam army before joining the Council.  She's aggres
 
 ### Burgut of [Gurled](../WorldNotes.md#Gurled)
 **Good-Natured / Nearsighted / Colorful**
-Burgut is from the mountain lands of Gurled.  He is a skilled surgeon, but we know little of his background.  He's intimately acquainted with [Melanion](../Melanion.md)'s insides.
+Burgut is from the mountain lands of Gurled.  He is a skilled surgeon, but we know little of his background.  He's intimately acquainted with [Melanion](Melanion.md)'s insides.
 
 ### Saher of [Markez](../WorldNotes.md#Markez)
 **Jovial / A Smile for Every Occasion / Independently Wealthy**
