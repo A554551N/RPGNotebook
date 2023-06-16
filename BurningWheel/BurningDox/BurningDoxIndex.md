@@ -1,12 +1,13 @@
 # Burning Dox - Table of Contents
-## PCs
-- [[BurningWheel/BurningDox/Cassandra]]
-- [[BurningWheel/BurningDox/Melanion]]
+## Protagonists
+- [Cassandra](Cassandra.md)
+- [Melanion](Melanion.md)
+- [Perseus](Perseus.md)
 
 ## NPCs
-- [[BurningWheel/BurningDox/NPCs/KentrikoNPCs|NPCs - Kentriko]]
-- [[BurningWheel/BurningDox/NPCs/TrokosNPCs|NPCs - Trokos]]
-- [[BurningWheel/BurningDox/NPCs/OtherNPCs|NPCs - Other]]
+- [NPCs - Kentriko](NPCs/KentrikoNPCs.md)
+- [NPCs - Trokos](NPCs/TrokosNPCs.md)
+- [NPCs - Other](NPCs/OtherNPCs.md)
 
 ## Worldbuilding
-- [[BurningWheel/BurningDox/WorldNotes|World Information]]
+- [World Information](WorldNotes.md)
