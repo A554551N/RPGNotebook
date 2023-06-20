@@ -17,7 +17,11 @@
 - [[Honorius]] and [[Hugo del Norte]] have a staredown, and when Hugo takes the first swing the Action Sequence starts
 - **Action Sequence** - Tavern Brawl Redux - *The people of Bezieu take their inn back from bandits.
 	- **Round 1 - Finesse + Aim (6 Raises)**
-		- 
+		- Olivain shoots, but misses
+		- Tosses his gun to one of the nearby goons to reload
+		- Takes out two guys with thrown bricks
+		- When [[Honorius]] gets grabbed by [[Hugo del Norte|Hugo]], Olivain pitches a bottle of liquor at his head.
+	- 
 > [!info]- Tags
 > #7thSea #sessionNotes #egis 
 
