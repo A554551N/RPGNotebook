@@ -5,5 +5,5 @@
 - Notes start here
 
 > [!info]- Tags
-> #7thSea#sessionNotes
+> #7thSea#sessionNotes <game>
 

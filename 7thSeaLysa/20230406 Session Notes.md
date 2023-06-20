@@ -9,5 +9,7 @@
 - As she leaves her meeting with the shipwright, [[Saoirse]] spotted [[Mr Morton]] amongst a crowd of men on the dock, but he wasn't there when she looked closer.
 
 > [!info]- Tags
-> #sessionNotes #7thSea 
+> #sessionNotes #7thSea #Saoirse
+> 
+
 

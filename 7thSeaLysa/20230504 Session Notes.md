@@ -23,5 +23,7 @@
 - Saoirse permits the hitman Mario to burn down dude's place, thus fulfilling her obligation to Bernoulli.
 
 > [!info]- Tags
-> #sessionNotes #7thSea 
+> #sessionNotes #7thSea #Saoirse 
+> 
+
 

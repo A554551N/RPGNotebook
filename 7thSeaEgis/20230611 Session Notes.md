@@ -39,5 +39,5 @@
 > [!success] Hero Story Step Completed
 
 > [!info]- Tags
-> #7thSea#sessionNotes
+> #7thSea#sessionNotes #egis
 

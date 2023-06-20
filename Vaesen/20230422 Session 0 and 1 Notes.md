@@ -21,4 +21,7 @@
 	- After a brief interrogation, the Chemist retreats to her room and the Priest prepares to leave. 
 	- After a few minutes, the Priest comes back saying that he'd forgotten something.  As he does, the fire burns blue and all the gaslamps go out.  Everyone in the room save for the Heroes, the innkeep, and his daughter, immediately pass out and cannot be roused.
 	- As the curtain closes on the session, the innkeep breaks, praying to God to take this perdition away.  "Please God, let her rest, let her not curse me like this!"
-#sessionNotes 
+
+> [!info]- Tags
+> #sessionNotes #vaesen 
+

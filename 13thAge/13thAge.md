@@ -15,3 +15,6 @@
 [[20230429 Session Notes]]
 
 ![[13thAge/IconMap.canvas]]
+> [!info]- Tags
+> #13thAge
+

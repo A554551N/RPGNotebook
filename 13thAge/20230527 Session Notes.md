@@ -20,3 +20,6 @@ Everybody's magic items talk all at once.
 - The last of the King's guard surrenders to the party and takes over as King.  He agrees to stop raiding the Craniformw
 - The party frees Brand and her crew and returns them to [[New Port]].
 - The outro scene of the adventure shows [[Vygotsky]] murdering the replacement king and installing a puppet ruler over the Sahuagin.  Their city is bent to the will of the Crusader, far from the eyes of the other Icons.
+
+> [!info]- Tags
+> #13thAge #sessionNotes 

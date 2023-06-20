@@ -11,5 +11,7 @@
 	- He identifies the creature for Saoirse and advises her to remain in the safety of the church and daylight until their ship is made ready to leave.
 
 > [!info]- Tags
-> #sessionNotes #7thSea 
+> #sessionNotes #7thSea #Saoirse 
+
+
 

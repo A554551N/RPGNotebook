@@ -3,4 +3,7 @@
 ## One Unique Thing
 "I know how to kill the Crusader, but I can't express it.  I also can't carry it out alone"
 
-#pc
+
+> [!info]- Tags
+> #13thAge #pc 
+

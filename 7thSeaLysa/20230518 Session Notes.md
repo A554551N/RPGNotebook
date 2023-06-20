@@ -19,5 +19,5 @@
 - The two apprentices of [[Captain Holst]] are still free in [[Isle of Bernoulli|Bernoulli]]
 
 > [!info]- Tags
-> #sessionNotes #7thSea 
+> #sessionNotes #7thSea #Saoirse 
 

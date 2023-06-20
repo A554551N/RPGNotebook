@@ -11,5 +11,7 @@
 	- Morton secured an invitation in the name of **Frances Mereworth** to a party that Lord Sumner is throwing (for [[GM Story - Enemy of the Crown]])
 
 > [!info]- Tags
-> #sessionNotes #7thSea 
+> #sessionNotes #7thSea #Saoirse 
+
+
 

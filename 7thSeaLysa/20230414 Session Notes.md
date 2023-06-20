@@ -6,5 +6,7 @@
 	- Jacob makes the barrel and leaves it out for his Fae to collect, which completes [[GM Story - Into the Glamourland]]
 
 > [!info]- Tags
-> #sessionNotes #7thSea 
+> #sessionNotes #7thSea #Saoirse 
+
+
 

@@ -33,4 +33,6 @@
 - Janea
 	- Star - Lysa's bit, visuals
 	- Wish - None
-#sessionNotes 
+
+> [!info]- Tags
+> #13thAge #sessionNotes 

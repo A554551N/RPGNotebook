@@ -17,5 +17,7 @@
 - Astrid and Sven reveal to Sophia that her father is dead.  This trauma awakens her family's latent talent for the Sight in her.
 
 > [!info]- Tags
-> #sessionNotes 
+> #sessionNotes #vaesen 
+
+
 

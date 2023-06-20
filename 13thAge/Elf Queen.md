@@ -3,4 +3,6 @@
 **Desires:** The advancement of Elvenkind, to bind all the rulers of the world to her pacts
 **Fears:** The estrangement of the three kingdoms of Elves will worsen and their enemies will devour them while they are weak.
 
-#icon
+> [!info]- Tags
+> #13thAge #icon
+> 

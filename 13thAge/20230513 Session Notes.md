@@ -20,4 +20,6 @@
 > [!info]- Gamaa the Brackish
 > **Gamaa the Brackish** is a marid from the Plane of Water.  She has been sent by her people to ensure that the sahuagin can't actually summon Dajobas (they can't).
 
-#sessionNotes 
+> [!info]- Tags
+> #13thAge #sessionNotes 
+

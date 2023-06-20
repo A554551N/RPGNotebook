@@ -3,9 +3,12 @@
 # Image
 ![[Pasted image 20230611222212.png]]
 
-# Stories
+# Hero Stories
 ## Gaspard Missing
 *Olivain's friend Gaspard is kidnapped by moneylenders he failed to pay back.  Olivain gets himself kidnapped so he can find and free his friend.*
 
 ## Friends in High(er) Places
-*Active*
+*Olivain finds himself in the middle of a bandit attack on the village of Bezieu alongside the Musketeer [[Honorius]].  After taking a bad blow in a fight against the bandit captain . . .*
+
+> [!info]- Tags
+> #7thSea #egis 

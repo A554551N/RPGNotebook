@@ -15,5 +15,7 @@
 	- Sumner invites Saoirse to dinner sometime over the next couple of days.  She accepts.
 
 > [!info]- Tags
-> #sessionNotes #7thSea 
+> #sessionNotes #7thSea #Saoirse 
+
+
 

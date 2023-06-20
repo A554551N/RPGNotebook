@@ -26,6 +26,6 @@
 	- [[Saoirse]] smuggles the relic out of Ifri glamoured into the form of a necklace.
 
 > [!info]- Tags
-> #7thSea#sessionNotes
+> #7thSea #sessionNotes #Saoirse
 
   

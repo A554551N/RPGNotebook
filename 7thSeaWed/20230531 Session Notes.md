@@ -16,4 +16,4 @@
 - Next session will open with an **Action Sequence** in the Underwater Syrneth Ruin where the knife comes from.
 
 > [!info]- Tags
-> #sessionNotes  #7thSea 
+> #sessionNotes  #7thSea #7thWed

@@ -44,4 +44,7 @@
 ## Notes for Next Time
 - Stat up the +2 [[Axe of Lightning]] that Rorschach took from Captain Blackbeard
 - fill in (expand)
-#sessionNotes 
+
+> [!info]- Tags
+> #13thAge #sessionNotes 
+

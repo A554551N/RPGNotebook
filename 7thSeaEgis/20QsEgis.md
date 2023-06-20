@@ -65,4 +65,4 @@ Porte is fucking scary as shit, cutting wounds in the world feels *wrong* to the
 That he doesn't need a noble title to be a noble man.
 
 > [!info]- Tags
-> #7thSea 
+> #7thSea #egis 

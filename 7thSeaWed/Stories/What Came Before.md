@@ -9,5 +9,5 @@
 5. The Countess steals the Syrneth Tablet from the Explorer's Society in Avalon
 
 > [!Info]- Tags
-> #GMStory #7thSea
+> #GMStory #7thSea #7thWed 
 

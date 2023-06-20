@@ -22,8 +22,8 @@
 - The Captain collects a little of Gustav's blood on his glove and refuses to dispose of it no matter how Saoirse demanded
 - They all return to the *Persephone* under the guise of wanting to conduct a routine inspection, and the Captain shows them the hold.  Inside are several dead goats and the crates of earth that the Blutsaugr is carried in.
 - Saoirse demands answers, to which the Captain merely laughs and asks "You believe that I have a dangerous monster in the hold.  You saw it leave, and now you walk straight into its lair?"
-- As if on cue, Giovanni is suddenly dragged out of sight by the Blutsaugr.
+- As if on cue, Giovanni is suddenly dragged out of sight by the [[Blutsaugr]].
 
 > [!info]- Tags
-> #sessionNotes #7thSea 
+> #sessionNotes #7thSea #Saoirse  
 

@@ -25,5 +25,7 @@
 	- This means that [[Baronet Bartram Sumner|Sumner]]'s Scheme is failed.  Allerton successfully delivered the jewels.
 
 > [!info]- Tags
-> #sessionNotes #7thSea 
+> #sessionNotes #7thSea #Saoirse 
+
+
 

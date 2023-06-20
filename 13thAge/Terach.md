@@ -3,6 +3,8 @@
 ## One Unique Thing
 "My soul is shared with the [[13thAge/Prince of Shadows|Prince of Shadows]]"
 
-Terach's arm has been corrupted by the [[13thAge/Lich King|Lich King]]
+Terach's arm has been corrupted by the [[13thAge/Lich King|Lich King]], his other arm was turned into fish scales after the Sea Mother's Ritual.
 
-#lysa #pc 
+> [!info]- Tags
+> #13thAge #pc #lysa 
+> 
