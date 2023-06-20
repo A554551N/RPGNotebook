@@ -13,6 +13,7 @@
 			- One of the rallied townsfolk is a blacksmith who gives Olivain a sword
 - Pierre gives Olivain his son's wooden practice swords (he's a kid who's really into Din'tagnan).  Olivain promises to bring it back in one piece.
 - Pierre has a gift for Olivain from his father.  Olivain says that he will take it home with him so that his father can give it to him when he's ready.
+- 
 
 > [!info]- Tags
 > #7thSea #sessionNotes #egis 
