@@ -32,6 +32,8 @@
 		- Olivain prevents the murder by stabbing him through the shoulder.
 		- Lysa spent a danger point to have him escape.
 - [[Honorius]] agrees to teach Olivain to swordfight at his farm.
+> [!success] Hero Story Completed
+
 > [!info]- Tags
 > #7thSea #sessionNotes #egis 
 
