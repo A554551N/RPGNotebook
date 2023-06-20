@@ -21,7 +21,17 @@
 		- Tosses his gun to one of the nearby goons to reload
 		- Takes out two guys with thrown bricks
 		- When [[Honorius]] gets grabbed by [[Hugo del Norte|Hugo]], Olivain pitches a bottle of liquor at his head.
-	- 
+		- Honorius drops his sword for Olivain to grab.
+	- **Round 2 - Finesse + Athletics (6 Raises)
+		- Olivain spends 3 Raises to protect the villagers attacking the inn
+		- Olivain grabs Honorius' fallen sword and follows Hugo downstairs.
+	- **Round 3 - Finesse + Weaponry (8 Raises)**
+		- Hugo pulls a gun on Honorius
+		- Olivain cuts his gun hand and makes him drop it
+		- Hugo counters by attempting to murder Honorius by strangling him.
+		- Olivain prevents the murder by stabbing him through the shoulder.
+		- Lysa spent a danger point to have him escape.
+- [[Honorius]] agrees to teach Olivain to swordfight at his farm.
 > [!info]- Tags
 > #7thSea #sessionNotes #egis 
 
