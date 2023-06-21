@@ -1,18 +1,18 @@
 {
 	"nodes":[
 		{"type":"text","text":"# THE EMPIRE","id":"d3b9d380d7ab69d4","x":-2225,"y":-4080,"width":850,"height":245},
-		{"type":"file","file":"StarWars/Characters/Professor Byrec Suvan.md","id":"a3005d2038bbd658","x":-5440,"y":-2880,"width":400,"height":400,"color":"1"},
-		{"type":"file","file":"StarWars/Characters/Kiki.md","id":"5d6cae257c00214f","x":-2040,"y":1120,"width":400,"height":400,"color":"5"},
+		{"type":"file","file":"StarWars/TempleOfTheLivingForce/Characters/Professor Byrec Suvan.md","id":"a3005d2038bbd658","x":-5440,"y":-2880,"width":400,"height":400,"color":"1"},
+		{"type":"file","file":"StarWars/TempleOfTheLivingForce/Characters/Kiki.md","id":"5d6cae257c00214f","x":-2040,"y":1120,"width":400,"height":400,"color":"5"},
 		{"type":"text","text":"# The Dawsian Front\n","id":"dc24cf619e3dfa30","x":160,"y":-160,"width":400,"height":400},
-		{"type":"file","file":"StarWars/Characters/Aro.md","id":"33b71abd612ebde1","x":-560,"y":-1840,"width":400,"height":400,"color":"5"},
-		{"type":"file","file":"StarWars/Characters/Neophyte.md","id":"5e4a685f00da8f6f","x":-2000,"y":-2240,"width":400,"height":400,"color":"1"},
-		{"type":"file","file":"StarWars/Characters/Gai.md","id":"b749a4772b72cac9","x":-4080,"y":400,"width":400,"height":400,"color":"5"},
+		{"type":"file","file":"StarWars/TempleOfTheLivingForce/Characters/Aro.md","id":"33b71abd612ebde1","x":-560,"y":-1840,"width":400,"height":400,"color":"5"},
+		{"type":"file","file":"StarWars/TempleOfTheLivingForce/Characters/Neophyte.md","id":"5e4a685f00da8f6f","x":-2000,"y":-2240,"width":400,"height":400,"color":"1"},
+		{"type":"file","file":"StarWars/TempleOfTheLivingForce/Characters/Gai.md","id":"b749a4772b72cac9","x":-4080,"y":400,"width":400,"height":400,"color":"5"},
 		{"type":"text","text":"# The Crystals","id":"a8f0bb535381528a","x":-5040,"y":-760,"width":400,"height":400,"color":"1"},
 		{"type":"text","text":"# The Force-Monks","id":"15e92b1d4b1e91f4","x":-5920,"y":-760,"width":400,"height":400},
-		{"type":"file","file":"StarWars/Characters/Val Pellian.md","id":"f957e3e07ab4808a","x":-4160,"y":-3080,"width":400,"height":400,"color":"5"},
+		{"type":"file","file":"StarWars/TempleOfTheLivingForce/Characters/Val Pellian.md","id":"f957e3e07ab4808a","x":-4160,"y":-3080,"width":400,"height":400,"color":"5"},
 		{"type":"text","text":"# Narwahl\n*Middleman Grego Carden uses to purchase stolen antiquities*","id":"69f7bd14785ee805","x":-4680,"y":-2540,"width":250,"height":160},
 		{"type":"text","text":"# Grego Carden\n*Former ISB Head, betrayed  by the Emperor*\n\nSeeks to personally kill the Emperor and take his throne","id":"7492d68c63bab19d","x":-4680,"y":-4080,"width":250,"height":293},
-		{"type":"file","file":"StarWars/Characters/Zabel.md","id":"a196e9cdf59b24dc","x":-2440,"y":-360,"width":400,"height":400,"color":"5"}
+		{"type":"file","file":"StarWars/TempleOfTheLivingForce/Characters/Zabel.md","id":"a196e9cdf59b24dc","x":-2440,"y":-360,"width":400,"height":400,"color":"5"}
 	],
 	"edges":[
 		{"id":"c913d5bbad19fa1a","fromNode":"b749a4772b72cac9","fromSide":"top","toNode":"dc24cf619e3dfa30","toSide":"left","color":"4","label":"Member"},

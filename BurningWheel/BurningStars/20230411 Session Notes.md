@@ -19,4 +19,5 @@
 	- Morwen suggests that she would kill herself if she had to in order to protect her father from [[Galuchanar]]
 	- Morwen finds an inscription on the elven mural in the Vault which reads 'Kutyakaya Nistha,' **The City of Light Beneath**.  This is the Elven name of the Dwarven Citadel of M'rakn A'plana
 
-#sessionNotes 
+> [!info]- Tags
+> #sessionNotes #BurningWheel #BurningStars

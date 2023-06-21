@@ -1,7 +1,7 @@
 ## Form
 Horrifying Ox-Slug thing
 - Ethereal
-- Spinnarets
+- Spinnerets
 - Mind-Reading
 
 ## Traits and Tactics
@@ -11,3 +11,5 @@ Horrifying Ox-Slug thing
 ## Weakness
 - Desires Gold
 - Fears Music
+
+ #BurningStars #villain 
