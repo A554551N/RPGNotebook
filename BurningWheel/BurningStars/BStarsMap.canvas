@@ -3,32 +3,31 @@
 		{"type":"group","id":"12276b4c4937cb6d","x":-920,"y":-360,"width":860,"height":880,"label":"The West"},
 		{"type":"group","id":"84997a7591a824fc","x":560,"y":-242,"width":1000,"height":644,"label":"The East"},
 		{"type":"group","id":"70e140cbb53001b9","x":-920,"y":-80,"width":787,"height":214,"label":"Din'Geletokir"},
-		{"type":"file","file":"BurningWheel/BurningStars/Envakadi.md","id":"8cba8f8190c810c4","x":-595,"y":373,"width":255,"height":118},
+		{"id":"1f38bc5112ac0320","x":40,"y":27,"width":400,"height":400,"type":"group","label":"The Unclaimed Lands"},
 		{"type":"file","file":"BurningWheel/BurningStars/Din'Geletokir Roden.md","id":"48411095db812176","x":-900,"y":64,"width":400,"height":50},
 		{"type":"file","file":"BurningWheel/BurningStars/New Sibiu.md","id":"f63d90f0f1d244e3","x":-727,"y":-60,"width":227,"height":64},
 		{"type":"file","file":"BurningWheel/BurningStars/Din'Geletokir.md","id":"7d3a5207b23a2fb0","x":-417,"y":-11,"width":260,"height":100},
-		{"type":"file","file":"BurningWheel/BurningStars/The Unclaimed Lands.md","id":"e5e0f6703dfa597a","x":40,"y":39,"width":400,"height":400},
-		{"type":"text","text":"Map Key","id":"9c292be262ea359b","x":115,"y":491,"width":250,"height":60},
-		{"type":"text","text":"","id":"98f13dd431ea2430","x":115,"y":709,"width":250,"height":60},
 		{"type":"file","file":"BurningWheel/BurningStars/Sibiu.md","id":"c6ada9eb683efdb5","x":-287,"y":-340,"width":154,"height":50},
 		{"type":"file","file":"BurningWheel/BurningStars/Kamazamka.md","id":"0548bd497f72c02a","x":580,"y":-134,"width":271,"height":94},
-		{"type":"file","file":"BurningWheel/BurningStars/Singer in the Wastes.md","id":"f64999c118f64d0d","x":595,"y":154,"width":370,"height":212},
-		{"type":"file","file":"BurningWheel/BurningStars/Mrak'n A'plana.md","id":"33c52324492e7133","x":1240,"y":-222,"width":287,"height":234}
+		{"type":"file","file":"BurningWheel/BurningStars/Mrak'n A'plana.md","id":"33c52324492e7133","x":1240,"y":-222,"width":287,"height":234},
+		{"type":"file","file":"BurningWheel/BurningStars/Envakadi.md","id":"8cba8f8190c810c4","x":-388,"y":373,"width":255,"height":118},
+		{"type":"file","file":"BurningWheel/BurningStars/Singer in the Wastes.md","id":"f64999c118f64d0d","x":55,"y":114,"width":370,"height":212},
+		{"type":"text","text":"Map Key","id":"9c292be262ea359b","x":115,"y":-558,"width":250,"height":60},
+		{"type":"text","text":"","id":"98f13dd431ea2430","x":115,"y":-340,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"ff4f3e968e216a83","fromNode":"f63d90f0f1d244e3","fromSide":"right","toNode":"7d3a5207b23a2fb0","toSide":"left","toEnd":"none"},
 		{"id":"675103be8837ed72","fromNode":"c6ada9eb683efdb5","fromSide":"bottom","toNode":"70e140cbb53001b9","toSide":"top","toEnd":"none","color":"4","label":"3 days"},
-		{"id":"111cdda688aa5120","fromNode":"7d3a5207b23a2fb0","fromSide":"right","toNode":"0548bd497f72c02a","toSide":"top","toEnd":"none","color":"#2e000e","label":"4 days"},
-		{"id":"35dfe0c37ffd3863","fromNode":"70e140cbb53001b9","fromSide":"right","toNode":"e5e0f6703dfa597a","toSide":"left","toEnd":"none","label":"2 days"},
-		{"id":"c2ac2558a6724c6f","fromNode":"f64999c118f64d0d","fromSide":"top","toNode":"0548bd497f72c02a","toSide":"bottom","label":"10 days"},
-		{"id":"76dc3d0aa46b1e41","fromNode":"8cba8f8190c810c4","fromSide":"right","toNode":"e5e0f6703dfa597a","toSide":"left","toEnd":"none","label":"3 days"},
+		{"id":"111cdda688aa5120","fromNode":"7d3a5207b23a2fb0","fromSide":"top","toNode":"0548bd497f72c02a","toSide":"top","toEnd":"none","color":"#2e000e","label":"4 days"},
+		{"id":"c2ac2558a6724c6f","fromNode":"f64999c118f64d0d","fromSide":"right","toNode":"0548bd497f72c02a","toSide":"left","label":"10 days"},
 		{"id":"e0a8315cb4bbfa83","fromNode":"0548bd497f72c02a","fromSide":"bottom","toNode":"33c52324492e7133","toSide":"bottom","toEnd":"none","label":"10 days"},
 		{"id":"7e8fb1e7b6ea3c8d","fromNode":"9c292be262ea359b","fromSide":"left","toNode":"98f13dd431ea2430","toSide":"left","toEnd":"none","label":"Wilderness"},
 		{"id":"30c08563e55e8b51","fromNode":"9c292be262ea359b","fromSide":"right","toNode":"98f13dd431ea2430","toSide":"right","toEnd":"none","color":"4","label":"Road"},
 		{"id":"ee26bd6c90757121","fromNode":"9c292be262ea359b","fromSide":"bottom","toNode":"98f13dd431ea2430","toSide":"top","toEnd":"none","color":"#2e000e","label":"Underground"},
 		{"id":"909f0a7b07c4768c","fromNode":"9c292be262ea359b","fromSide":"left","toNode":"98f13dd431ea2430","toSide":"top","color":"3","label":"Secret Way"},
 		{"id":"2657cdfc3964496a","fromNode":"0548bd497f72c02a","fromSide":"right","toNode":"33c52324492e7133","toSide":"left","toEnd":"none","color":"#2e000e","label":"Permanently Closed"},
-		{"id":"5aecc3df132fc571","fromNode":"e5e0f6703dfa597a","fromSide":"right","toNode":"f64999c118f64d0d","toSide":"left","label":"1 day"},
-		{"id":"b7b16eb80a76f28f","fromNode":"7d3a5207b23a2fb0","fromSide":"left","toNode":"48411095db812176","toSide":"right"}
+		{"id":"b7b16eb80a76f28f","fromNode":"7d3a5207b23a2fb0","fromSide":"left","toNode":"48411095db812176","toSide":"right"},
+		{"id":"35dfe0c37ffd3863","fromNode":"70e140cbb53001b9","fromSide":"right","toNode":"f64999c118f64d0d","toSide":"left","toEnd":"none","label":"2 days"},
+		{"id":"76dc3d0aa46b1e41","fromNode":"8cba8f8190c810c4","fromSide":"right","toNode":"f64999c118f64d0d","toSide":"left","toEnd":"none","label":"3 days"}
 	]
 }
