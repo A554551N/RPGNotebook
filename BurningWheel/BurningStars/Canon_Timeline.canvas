@@ -1,25 +1,27 @@
 {
 	"nodes":[
+		{"type":"group","id":"848d15adcbcea465","x":-4400,"y":-250,"width":3255,"height":195,"label":"The Myth-Times (???-500DR)"},
 		{"type":"group","id":"c403ec017ba5ffd8","x":-142,"y":-250,"width":1044,"height":550,"label":"The Modern Age (0-100 DR)"},
-		{"type":"group","id":"848d15adcbcea465","x":-3600,"y":-250,"width":2455,"height":195,"label":"The Myth-Times (???-500DR)"},
 		{"type":"group","id":"cf073e6e3d60b652","x":-1145,"y":-250,"width":1003,"height":322,"label":"The Twilight of the Elves (500-0 DR)"},
+		{"type":"text","text":"**300 Years Ago**\nThe [[Custodian]] is sent to [[Sibiu]]","id":"feb825cc9d52cd7f","x":-520,"y":-40,"width":200,"height":92},
+		{"type":"text","text":"**2200 Years Ago**\nThe [[Singer in the Wastes]] encounters the [[Shadow Weaver]] and is granted a connection to the Stars.","id":"17a6b966b998d590","x":-1860,"y":-235,"width":295,"height":155},
+		{"type":"text","text":"**2500 Years Ago**\nThe Elven Dominion is established to rule the Continent","id":"0f778b9e21c40003","x":-2640,"y":-207,"width":295,"height":100},
+		{"type":"text","text":"**3050 Years Ago**\n[[Galuchanar]] is born in [[Envakadi]]","id":"e32beb9a918d136a","x":-3020,"y":-207,"width":295,"height":100},
+		{"type":"text","text":"**650 Years Ago**\nThe [[Custodian]] is born in [[Envakadi]]","id":"c99e6bda6b112108","x":-1500,"y":-207,"width":295,"height":100},
+		{"type":"text","text":"**4875 Years Ago**\nThe Godswar produces the Western Ocean, cutting the Elves off from their homeland.","id":"96f799f8246ef2f2","x":-4115,"y":-217,"width":295,"height":120},
+		{"type":"text","text":"**4000 Years Ago**\nThe Stars Return when the [[Shadow Weaver]] is Imprisoned.","id":"70d58f4d846c194c","x":-3755,"y":-207,"width":295,"height":100},
 		{"type":"text","text":"**101 Years Ago**\nThe Second Calamity","id":"6d2b39f0927b0349","x":-242,"y":-194,"width":200,"height":74,"color":"1"},
 		{"type":"text","text":"**415 Years Ago**\nThe Human King that is proclaimed [[Phoenix King]] dies.","id":"3a9fa80548d41725","x":-860,"y":-218,"width":260,"height":120},
-		{"type":"text","text":"**300 Years Ago**\nGaluchanar Enters [[Mrak'n A'plana]] seeking the [[Shadow Weaver]]","id":"a282360e8014ddc1","x":-540,"y":-230,"width":240,"height":145},
-		{"type":"text","text":"**300 Years Ago**\nThe [[Custodian]] is sent to [[Sibiu]]","id":"feb825cc9d52cd7f","x":-520,"y":-40,"width":200,"height":92},
 		{"type":"text","text":"**500 Years Ago**\nGaluchanar is Exiled","id":"ea2b1741fdee20c1","x":-1120,"y":-195,"width":220,"height":74},
-		{"type":"text","text":"**2500 Years Ago**\nThe Stars Return when the [[Shadow Weaver]] is Imprisoned.","id":"70d58f4d846c194c","x":-2600,"y":-207,"width":295,"height":100},
-		{"type":"text","text":"**2200 Years Ago**\nThe [[Singer in the Wastes]] encounters the [[Shadow Weaver]] and is granted a connection to the Stars.","id":"17a6b966b998d590","x":-1860,"y":-235,"width":295,"height":155},
 		{"type":"text","text":"**95 Years Ago**\nThe Human Kingdoms fall in the Summer of the Endless Dark","id":"4e75d148993d6e0e","x":0,"y":-216,"width":265,"height":120},
-		{"type":"text","text":"**1 Year Ago**\nThe Red Stars Return","id":"3caee948b7dc92ee","x":320,"y":-185,"width":229,"height":57},
 		{"type":"text","text":"**This Year**\n[[Bumper]] departs Envakadi without [[Morwen]]","id":"d441f3d582b4feca","x":600,"y":-214,"width":229,"height":116},
 		{"type":"text","text":"**95 Years Ago**\nThe First Roden Missionaries emerge from Beneath","id":"fcbfe710a3cc56d3","x":0,"y":-39,"width":265,"height":120},
 		{"type":"text","text":"**95 Years Ago**\n[[Galuchanar]] reclaims [[Envakadi]]","id":"f2c4367b6cbe3817","x":0,"y":141,"width":265,"height":120},
-		{"type":"text","text":"**3000 Years Ago**\nThe First Calamity","id":"7af474277e9a66de","x":-3180,"y":-194,"width":178,"height":74,"color":"1"},
-		{"type":"text","text":"**2875 Years Ago**\nThe Godswar produces the Western Ocean, cutting the Elves off from their homeland.","id":"96f799f8246ef2f2","x":-2955,"y":-217,"width":295,"height":120},
-		{"type":"text","text":"**2300 Years Ago**\nThe Elven Dominion is established to rule the Continent","id":"0f778b9e21c40003","x":-2240,"y":-207,"width":295,"height":100},
-		{"type":"text","text":"**3050 Years Ago**\n[[Galuchanar]] is born in the West","id":"e32beb9a918d136a","x":-3540,"y":-207,"width":295,"height":100},
-		{"type":"text","text":"**650 Years Ago**\nThe [[Custodian]] is born in [[Envakadi]]","id":"c99e6bda6b112108","x":-1500,"y":-207,"width":295,"height":100}
+		{"type":"text","text":"**1 Year Ago**\nThe [[Shadow Weaver]]'s Constellation Returns","id":"3caee948b7dc92ee","x":320,"y":-200,"width":229,"height":89},
+		{"type":"text","text":"**300 Years Ago**\nGaluchanar Enters [[Mrak'n A'plana]] seeking the [[Shadow Weaver]]","id":"a282360e8014ddc1","x":-540,"y":-230,"width":240,"height":145},
+		{"type":"text","text":"**5000 Years Ago**\nThe First Calamity","id":"7af474277e9a66de","x":-4360,"y":-194,"width":178,"height":74,"color":"1"},
+		{"type":"text","text":"**3500 Years Ago**\nThe Elves depart from [[Mrak'n A'plana]] to settle the Great Crater at [[Envakadi]]","id":"3c77b9460eb06e53","x":-3400,"y":-213,"width":295,"height":112},
+		{"type":"text","text":"**2300 Years Ago**\nThe Dwarves Lay Claim to [[Mrak'n A'plana]]","id":"90c195d28f3515c8","x":-2240,"y":-208,"width":295,"height":100}
 	],
 	"edges":[
 		{"id":"cd9b0332ebceef01","fromNode":"3caee948b7dc92ee","fromSide":"right","toNode":"d441f3d582b4feca","toSide":"left"},
@@ -33,10 +35,12 @@
 		{"id":"97678b9cd9f80e9f","fromNode":"4e75d148993d6e0e","fromSide":"right","toNode":"3caee948b7dc92ee","toSide":"left"},
 		{"id":"4317f031987c0f99","fromNode":"4e75d148993d6e0e","fromSide":"bottom","toNode":"fcbfe710a3cc56d3","toSide":"top"},
 		{"id":"c68a06645c509cb5","fromNode":"fcbfe710a3cc56d3","fromSide":"bottom","toNode":"f2c4367b6cbe3817","toSide":"top"},
-		{"id":"f172c3b9368a8180","fromNode":"70d58f4d846c194c","fromSide":"right","toNode":"0f778b9e21c40003","toSide":"left"},
+		{"id":"f172c3b9368a8180","fromNode":"e32beb9a918d136a","fromSide":"right","toNode":"0f778b9e21c40003","toSide":"left"},
 		{"id":"97718a0a827a9fa1","fromNode":"96f799f8246ef2f2","fromSide":"right","toNode":"70d58f4d846c194c","toSide":"left"},
-		{"id":"c24ef789e7eb6167","fromNode":"e32beb9a918d136a","fromSide":"right","toNode":"7af474277e9a66de","toSide":"left"},
-		{"id":"469aeb6638cd9cfa","fromNode":"0f778b9e21c40003","fromSide":"right","toNode":"17a6b966b998d590","toSide":"left"},
-		{"id":"29e65b00da1653b8","fromNode":"c99e6bda6b112108","fromSide":"right","toNode":"ea2b1741fdee20c1","toSide":"left"}
+		{"id":"469aeb6638cd9cfa","fromNode":"0f778b9e21c40003","fromSide":"right","toNode":"90c195d28f3515c8","toSide":"left"},
+		{"id":"29e65b00da1653b8","fromNode":"c99e6bda6b112108","fromSide":"right","toNode":"ea2b1741fdee20c1","toSide":"left"},
+		{"id":"0ab6703f15bb06dd","fromNode":"70d58f4d846c194c","fromSide":"right","toNode":"3c77b9460eb06e53","toSide":"left"},
+		{"id":"6f4c22e12f97a70e","fromNode":"3c77b9460eb06e53","fromSide":"right","toNode":"e32beb9a918d136a","toSide":"left"},
+		{"id":"f30dab31d98e26f8","fromNode":"90c195d28f3515c8","fromSide":"right","toNode":"17a6b966b998d590","toSide":"left"}
 	]
 }
