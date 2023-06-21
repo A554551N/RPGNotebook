@@ -1,0 +1,14 @@
+A gloved hand reaches out and brushes a thin layer of ice from a datascreen.  Vital signs wink across the screen, scrawling out the tale of a stable, sleeping subject.  Grego Carden pulls the muffler down from over his mouth with a thoughtful sound and a puff of mist into the freezing air.  "It seems your information was worth the cost, smuggler."
+
+Behind him, a shriveled old man is crushed between two hulking alien forms.  "It is as I said, Vigo.  During the war I transported at least two dozen of these cryotanks and other raw materials for the Jedi Soontir Taur.  He claimed it was for a Republic project, but I always thought this was somethin'," he chews his thought for a moment, "*off the record*."
+
+Grego considers the old man a moment, then turns back to the twin rows of upright cryotanks that line the walls in front of him.  "Pay the man, Ruhk, and help him forget what he's found before he leaves."  With an affirmative grunt, the two aliens escort the wizened smuggler from the room.
+Once the man is gone, Grego addresses the final occupant of the room.  "You see why I needed the crystal Byrec?  Look at the genetic output, the Shapers' fingerprints are all over it.  They *must* know how to awaken the sleepers."  Grego's reflection is sour in the glass of the cryotank, "which is why it is so . . . *inconvenient* that you allowed the Temple to be destroyed without salvaging even one."
+
+Professor Byrec Suvan shrugs "I couldn't have foreseen that Pellian would choose to destroy the artifacts.  It's caused me a great deal of trouble as well."  He glances down at the offered genetric data, and then looks back sharply.  "*Indeed*, my lord, I see the mark of the Shapers' manipulation.  It's quite impressive actually.  Dramatically increased strength and speed, enhanced senses . . . is that a control chip?"  Grego nods, "Yes, not unlike the ones the Kaminoans created for the Clones, but responsive to different commands I would expect."  Byrec raises an eyebrow.  "So this Jedi was engaged in unauthorized cloning?  What makes this batch of clones worth all of the trouble?"
+
+Grego smiles and gestures to a beaten leather book on the table near the datapad.  "His journal suggests that Soontir Taur saw the danger that the war posed to the Jedi, he saw the casualty rates and knew that replenishment of the Order would take decades.  He knew that the Separatists would win without Jedi forces leading the Army.  He knew the Jedi needed warriors, not twenty years from now, but today."
+
+Byrec looks up at the nearest tank, a dark-haired man of about 25 sleeps within.  "You surely don't mean-"
+
+"I *do*, Byrec, *I do*.  Soontir Taur was cloning Jedi, and you're going to figure out how to wake them up for me."
