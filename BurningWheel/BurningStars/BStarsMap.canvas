@@ -2,18 +2,18 @@
 	"nodes":[
 		{"type":"group","id":"12276b4c4937cb6d","x":-920,"y":-360,"width":860,"height":880,"label":"The West"},
 		{"type":"group","id":"84997a7591a824fc","x":560,"y":-242,"width":1000,"height":644,"label":"The East"},
-		{"type":"group","id":"70e140cbb53001b9","x":-920,"y":-80,"width":787,"height":214,"label":"Din'Geletokir"},
+		{"type":"group","id":"70e140cbb53001b9","x":-883,"y":-80,"width":787,"height":214,"label":"Din'Geletokir"},
 		{"id":"1f38bc5112ac0320","x":40,"y":27,"width":400,"height":400,"type":"group","label":"The Unclaimed Lands"},
-		{"type":"file","file":"BurningWheel/BurningStars/Din'Geletokir Roden.md","id":"48411095db812176","x":-900,"y":64,"width":400,"height":50},
-		{"type":"file","file":"BurningWheel/BurningStars/New Sibiu.md","id":"f63d90f0f1d244e3","x":-727,"y":-60,"width":227,"height":64},
-		{"type":"file","file":"BurningWheel/BurningStars/Din'Geletokir.md","id":"7d3a5207b23a2fb0","x":-417,"y":-11,"width":260,"height":100},
-		{"type":"file","file":"BurningWheel/BurningStars/Sibiu.md","id":"c6ada9eb683efdb5","x":-287,"y":-340,"width":154,"height":50},
 		{"type":"file","file":"BurningWheel/BurningStars/Kamazamka.md","id":"0548bd497f72c02a","x":580,"y":-134,"width":271,"height":94},
 		{"type":"file","file":"BurningWheel/BurningStars/Mrak'n A'plana.md","id":"33c52324492e7133","x":1240,"y":-222,"width":287,"height":234},
 		{"type":"file","file":"BurningWheel/BurningStars/Envakadi.md","id":"8cba8f8190c810c4","x":-388,"y":373,"width":255,"height":118},
 		{"type":"file","file":"BurningWheel/BurningStars/Singer in the Wastes.md","id":"f64999c118f64d0d","x":55,"y":114,"width":370,"height":212},
 		{"type":"text","text":"Map Key","id":"9c292be262ea359b","x":115,"y":-558,"width":250,"height":60},
-		{"type":"text","text":"","id":"98f13dd431ea2430","x":115,"y":-340,"width":250,"height":60}
+		{"type":"text","text":"","id":"98f13dd431ea2430","x":115,"y":-340,"width":250,"height":60},
+		{"type":"file","file":"BurningWheel/BurningStars/Din'Geletokir Roden.md","id":"48411095db812176","x":-863,"y":64,"width":400,"height":50},
+		{"type":"file","file":"BurningWheel/BurningStars/New Sibiu.md","id":"f63d90f0f1d244e3","x":-690,"y":-60,"width":227,"height":64},
+		{"type":"file","file":"BurningWheel/BurningStars/Din'Geletokir.md","id":"7d3a5207b23a2fb0","x":-380,"y":-11,"width":260,"height":100},
+		{"type":"file","file":"BurningWheel/BurningStars/Sibiu.md","id":"c6ada9eb683efdb5","x":-287,"y":-310,"width":154,"height":50}
 	],
 	"edges":[
 		{"id":"ff4f3e968e216a83","fromNode":"f63d90f0f1d244e3","fromSide":"right","toNode":"7d3a5207b23a2fb0","toSide":"left","toEnd":"none"},
