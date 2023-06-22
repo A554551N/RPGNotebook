@@ -34,4 +34,13 @@ Signature Assets are items that belong to the character that are dice-worthy.  I
 |   Quick    | Logistics |                   |               |
 |   Sneaky   |           |                   |               |
 
+## Ships
+- Engine/Frame/System
+- 2 Signature Assets
+- 3 Distinctions, Model & 2 Others
+- Ships take Stress, with Shaken and Stricken
+
+## Relationships
+d6 with all PCs, must have a trait statement
+
 #mechanicsOnly 
