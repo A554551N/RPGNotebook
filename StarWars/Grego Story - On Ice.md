@@ -1,4 +1,4 @@
-A gloved hand reaches out and brushes a thin layer of ice from a datascreen.  Vital signs wink across the screen, scrawling out the tale of a stable, sleeping subject.  Grego Carden pulls the muffler down from over his mouth with a thoughtful sound and a puff of mist into the freezing air.  "It seems your information was worth the cost, smuggler."
+A gloved hand reaches out and brushes a thin layer of ice from a datascreen.  Vital signs wink across the screen, scrawling out the tale of a stable, sleeping subject.  Grego Carden pulls the muffler down from over his mouth with a thoughtful sound and a puff of steam into the freezing air.  "It seems your information is worth your price, smuggler."
 
 Behind him, a shriveled old man is crushed between two hulking alien forms.  "It is as I said, Vigo.  During the war I transported at least two dozen of these cryotanks and other raw materials for the Jedi Soontir Taur.  He claimed it was for a Republic project, but I always thought this was somethin'," he chews his thought for a moment, "*off the record*."
 

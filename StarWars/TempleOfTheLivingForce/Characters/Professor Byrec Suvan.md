@@ -2,4 +2,4 @@
 
 Sworn nemesis of [[Val Pellian|Doctor Val Pellian]]
 
-It is revealed that the Professor was a member of the original Indosus team from the Separatists.
+It is revealed that the Professor was a member of the original Indosus team from the Separatists and is working directly for [[Grego Carden]].

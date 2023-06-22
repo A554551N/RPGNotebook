@@ -20,7 +20,7 @@ Neophyte was the Inquisitor assigned to the Imperial Cruiser [[Gladiator]].  He 
 ## Narwahl
 Narwahl is an Imperial Bureaucrat with a desire for advancement.  He has hired Val Pellian and other unsavory academics to recover artifacts for him so that he can offer them as gifts to the Emperor.
 
-## Professor Byrec Suvan
+## [[Professor Byrec Suvan]]
 He's old and wrinkled as Pellian, but prefers hired mercs to grad students.  They're both in search of the one big find that will cement their legacy forever.
 
 ## Oret Paz
@@ -32,7 +32,7 @@ An ancient sect of Force Users (A rival of the Entity's?) that focus on chanelli
 
 They seek to lay claim to the great store of knowledge that The Old Masters possessed, so as to destroy it and finally win their ancient war.
 
-## The Old Masters
+## The Shapers
 The Entity's faction, masters of the most esoteric parts of the Force.  To anyone not versed in their ways, their work might be seen as sorcerous (and other sects of Force Users in the early Republic *certainly* found their work heretical.)
 
 Their specialty is in manipulating the living Force within other beings, which is exactly as scary as it sounds.  By changing the Living Force within creatures, they could reshape those beings.  On their death, it was traditional for masters of the tradition to be sealed into a chunk of Kyber crystal so that their knowledge could be passed down to the next worthy generation.
