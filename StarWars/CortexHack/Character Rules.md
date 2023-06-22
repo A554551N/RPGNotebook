@@ -23,4 +23,15 @@ When a character stresses out (gains stress of one type above d12), they gain a 
 ### Signature Assets
 Signature Assets are items that belong to the character that are dice-worthy.  In this build, Signature Assets can have SFX.
 
+# Pilots Build
+
+| Approaches |     Roles     |   Distinctions    | Relationships |
+|:----------:|:-------------:|:-----------------:|:-------------:|
+|  Careful   |    Officer    |   Why I Joined    |      One      |
+|   Clever   |    Wingman    |   Military Role   |      Per      |
+|   Flashy   |   Commando    | Quirk/Personality |      PC       |
+|  Forceful  | Groundpounder |                   |               |
+|   Quick    |   Logistics   |                   |               |
+|   Sneaky   |               |                   |               |
+
 #mechanicsOnly 
