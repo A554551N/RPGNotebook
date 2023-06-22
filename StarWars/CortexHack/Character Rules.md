@@ -25,13 +25,13 @@ Signature Assets are items that belong to the character that are dice-worthy.  I
 
 # Pilots Build
 
-| Approaches |     Roles     |   Distinctions    | Relationships |
-|:----------:|:-------------:|:-----------------:|:-------------:|
-|  Careful   |    Officer    |   Why I Joined    |      One      |
-|   Clever   |    Wingman    |   Military Role   |      Per      |
-|   Flashy   |   Commando    | Quirk/Personality |      PC       |
-|  Forceful  | Groundpounder |                   |               |
-|   Quick    |   Logistics   |                   |               |
-|   Sneaky   |               |                   |               |
+| Approaches |   Roles   |   Distinctions    | Relationships |
+|:----------:|:---------:|:-----------------:|:-------------:|
+|  Careful   |  Officer  |   Why I Joined    |      One      |
+|   Clever   |  Wingman  |   Military Role   |      Per      |
+|   Flashy   | Commando  | Quirk/Personality |      PC       |
+|  Forceful  |  Bruiser  |                   |               |
+|   Quick    | Logistics |                   |               |
+|   Sneaky   |           |                   |               |
 
 #mechanicsOnly 
