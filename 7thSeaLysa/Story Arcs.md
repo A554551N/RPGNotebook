@@ -2,6 +2,8 @@
 *[[Saoirse]] pursues her runaway husband across the world, attempting to beat him to a [[Syrneth]] artefact that can control the weather.  With the fate of nations at stake, can she overcome the odds and claim the device?*
 - Most of this arc happened before my notes came into Obsidian
 - [[20230608 Session Notes]]
+- [[20230622 Session Notes]]
+
 # Returning to Avalon
 ## The Oldest Tree in the Forest
 *[[Saoirse]] returns to Avalon and protects the Cobbler family from the consequences of an ill-struck faerie bargain.*
