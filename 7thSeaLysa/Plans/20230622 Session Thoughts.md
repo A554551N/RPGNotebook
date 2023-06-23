@@ -1,3 +1,3 @@
 - Something powerful seeks [[Stormbringer]] (it sensed the pulse of magic when [[Saoirse]] activated it).  It will attempt to gain the artefact on the way to [[Avalon]].
-	- Who?  What is it?
+	- An Atabean pirate who collects relics, 
 - [[Baronet Bartram Sumner]] has men out looking for [[Egis Loneur]] after his men spotted him leaving Sumner's office during the party.  He believes that Egis is working for whoever prevented Halla from capturing the *Lightning* and foiled his scheme.  This happens to be true, but he doesn't know that Egis works for Saoirse.
