@@ -19,5 +19,28 @@ monster: Spawn of the Master
 ```
 
 # Rorschach
-*Rorschach is on the *
+*Rorschach is on the trail of a missing Star Court noble.  He's checked-in with a Court asset in Glitterhagen and discovered that someone has used him as a pawn to steal jewels.  [[Rorschach]] decides to lay an ambush and hope that the person returns.*
+
+## Rumble in the Linen Shop
+*The Ambassador has entreated the Crusader's people to send an assassin to silence the Agent.  The Cambion assassin (bound with an Iron Collar) will kill him using a dark elf's Silver Blade so that the Ambassador can continue to foment discontent against the Dark Elves in the Court.*
+
+The Assassin is here to kill Jules the Linen Trader.  He will need to go through the Warehouse, into the Shop Floor, up to the Second Floor (Stairs) and into Jules Room (Bedroom), then spend an action to stab him.  Rorschach's goal will be to stop the demon from reaching Jules.
+
+**Warehouse > Shop Floor > Stairs > Second Floor > Bedroom > Stab!**
+
+The Assassin will strike at [[Rorschach]] as needed to become **Cloaked**, and then will disengage to continue seeking its target.  The Cambion is visible in **Shadow Walk** regardless of **Cloak**.
+
+If the Assassin is captured, Rorschach can attempt to get more information (DC 25 relevant) from him, but after 3 questions the Iron Collar will compress suddenly, decapitating the creature.
+
+The Cambion is carrying a dagger of obviously dark elven make.  A well-crafted blade like this would normally only be found in the hands of a Point of the Star (in fact, Rorschach probably has one like it).  The heavy Iron Collar he wore bears the stamped mark of the Crusader.
+
+### The Assassin
+```13a
+monster: Cambion Hellblade
+```
+
+I'm willing to play a little loose here to give Rorschach some leeway on how he gets into the next scene.
+
+## 
 #13thAge 
+
