@@ -43,5 +43,14 @@ I'm willing to play a little loose here to give Rorschach some leeway on how he 
 
 ## Scheme Revealed
 *Following a trail of clues, Rorschach finds himself in a dingy warehouse on the edge of Riddleport.  As he enters, a drow strike team enters from the other side.  They have also been investigating the disappearance of the Ambassador, but they think that he planned it himself.  Unaware of Rorschach's being involved by the Queen, they initially believe him to be an asset of the Ambassador's.*
+
+This can go one of two ways, either Rorschach and the Drow Strike Team come to an agreement about how to deal with the Ambassador (in which case we use the demon encounter), or they can't (in which case they fight).
+
+### Drow Fight
+- 5x Drow Soldiers up-leveled to 10
+- 2x Drow Darkbolts up-leveled to 10
+
+### Demon Fight
+
 #13thAge 
 
