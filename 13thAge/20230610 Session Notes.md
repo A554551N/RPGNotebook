@@ -17,7 +17,7 @@
 # Terach's Story
 - Terach is spending his downtime on [[Menzel Myryfindor|Menzel]]'s ship, they plan to hijack a skyship carrying military payroll to [[Axis]].
 - They drop [[Rorschach]] off over the [[Queenswood]] and then head to [[Drakkenhall]] to see Seifer before attacking the ship.
-	- They decide to stay to make a wager with [[Margeragosa]] on [[Seifer Drace|Seifer]]'s success.
+	- They decide to stay to make a wager with [[Margeragosa]] on [[Seifer Drace|Seifer]]'s success.  Becoming quite wealthy in the process.
 
 > [!info]- Tags
 > #13thAge #sessionNotes 
