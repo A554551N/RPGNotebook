@@ -39,8 +39,9 @@ The Cambion is carrying a dagger of obviously dark elven make.  A well-crafted b
 monster: Cambion Hellblade
 ```
 
-I'm willing to play a little loose here to give Rorschach some leeway on how he gets into the next scene.
+I'm willing to play a little loose here to give Rorschach some leeway on how he gets into the next scene.  As a possibility, the Cambion is carrying a stamped ticket for a ship that entered Glitterhagen from Riddleport, 
 
-## 
+## Scheme Revealed
+*Following a trail of clues, Rorschach finds himself in a dingy warehouse on the edge of Riddleport.  As he enters, a drow strike team enters from the other side.  They have also been investigating the disappearance of the Ambassador, but they think that he planned it himself.  Unaware of Rorschach's being involved by the Queen, they initially believe him to be an asset of the Ambassador's.*
 #13thAge 
 
