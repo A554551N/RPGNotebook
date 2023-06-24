@@ -19,5 +19,5 @@ monster: Spawn of the Master
 ```
 
 # Rorschach
-
+*Rorschach is on the *
 #13thAge 
