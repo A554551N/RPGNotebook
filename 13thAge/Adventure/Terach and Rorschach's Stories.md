@@ -50,7 +50,7 @@ This can go one of two ways, either Rorschach and the Drow Strike Team come to a
 - 5x Drow Soldiers up-leveled to 10
 - 2x Drow Darkbolts up-leveled to 10
 
-### Demon Fight
-
+### Crusader Fight
+Bro I have no fucking idea.  I might just have use the Drow stats and skin them as demons.  That should work right?
 #13thAge 
 
