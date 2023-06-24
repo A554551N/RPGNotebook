@@ -39,6 +39,7 @@ The Cambion is carrying a dagger of obviously dark elven make.  A well-crafted b
 monster: Cambion Hellblade
 ```
 
+
 I'm willing to play a little loose here to give Rorschach some leeway on how he gets into the next scene.  As a possibility, the Cambion is carrying a stamped ticket for a ship that entered Glitterhagen from Riddleport, 
 
 ## Scheme Revealed
