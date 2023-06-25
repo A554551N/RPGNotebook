@@ -33,3 +33,6 @@ Description of your strong start.
 
 ## Potential Treasure
 * Description
+
+> [!info]- Tags
+
