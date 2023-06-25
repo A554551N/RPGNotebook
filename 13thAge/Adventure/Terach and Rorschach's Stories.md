@@ -48,6 +48,8 @@ I'm willing to play a little loose here to give Rorschach some leeway on how he 
 This can go one of two ways, either Rorschach and the Drow Strike Team come to an agreement about how to deal with the Ambassador (in which case we use the demon encounter), or they can't (in which case they fight).
 
 ### Drow Fight
+> [!warning] Balance
+> I want to revisit this, the action economy balance is probably off.
 - 5x Drow Soldiers up-leveled to 10
 - 2x Drow Darkbolts up-leveled to 10
 
