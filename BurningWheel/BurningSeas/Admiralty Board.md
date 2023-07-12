@@ -10,5 +10,8 @@ The Admiralty Board also retains the power to unseat the Lord Admiral of the Pan
 
 # Current Members
 - [[Lord Admiral Mason]]
-- The guy from the party whose name I have forgotten
+- Admiral Stanford
+- [[Admiral Lynwood]]
 - [[Marcus Fields|Admiral Marcus Fields]]
+- Unknown
+- Unknown
