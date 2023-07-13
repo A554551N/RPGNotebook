@@ -13,6 +13,8 @@
 	- He agrees to the terms, and takes a beating while hurling the braggart into the harbor
 	- After the fight, the Countess and [[Rufino]] fish the angry Vesten from the drink and offer him a chance to gain vengeance against Nikola and the others.
 - Nikola remembers seeing the Countess as the Ambassador from the Queen.
-	- The crew discusses options for continuing.
+	- The crew discusses options for dealing with her.
+- A townsperson comes in screaming 'Fire!', the Varnham manor is on fire.
+- 
 > [!info]- Tags
 > #sessionNotes  #7thSea #7thWed
