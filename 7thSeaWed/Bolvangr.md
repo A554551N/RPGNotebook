@@ -6,5 +6,5 @@ Bolvangr is currently part of a story about traitors working against the Vendel 
 
 - A Warfare Risk to determine the most likely points of attack for the Mint.
 	- Raw Materials have to enter the Mint somehow, 
-	- The areas above the Mint in the Breifa are less priveleged, intruders could get that deep and then just have to know how to access the Mint
+	- The areas above the Mint in the Breifa are less privileged, intruders could get that deep and then just have to know how to access the Mint
 	- 
