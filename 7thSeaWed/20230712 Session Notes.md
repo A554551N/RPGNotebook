@@ -15,6 +15,7 @@
 - Nikola remembers seeing the Countess as the Ambassador from the Queen.
 	- The crew discusses options for dealing with her.
 - A townsperson comes in screaming 'Fire!', the Varnham manor is on fire.
-- 
+	- A serving-lass comes out of the house screaming that a man had snuck into the house and attacked Tristan.  There are still servants inside the house
+
 > [!info]- Tags
 > #sessionNotes  #7thSea #7thWed
