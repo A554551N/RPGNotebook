@@ -7,7 +7,7 @@
 ## NPCs
 - [NPCs - Kentriko](NPCs/KentrikoNPCs.md)
 - [NPCs - Trokos](NPCs/TrokosNPCs.md)
-- [NPCs - Other](NPCs/OtherNPCs.md)
+- [NPCs - Other](TravellingNPCs.md)
 
 ## Worldbuilding
 - [World Information](WorldNotes.md)

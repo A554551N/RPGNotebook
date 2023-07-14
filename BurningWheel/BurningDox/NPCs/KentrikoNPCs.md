@@ -8,7 +8,9 @@
 #### Beliefs
 *On hold until he's on screen again*
 
+### Captain Navagio
+Captain Navagio is a smuggler, and [[Melanion]]'s former boss.  Over the course of the story he has emerged as a revolutionary figure in [[Kentriko]].  He is openly antagonistic toward the Enkavmans, and serves as a de facto leader for the town.
+
 ## Minor NPCs
-- **Captain Navagio** - Smuggler, captain of the **Lady Grace**.  His ship was badly damaged in the magical storm that [Perseus](Perseus.md) summoned during the crossing to Trokos.
 - **Boulder** - A crewman that fought with [Melanion](Melanion.md) during the crossing to Trokos.  Turned him on to [One-eyed Stevos](TrokosNPCs.md)' fight club in Trokos.
 - **Teloni & Poukamisa** - Owners of the **Aktina**, the tavern in Kentriko where [Cassandra](Cassandra.md) worked.
