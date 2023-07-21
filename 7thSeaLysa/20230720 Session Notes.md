@@ -4,7 +4,7 @@
 
 - [[Saoirse]] unleashes the [[Stormbringer]], leaving a tree-shaped scar on [[Androw Rakhill]]'s ghastly cheek.   She then falls Helpless and Rakhill takes the artifact and leaves.
 - Saoirse wakes up with the ship closing in on Avalonian waters.
-
+- [[Rafe Gage]] enters the sickbay, furious that Saoirse lied to him about getting rid of the artifact.  They briefly discuss how to handle [[Mr Morton]]
 > [!info]- Tags
 > #7thSea#sessionNotes <game>
 
