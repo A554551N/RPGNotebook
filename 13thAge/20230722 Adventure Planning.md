@@ -16,8 +16,8 @@ Description of your strong start.
 * Shoot for 10
 
 ## Fantastic Locations
-**The Stacks**: endlessly winding, packed with ancient manuscripts, aspect
-**Location**: aspect, aspect, aspect
+**The Stacks**: endlessly winding, packed with ancient manuscripts, cramped
+**The 'Living' Exhibits**: Rune-marked cages and tanks, Exotic creatures from ancient times, *unsure*
 **Location**: aspect, aspect, aspect
 **Location**: aspect, aspect, aspect
 
