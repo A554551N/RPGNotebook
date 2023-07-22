@@ -18,11 +18,11 @@ Description of your strong start.
 ## Fantastic Locations
 **The Stacks**: endlessly winding, packed with ancient manuscripts, cramped
 **The 'Living' Exhibits**: Rune-marked cages and tanks, Exotic creatures from ancient times, *unsure*
-**Location**: aspect, aspect, aspect
-**Location**: aspect, aspect, aspect
+**The Crypts**: Crushing Weight of Earth, monumental tombs from every Age, a constant flow of Ghosts.
+**The Throne Room**: Great Doors to Permit the Dragon, An Icon's Ransom of gold and artefacts, Carefully curated relics adorning the walls.
 
 ## Important NPCs
-**Name.** Description
+**Etheridge** The great dragon himself, a voracious collector of ancient books and artefacts
 **Name.** Description
 **Name.** Description
 **Name.** Description
