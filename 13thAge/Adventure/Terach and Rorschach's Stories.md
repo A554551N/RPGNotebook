@@ -58,7 +58,7 @@ This can go one of two ways, either Rorschach and the Drow Strike Team come to a
 		- *Natural Even Hit:* The Commander gains 25 temporary hit points.
 - 4 or more Drow/Demon Soldiers up-leveled to 9
 	- **AC** 25 **PD** 23 **MD** 19 **HP Per** 40
-	- **Melee:** +14 / 25 dmg
+	- **Melee:** +13 / 25 dmg
 	- **Ranged:** +14 / 30 dmg
 - 2x Drow/Demon Darkbolts up-leveled to 10
 	- **AC** 26 **PD** 24 **MD** 20 **HP** 150
