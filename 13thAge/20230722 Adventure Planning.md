@@ -15,13 +15,13 @@ During the hand-off of the book, the museum is breached.  Etheridge activates th
 
 ## Secrets and Clues
 
-* The Lich King desires his staff, which is on display in the museum
-* Menzel is bound to the will of the Lich King by his soul prison
-* A painting of the High Druid and Emperor together, holding a child
+* ~~The Lich King desires his staff, which is on display in the museum~~
+* ~~Menzel is bound to the will of the Lich King by his soul prison~~
+* ~~A painting of the High Druid and Emperor together, holding a child~~
 * Among the artifacts in the museum is a blade that can pierce the [[Crusader]]'s cursed armor
-* Many of the exhibits in the museum come to life
-* The cave complex once belonged to the Dwarves until Etheridge forced them out
-* The [[Prince of Shadows]] is bound from entering this place by the dwarves' ancient prohibition against thieves
+* ~~Many of the exhibits in the museum come to life~~
+* ~~The cave complex once belonged to the Dwarves until Etheridge forced them out~~
+* ~~The [[Prince of Shadows]] is bound from entering this place by the dwarves' ancient prohibition against thieves~~
 * Etheridge is nursing a clutch of eggs
 * The museum contains a small collection of ancient Star-Masks that seek to be free
 * **Need One more**
@@ -34,7 +34,7 @@ During the hand-off of the book, the museum is breached.  Etheridge activates th
 
 ## Important NPCs
 **Etheridge** The great dragon himself, a voracious collector of ancient books and artefacts
-**Captain Menzel.** The Lich captain 
+**Captain Menzel.** The Lich captain, bound in service to the Lich King
 **Adidas P. Nike.** One of the oldest statues in the museum, can answer questions when appropriately flattered.
 
 ## Potential Monsters
@@ -42,7 +42,6 @@ During the hand-off of the book, the museum is breached.  Etheridge activates th
 * Djinn
 * [[Menzel Myryfindor]] (Vampire) and Crew (Spawn of the Master)
 * Star-Masks (Bestiary 2)?
-* 
 
 ## Potential Treasure
 * The Wizard King's Staff
