@@ -49,9 +49,22 @@ This can go one of two ways, either Rorschach and the Drow Strike Team come to a
 
 ### Drow Fight
 > [!warning] Balance
-> I want to revisit this, the action economy balance is probably off.
-- 5x Drow Soldiers up-leveled to 10
-- 2x Drow Darkbolts up-leveled to 10
+> This is a **big** fight.  I think we need to call these in in smaller groups of 2 Solders and a Darkbolt.  Additionally, I want to give Greg a Rogue experience.  To do this, I'm going to try and give him a chance to get into hiding and then work on taking them out from cover using sneak attack.  Maybe set the guards patrolling for him, keeping the darkbolts with the leader near the middle.
+- 1x Drow Commander (Half-Orc Commander Up-leveled to 10)
+	- **AC** 26 **PD** 24 **MD** 20 **HP** 200
+	- **Melee:** +15 / 20 dmg
+		- *Natural Even Hit:* The Drow Commander allows one nearby mook to make an attack as a free action.
+	- **Ranged:** +15 / 20 dmg
+		- *Natural Even Hit:* The Commander gains 25 temporary hit points.
+- 4 or more Drow/Demon Soldiers up-leveled to 9
+	- **AC** 25 **PD** 23 **MD** 19 **HP Per** 40
+	- **Melee:** +14 / 25 dmg
+	- **Ranged:** +14 / 30 dmg
+- 2x Drow/Demon Darkbolts up-leveled to 10
+	- **AC** 26 **PD** 24 **MD** 20 **HP** 150
+	- **Melee:** +15 / 30 damage
+	- **Ranged:** +15 / 40 damage, 10 ongoing
+	- **Wall-Walker:** The Darkbolt can walk on walls and ceilings as easily as on the floor.
 
 ### Crusader Fight
 Bro I have no fucking idea.  I might just have use the Drow stats and skin them as demons.  That should work right?
