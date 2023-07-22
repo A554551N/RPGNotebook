@@ -13,7 +13,8 @@ Description of your strong start.
 
 ## Secrets and Clues
 
-* Shoot for 10
+* The Lich King desires his staff, which is on display in the museum
+* 
 
 ## Fantastic Locations
 **The Stacks**: endlessly winding, packed with ancient manuscripts, cramped
@@ -30,6 +31,8 @@ Description of your strong start.
 ## Potential Monsters
 * Marble Golems
 * Djinn
+* Vampire and Spawn/Other Undead
+* 
 
 ## Potential Treasure
 * Description
