@@ -1,6 +1,6 @@
 **Location:** The burning shell of Varnham's manor
 
-*The crew returns from the wake to find Varnham's house fully involved.  *
+*The crew returns from the wake to find Varnham's house fully involved.  They leap into action*
 
 - Notes start here
 
