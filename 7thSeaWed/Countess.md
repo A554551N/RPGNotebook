@@ -7,6 +7,9 @@ The Countess comes from an old money family in Montaigne that was essentially de
 [[Jean-Paul]] demanded that Amelie Walk into a fortified Eisen town with a Company of soldiers to help lift a siege.  Daniele argued against it, knowing Amelie wasn't strong enough to do it.  Sure enough, the portal inside of the city never opened.  Jean-Paul wrote his sister off as a tragic death, but Daniele believes that her sister is still alive somewhere in the Walkways despite all the odds.
 That's when she departs the family home, leaves the war behind, and begins researching the best way to rip open the Walkway and find her sister.
 
+## Aliases
+- **Avalon** - Lady Agnes Salford, Esq.  - Envoy of the Queen.
+
 > [!info]- Tags
 > #7thSea #villain #7thWed 
 
