@@ -8,6 +8,10 @@
 	- Bumper checks out a junk shop run by a guy who's pretty clearly robbing dead bodies from the Eastern road
 		- Bumper searches the piles of scrap behind the stall hoping to find anything connected to the elves or the constellations, he discovers an elven knife stabbed into a set of armor and a shitty beaten iron pendant with the [[Shadow Weaver]]'s mark on it that clearly wasn't made by Dwarven or Elven hands.
 		- The blade bears two inscriptions "Pesta", probably an owner's name, and "Rembulon" which means 'Moonlight'
+		- The group tries to buy the dagger off of the merchant (Ob 4 Resources) and fails
+	- [[Kornelie]] goes into the tunnels in search of her friend Shovda, a Delver.
+		- Shovda tells Kornelie that the underground gates to [[Mrak'n A'plana]] remain sealed despite years of effort by delvers to open them.
+		- She offers to show Kornelie the worksite after her shift in exchange for a drink.
 
 > [!info]- Tags
 > #sessionNotes #BurningWheel #BurningStars
