@@ -8,6 +8,7 @@
 - Bumper steals Jam's explosives
 - Morwen convinces the Monster to spare them in exchange for safe passage for the creature to Envakadi.
 - The party plans to use Jam & Rak's explosives to open the tower next session.
+
 # 1-11-2022 Session Notes
 - After getting Jam & Rak to a surgeon, Morwen & Bumper emerge from the inn to find the entire village of Sibiu in the steets staring up at the night sky.  For the first time in 100 years, a constellation burns in the dark.  What does it mean?
 - **Constellation Beliefs**
@@ -25,3 +26,7 @@
 - The Temple has all of the old constellations in the ceiling and a map of the world on the floor.
 
 ![[20230411 Session Notes]]
+
+![[20230509 Session Notes]]
+
+![[20230620 Session Notes]]
