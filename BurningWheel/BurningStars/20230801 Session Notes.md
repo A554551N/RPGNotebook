@@ -7,7 +7,7 @@
 - The group passes into the mountain after a light altercation with the Wardens over Kornelie's Outsider-ness.
 	- Bumper checks out a junk shop run by a guy who's pretty clearly robbing dead bodies from the Eastern road
 		- Bumper searches the piles of scrap behind the stall hoping to find anything connected to the elves or the constellations, he discovers an elven knife stabbed into a set of armor and a shitty beaten iron pendant with the [[Shadow Weaver]]'s mark on it that clearly wasn't made by Dwarven or Elven hands.
-	- 
+		- The blade bears two inscriptions "Pesta", probably an owner's name, and "Rembulon" which means 'Moonlight'
 
 > [!info]- Tags
 > #sessionNotes #BurningWheel #BurningStars
