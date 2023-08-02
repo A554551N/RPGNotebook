@@ -5,7 +5,9 @@
 	- He mentions that Field Roden missionaries sometimes come from East (toward [[Mrak'n A'plana]]) to trade for food and goods.
 - [[Kamazamka]] is a volcano, and the heat is harnessed from there to power lifts and mechanisms throughout.
 - The group passes into the mountain after a light altercation with the Wardens over Kornelie's Outsider-ness.
-- 
+	- Bumper checks out a junk shop run by a guy who's pretty clearly robbing dead bodies from the Eastern road
+		- Bumper searches the piles of scrap behind the stall hoping to find anything connected to the elves or the constellations, he discovers an elven knife stabbed into a set of armor and a shitty beaten iron pendant with the [[Shadow Weaver]]'s mark on it that clearly wasn't made by Dwarven or Elven hands.
+	- 
 
 > [!info]- Tags
 > #sessionNotes #BurningWheel #BurningStars
