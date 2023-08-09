@@ -1,5 +1,5 @@
 ## Gloun Wymyslny - Human Noble - Avatar
-*Old war tales� and the scars to remind you.*
+*Old war tales and the scars to remind you.*
 
 | AGI |  Spd   | CS  | Cst | Tg  | Wl  |  Lck   | XP  |
 |:---:|:------:|:---:|:---:|:---:|:---:| :---: |:---:|
