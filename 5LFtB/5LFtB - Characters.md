@@ -72,8 +72,9 @@
 - Driven (Gain more than 1pt of **Will**, gain 2xp when obtaining a **Will Advance**)
 
 ### Weapons
-- Self Bow (Range 18" +0/+0)
+- Self Bow (Range 18" +0/+0) - ***Damaged***
 	- Bulky, Limited Ammunition
+- Hatchet (-1/+0)
 
 ### Armor
 - None

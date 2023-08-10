@@ -1,7 +1,7 @@
 # Metacurrency
 - **Story Points** - 3
 # Company Wealth
-- **Gold Marks** - 3
+- **Gold Marks** - 2
 
 # Company Inventory
 
