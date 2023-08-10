@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"type":"group","id":"dbe705327e63b6ef","x":-2220,"y":-680,"width":1820,"height":1020,"label":"Push These Things"},
+		{"type":"text","text":"# Hubris\n## Sandro\nYou receive a Hero Point when your Hero becomes enamored with someone she really shouldn’t\n\n## Nikola\nYou receive 2 Hero Points when you choose to fail an important Risk before rolling\n\n## Bolvangr\nYou receive a Hero Point when your Hero fails to understand an important plot element and that misunderstanding leads to danger for herself or others.","id":"a450b0ae2d7c2489","x":-2200,"y":-660,"width":880,"height":440},
+		{"type":"text","text":"# Quirks\n## Sandro\n- Earn a Hero Point when you choose to let another character get away with something because you're romantically interested in him, and it gets you into trouble.\n- Earn a Hero Point when you use your crowd-pleasing skills for something more than making a few coins\n\n## Nikola\n- Earn a Hero Point when you solve a complex problem in a simple, tried and true method from back on the farm.\n- Earn a Hero Point when you teach someone a lesson in a way that would make Matushka proud\n## Bolvangr\n- Earn a Hero Point when you resort to the edge of your blade to defend a noble ideal\n- Earn a Hero Point when you choose to fight to defend the defenseless or prevent destruction","id":"2cc3fcbb7ee2f408","x":-2200,"y":-220,"width":880,"height":537},
+		{"type":"text","text":"# Nikola's Sorcery Restrictions\n## Forgiveness\nYou must always show mercy to the enemy and may never hold a grudge against those that act against you.\n## Kindness\nYou must always offer aid to those in need - Friends, strangers - no matter how desperate the situation.","id":"2ae52aa0e498d8ba","x":-1320,"y":-660,"width":880,"height":440},
+		{"type":"text","text":"# Countess' Current Scheme\nRetreive the Blood Sorcerer's Knife from the vaults beneath the Brefa","id":"c20594ab346553d1","x":-1840,"y":340,"width":880,"height":180},
+		{"type":"text","text":"# Spend Danger Points\n- +2D to a Villain's Risk\n- Apply Pressure to all Heroes in a Scene\n- Increase the threshold for a Raise by 5\n- Commit Murder","id":"1914e3fd1fa0ac38","x":-2220,"y":340,"width":380,"height":180}
+	],
+	"edges":[]
+}
