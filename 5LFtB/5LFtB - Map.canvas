@@ -20,7 +20,7 @@
 		{"type":"text","text":"The Whispers Camp","id":"d128fd8f1162463a","x":-1520,"y":-470,"width":250,"height":65},
 		{"type":"text","text":"Curse of War Camp","id":"c8bbf7d97a467c55","x":-1275,"y":195,"width":250,"height":65},
 		{"type":"text","text":"# Enemy Groups\n- The Ice-Heart Court - Threat 5\n- The Whispers From Beyond - Threat 5\n- Curse of War - Threat 6","id":"9ea532c9174c6d17","x":-2160,"y":-230,"width":450,"height":594},
-		{"type":"text","text":"Unexplored Location","id":"a4092b819e874557","x":600,"y":480,"width":250,"height":65},
+		{"type":"text","text":"Monster Lizard Lair*","id":"a4092b819e874557","x":600,"y":480,"width":250,"height":65},
 		{"type":"text","text":"# [[5LFtB - Company Records|Company]]\n","id":"5e5653c7a66ac518","x":400,"y":465,"width":200,"height":80}
 	],
 	"edges":[
