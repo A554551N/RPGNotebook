@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"93eff89dbde64df5","x":450,"y":460,"width":420,"height":180,"type":"group","label":"Tripass Area"},
 		{"type":"text","text":"# [[Hamlet of Gora]]","id":"06cb98d1017f0f2e","x":-900,"y":-520,"width":260,"height":80},
 		{"type":"text","text":"# Hopeditch","id":"943bb6ac57045306","x":-475,"y":-840,"width":250,"height":60},
 		{"type":"text","text":"# [[Village]]","id":"38b228a6a5e65cfa","x":-50,"y":-470,"width":180,"height":60},
@@ -18,7 +19,9 @@
 		{"type":"text","text":"Ice-Heart Camp","id":"5f556430a31659ed","x":505,"y":-675,"width":250,"height":65},
 		{"type":"text","text":"The Whispers Camp","id":"d128fd8f1162463a","x":-1520,"y":-470,"width":250,"height":65},
 		{"type":"text","text":"Curse of War Camp","id":"c8bbf7d97a467c55","x":-1275,"y":195,"width":250,"height":65},
-		{"type":"text","text":"# [[5LFtB - Company Records|Company]]\n","id":"5e5653c7a66ac518","x":265,"y":540,"width":200,"height":80}
+		{"type":"text","text":"# Enemy Groups\n- The Ice-Heart Court - Threat 5\n- The Whispers From Beyond - Threat 5\n- Curse of War - Threat 6","id":"9ea532c9174c6d17","x":-2160,"y":-230,"width":450,"height":594},
+		{"type":"text","text":"Unexplored Location","id":"a4092b819e874557","x":600,"y":480,"width":250,"height":65},
+		{"type":"text","text":"# [[5LFtB - Company Records|Company]]\n","id":"5e5653c7a66ac518","x":400,"y":465,"width":200,"height":80}
 	],
 	"edges":[
 		{"id":"5b45d78f1eb3ccbc","fromNode":"1ceb121ec09bd08d","fromSide":"top","toNode":"bff56ba6c20aa239","toSide":"bottom"},
