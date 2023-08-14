@@ -28,7 +28,7 @@
 |     Fog     |   6+   |         Ground         |                                            Place a fog cloud circle 3" across. Figures can move into, out of, and through it, but it blocks all Lines of Sight.                                            |      Full Round      |
 |   Barrier   |   6+   |         Ground         | Place a line of fire 4" long and 0.5" wide without touching any characters. This spell prevents all movement across it, except by figures with the Flying trait. It may be shot across, but provides Cover |      Full Round      |
 | Premonition |   7+   |           -            |                                                                            When rolling for Initiative, 2 dice may be rerolled.                                                                            | Next Initiative Roll |
-|  Distract   |   7+   | 1 Enemy Ranged Trooper |                                                                               The target will remain in place and now shoot.                                                                               | Activation                     |
+|  Distract   |   7+   | 1 Enemy Ranged Trooper |                                                                               The target will remain in place and not shoot.                                                                               | Activation                     |
 
 ### Inventory
 - Torches x3
