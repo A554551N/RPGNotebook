@@ -2,7 +2,7 @@
 
 | AGI |  Spd   | CS  | Cst | Wl  | Tg  | Lck | XP  |
 |:---:|:------:|:---:|:---:|:---:|:---:| :---: |:---:|
-|  1  | 4"/+3" | +0  | +1  |  0  |  3  | 0   |  2  |
+|  1  | 4"/+3" | +0  | +1  |  0  |  3  | 0   |  4  |
 
 ### Racials
 - Wits +1
@@ -12,6 +12,7 @@
 
 ### Skills
 - Alchemy +2
+- Scholar +2
 
 ### Weapons
 - Fine Wizard's Staff (-1/+0)
