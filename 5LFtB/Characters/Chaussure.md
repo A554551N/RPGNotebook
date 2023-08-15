@@ -15,8 +15,8 @@
 - Scholar +2
 
 ### Weapons
-- Fine Wizard's Staff (-1/+0)
-	- Parry (p. 42)
+- Fine War Seax (+0/+0)
+	- If the weapon would be damaged it isn't, but instead loses the Fine quality.
 
 ### Armor
 - Light Armor (1 Armor)

@@ -1,4 +1,4 @@
-# Campaign Turn: 3
+# Campaign Turn: 6
 # Metacurrency
 - **Story Points** - 1
 - **Adventure Points** - 5
@@ -14,11 +14,13 @@
 | Essence Crystal |  1  | The crystal may be used as a *Use* Action, and allows a known spell to be cast without using a Strand and without requiring a *Casting* roll                                                                                                                                                                                                                                                                 |
 
 # Contracts
-- Town Council of Tripass requests escort for **A PERSON** from [[Village of Gora]] to [[Tripass]]
-	- **Reward:** 1 Mark
-	- **Time Limit:** Retrieve Cargo by CT5 or Contract fails
+- Friend Siazka requests Aid for the Town of Tripass.  We must run 3 patrols before time runs out.
+	- 2 Gold Marks and 1 Story Point
+	- Expires at end of CT11
 # Company Armory
 
+# Company Friends
+- Siazka - The Scholar (Friend)
 # Threats
 ## The Ice-Heart Court - TL 5
 ## The Whispers From Beyond - TL 5
