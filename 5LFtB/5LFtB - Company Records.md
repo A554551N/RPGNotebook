@@ -1,9 +1,9 @@
-# Campaign Turn: 6
+# Campaign Turn: 8
 # Metacurrency
 - **Story Points** - 1
-- **Adventure Points** - 0
+- **Adventure Points** - 1
 # Company Wealth
-- **Gold Marks** - 3
+- **Gold Marks** - 2
 # Company Inventory
 
 |      Item       | Qty |                                                                                                                               Desc                                                                                                                               |
@@ -14,11 +14,12 @@
 
 # Contracts
 - Friend Siazka requests Aid for the Town of Tripass.  We must run 3 patrols before time runs out.
-	- 2 Gold Marks and 1 Story Point
+	- 3 Gold Marks and 1 Story Point
+	- **Progress:** 2/3
 	- Expires at end of CT11
 # Company Armory
-- 1x Standard Weapon
 - 1x Staff
+- 1x Balanced Bastard Sword
 # Company Friends
 - Siazka - The Scholar (Friend)
 # Threats

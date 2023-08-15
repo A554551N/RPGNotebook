@@ -1,10 +1,11 @@
 # Mort the Militiaman (Hireling)
+## Injured (Until CT 10)
 
 | AGI |  Spd   | CS  | Cst | Tg  | XP  | Will | Luck |
 |:---:|:------:|:---:|:---:|:---:|:---:|:----:|:----:|
 |  1  | 4"/+3" | +0  | N/A |  3  |  0  |  0   |  0   |
 ## Skills
-- None
+- Devotion +2
 ## Inventory
 - Light Weapon [ ]
 - Light Armor (Rating 1) [ ]

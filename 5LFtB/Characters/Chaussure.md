@@ -1,8 +1,9 @@
 ## Chaussure - Fey-Blood Mystic
+## Injured (Until CT 11)
 
 | AGI |  Spd   | CS  | Cst | Wl  | Tg  | Lck | XP  |
 |:---:|:------:|:---:|:---:|:---:|:---:| :---: |:---:|
-|  1  | 4"/+3" | +0  | +1  |  0  |  3  | 0   |  4  |
+|  1  | 4"/+3" | +0  | +1  |  0  |  3  | 0   |  5  |
 
 ### Racials
 - Wits +1
@@ -37,3 +38,4 @@
 # Notes
 - Created with the Warband
 - [[Reiner]]'s Brother
+- Injured by Enemy in CT7

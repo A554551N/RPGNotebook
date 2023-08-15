@@ -1,4 +1,4 @@
-## Wilkie Drezo - Quiet Forester
+# Wilkie Drezo - Quiet Forester
 
 | AGI |  Spd   | CS  | Cst | Wl  | Tg  | XP  |
 |:---:|:------:|:---:|:---:|:---:|:---:|:---:|
@@ -8,7 +8,7 @@
 - Speech +1
 - Driven (Gain more than 1pt of **Will**, gain 2xp when obtaining a **Will Advance**)
 ## Skills
-- Crafting +2 
+- Crafting +2
 ### Weapons
 - Self Bow (Range 18" +0/+0)
 	- Bulky, Limited Ammunition
@@ -22,5 +22,5 @@
 # Notes 
 - Created with the warband
 - Slew a Feral Mercenary during a battle in CT 3
-- Injured by Enemy Leader in CT7
+- Injured by Enemy Leader in CT7 - Only knocked out
 
