@@ -1,9 +1,9 @@
 # Campaign Turn: 3
 # Metacurrency
 - **Story Points** - 1
-- **Adventure Points** - 8
+- **Adventure Points** - 5
 # Company Wealth
-- **Gold Marks** - 5
+- **Gold Marks** - 7
 
 # Company Inventory
 
@@ -14,7 +14,7 @@
 | Essence Crystal |  1  | The crystal may be used as a *Use* Action, and allows a known spell to be cast without using a Strand and without requiring a *Casting* roll                                                                                                                                                                                                                                                                 |
 
 # Contracts
-- Town Council of Tripass requests escort for **A PERSON** from [[Hamlet of Gora]] to [[Tripass]]
+- Town Council of Tripass requests escort for **A PERSON** from [[Village of Gora]] to [[Tripass]]
 	- **Reward:** 1 Mark
 	- **Time Limit:** Retrieve Cargo by CT5 or Contract fails
 # Company Armory
