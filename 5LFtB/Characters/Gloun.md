@@ -24,3 +24,6 @@
 
 ### Inventory
 - Silvertree Leaf x2
+# Notes
+- Created with the Warband
+- Avatar

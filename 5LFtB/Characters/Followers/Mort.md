@@ -8,3 +8,7 @@
 ## Inventory
 - Light Weapon [ ]
 - Light Armor (Rating 1) [ ]
+
+# Notes
+- Created with the Warband
+- Injured by foes in CT 3 during a battle

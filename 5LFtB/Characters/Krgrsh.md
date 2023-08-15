@@ -10,5 +10,5 @@
 - Self Bow (18" +0/+0)
 - Warhammer (+1/+0) [ ] & Shield
 - Partial Armor (Rating 2, -1" Dash) - Shield (+1 Armor against Ranged, Can *Parry*) [ ]
-
-
+# Notes
+- Created with the Warband

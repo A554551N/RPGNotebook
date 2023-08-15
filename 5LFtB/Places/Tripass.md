@@ -3,3 +3,4 @@
 pause for merchants.*
 
 You may pay 1 Gold Mark to receive one additional **Rare Goods** roll once per campaign turn.
+# Active Events

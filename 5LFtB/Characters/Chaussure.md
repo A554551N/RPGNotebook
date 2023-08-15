@@ -33,3 +33,7 @@
 
 ### Inventory
 - Torches x3
+
+# Notes
+- Created with the Warband
+- [[Reiner]]'s Brother

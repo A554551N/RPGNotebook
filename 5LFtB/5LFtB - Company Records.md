@@ -1,10 +1,9 @@
 # Campaign Turn: 6
 # Metacurrency
 - **Story Points** - 1
-- **Adventure Points** - 5
+- **Adventure Points** - 0
 # Company Wealth
-- **Gold Marks** - 2
-
+- **Gold Marks** - 3
 # Company Inventory
 
 |      Item       | Qty |                                                                                                                               Desc                                                                                                                               |
@@ -18,7 +17,8 @@
 	- 2 Gold Marks and 1 Story Point
 	- Expires at end of CT11
 # Company Armory
-
+- 1x Standard Weapon
+- 1x Staff
 # Company Friends
 - Siazka - The Scholar (Friend)
 # Threats

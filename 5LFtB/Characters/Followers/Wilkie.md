@@ -19,4 +19,7 @@
 
 ### Inventory
 - None
+# Notes 
+- Created with the warband
+- Slew a Feral Mercenary during a battle in CT 3
 
