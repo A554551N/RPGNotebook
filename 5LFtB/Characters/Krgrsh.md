@@ -12,3 +12,4 @@
 - Partial Armor (Rating 2, -1" Dash) - Shield (+1 Armor against Ranged, Can *Parry*) [ ]
 # Notes
 - Created with the Warband
+- Injured by Enemy Leader in CT7

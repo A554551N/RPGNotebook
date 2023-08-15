@@ -22,4 +22,5 @@
 # Notes 
 - Created with the warband
 - Slew a Feral Mercenary during a battle in CT 3
+- Injured by Enemy Leader in CT7
 

@@ -23,3 +23,4 @@
 
 # Notes
 - Recruited in Tripass during CT6
+- Injured by enemy in CT7

@@ -12,3 +12,4 @@
 # Notes
 - Created with the Warband
 - Injured by foes in CT 3 during a battle
+- Injured by enemy leader in CT7
