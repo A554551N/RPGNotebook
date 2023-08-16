@@ -11,7 +11,9 @@
 	- Bumper demands to be taken before the Prince, but instead they are both thrown in a supply room, which is locked.
 	- The next morning, a Captain of the Host comes to bring Bumper and Kornelie to an clandestine meeting with the Prince.
 - The Prince is waiting for them, alongside one of the head Guilders and the Master Delver
-	- At the outset, 
+	- At the outset, Bumper insults the prince by licking his hand, and then vomits on the Captain, who is the Prince's brother Alvi.
+	- Bumper offers to have the door opened in exchange only for access to the mountain when the Dwarves go in
+	- Kornelie demands that her family be reinstated as rulers of [[Mrak'n A'plana]]
 > [!info]- Tags
 > #sessionNotes #BurningWheel #BurningStars
 
