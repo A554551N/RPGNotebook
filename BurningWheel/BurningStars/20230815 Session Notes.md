@@ -14,6 +14,7 @@
 	- At the outset, Bumper insults the prince by licking his hand, and then vomits on the Captain, who is the Prince's brother Alvi.
 	- Bumper offers to have the door opened in exchange only for access to the mountain when the Dwarves go in
 	- Kornelie demands that her family be reinstated as rulers of [[Mrak'n A'plana]]
+	- The Prince asks for a day to discuss the request with his counsellors, and puts the party up in an inn until he is ready for them.
 > [!info]- Tags
 > #sessionNotes #BurningWheel #BurningStars
 
