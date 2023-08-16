@@ -10,6 +10,8 @@
 	- Kornelie loses the fight, drawing attention.  Seeing other dwarves coming, the suspicious dwarves pin the explosives on her.
 	- Bumper demands to be taken before the Prince, but instead they are both thrown in a supply room, which is locked.
 	- The next morning, a Captain of the Host comes to bring Bumper and Kornelie to an clandestine meeting with the Prince.
+- The Prince is waiting for them, alongside one of the head Guilders and the Master Delver
+	- At the outset, 
 > [!info]- Tags
 > #sessionNotes #BurningWheel #BurningStars
 
