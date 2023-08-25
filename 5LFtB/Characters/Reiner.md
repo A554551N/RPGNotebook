@@ -14,3 +14,4 @@
 - Created with the Warband
 - [[Chaussure]]'s Brother
 - Slew an Enemy Leader outside Tripass on CT7
+- Downed by Bandits on CT8

@@ -22,3 +22,4 @@
 
 # Notes
 - Impressed by the Warband, Tirkye decided to join the crew during the skirmish outside [[Tripass]] on CT 7
+- Wounded by Bandits on CT8
