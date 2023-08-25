@@ -33,9 +33,10 @@
 |  Distract   |   7+   | 1 Enemy Ranged Trooper |                                                                               The target will remain in place and not shoot.                                                                               | Activation                     |
 
 ### Inventory
-- Torches x3
+- None
 
 # Notes
 - Created with the Warband
 - [[Reiner]]'s Brother
+- Received a Fine War Seax as a gift from a grateful Blacksmith
 - Injured by Enemy in CT7

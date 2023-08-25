@@ -9,7 +9,7 @@
 - Halfling never roll on **Flight in the Dark**
 - Halflings cannot use warhammers, bastard swords, or longbows.
 ## Skills
-- None
+- Wilderness + 2
 ### Weapons
 - Chair Leg (+0/+0)
 - Self Bow 18" (+0/+0)
@@ -22,4 +22,3 @@
 
 # Notes
 - Impressed by the Warband, Tirkye decided to join the crew during the skirmish outside [[Tripass]] on CT 7
-- Wounded by Bandits on CT8

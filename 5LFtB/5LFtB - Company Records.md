@@ -1,9 +1,9 @@
-# Campaign Turn: 8
+# Campaign Turn: 9
 # Metacurrency
-- **Story Points** - 1
-- **Adventure Points** - 1
+- **Story Points** - 2
+- **Adventure Points** - 2
 # Company Wealth
-- **Gold Marks** - 0
+- **Gold Marks** - 1
 # Company Inventory
 
 |      Item       | Qty |                                                                                                                               Desc                                                                                                                               | Tags | In Backpack |
@@ -12,15 +12,17 @@
 |     Torches     |  3  | During battle, a warband member who is not using a shield or a Bulky weapon may carry a torch. This creates visibility within 6", allowing shots to be taken at illuminated figures despite visibility limitations (from darkness, fog, or during site battles). | S,B  |     Yes     |
 | Essence Crystal |  1  |                                                           The crystal may be used as a *Use* Action, and allows a known spell to be cast without using a Strand and without requiring a *Casting* roll                                                           | S,B  |     Yes     |
 |     Rations     |  3  |                                                                                                         Consume Rations to reduce Upkeep by 3 Gold Marks                                                                                                         | S,C  |     N/A     |
+|  Thieves Tools  |  1  |                                                                                        Grants +1 bonus to all **Expertise** tests. This is cumulative with a skill bonus                                                                                         |  W   | N/A            |
 
 # Contracts
-- Friend Siazka requests Aid for the Town of Tripass.  We must run 3 patrols before time runs out.
-	- 3 Gold Marks and 1 Story Point
-	- **Progress:** 2/3
-	- Expires at end of CT11
+- Friend Siazka asks us to drive off the Group of Unknown Soldiers who have made camp near town.
+	- Offers 5 Gold Marks + 1 Story Point
+	- Expires at End of CT 11
 # Company Armory
 - 1x Staff
-- 1x Balanced Bastard Sword
+- 1x Warhammer (+1/+0)
+- 1x Shield
+
 # Company Friends
 - Siazka - The Scholar (Friend)
 # Threats
