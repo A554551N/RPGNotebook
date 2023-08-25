@@ -1,6 +1,6 @@
 # Campaign Turn: 9
 # Metacurrency
-- **Story Points** - 2
+- **Story Points** - 3
 - **Adventure Points** - 2
 # Company Wealth
 - **Gold Marks** - 1
@@ -19,12 +19,15 @@
 	- Offers 5 Gold Marks + 1 Story Point
 	- Expires at End of CT 11
 # Company Armory
-- 1x Staff
+- 1x Staff (-1/+0) *Parry*
 - 1x Warhammer (+1/+0)
 - 1x Shield
 
 # Company Friends
-- Siazka - The Scholar (Friend)
+- **Siazka** - The Scholar
+	- Met on the Road
+- **Lenore** - Studious Faeblood Apprentice
+	- Former Lover of [[Chaussure]], we returned a mysterious ring to her and she became a friend of the band.
 # Threats
 ## The Ice-Heart Court - TL 5
 ## The Whispers From Beyond - TL 5
