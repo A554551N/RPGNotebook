@@ -12,6 +12,7 @@
 - None
 ### Weapons
 - Chair Leg (+0/+0)
+- Self Bow 18" (+0/+0)
 
 ### Armor
 - None
