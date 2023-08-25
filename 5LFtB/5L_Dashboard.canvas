@@ -11,8 +11,8 @@
 		{"type":"file","file":"5LFtB/Characters/Followers/Tirkye.md","id":"0ade77b859cf0a12","x":-1220,"y":660,"width":400,"height":1100},
 		{"type":"file","file":"5LFtB/Characters/Krgrsh.md","id":"40984befc398b6af","x":1320,"y":-540,"width":400,"height":1100},
 		{"type":"file","file":"5LFtB/Characters/Followers/Mort.md","id":"1f4cd0ac285a7d00","x":1720,"y":-540,"width":400,"height":1100},
-		{"type":"file","file":"5LFtB/Characters/Chaussure.md","id":"b97e3ff9e779dc23","x":1320,"y":560,"width":400,"height":1100},
-		{"type":"file","file":"5LFtB/Characters/Followers/Virteg.md","id":"f34f61adc7f22815","x":-2100,"y":-540,"width":400,"height":200}
+		{"type":"file","file":"5LFtB/Characters/Followers/Virteg.md","id":"f34f61adc7f22815","x":-2100,"y":-540,"width":400,"height":140},
+		{"type":"file","file":"5LFtB/Characters/Chaussure.md","id":"b97e3ff9e779dc23","x":1320,"y":560,"width":400,"height":1100}
 	],
 	"edges":[]
 }

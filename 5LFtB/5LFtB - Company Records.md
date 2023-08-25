@@ -3,7 +3,7 @@
 - **Story Points** - 1
 - **Adventure Points** - 1
 # Company Wealth
-- **Gold Marks** - 2
+- **Gold Marks** - 1
 # Company Inventory
 
 |      Item       | Qty |                                                                                                                               Desc                                                                                                                               |
