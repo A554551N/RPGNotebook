@@ -18,7 +18,6 @@
 		{"type":"text","text":"[[Cragbarrow Monster Lair]]","id":"7301172c5fa37436","x":630,"y":510,"width":240,"height":50},
 		{"type":"text","text":"Unexplored Location","id":"fd265c22be483c2a","x":-700,"y":90,"width":250,"height":65},
 		{"type":"text","text":"Faceless Kingdom Raiders","id":"cd300fa33faec709","x":880,"y":85,"width":250,"height":65,"color":"1"},
-		{"type":"text","text":"# The Circus","id":"5f6c5baf6e12442b","x":755,"y":364,"width":200,"height":82},
 		{"type":"text","text":"# [[5LFtB - Company Records|Gloun's Clowns]]\n","id":"5e5653c7a66ac518","x":955,"y":364,"width":265,"height":70},
 		{"type":"text","text":"The Mines","id":"7c20e57b4ca06572","x":-1025,"y":-660,"width":250,"height":60},
 		{"type":"text","text":"Curse of War Camp","id":"c8bbf7d97a467c55","x":-1275,"y":195,"width":250,"height":65},
@@ -33,7 +32,8 @@
 		{"type":"file","file":"Attachments/Sandro-Token.png","id":"c855a1da7deaa76a","x":240,"y":1160,"width":190,"height":190},
 		{"type":"text","text":"The Eastern Passes","id":"f6daa8a082deab5b","x":630,"y":700,"width":250,"height":60},
 		{"type":"text","text":"# Assholes","id":"2033d6d950a8dcf6","x":630,"y":1070,"width":250,"height":60},
-		{"type":"text","text":"Unexplored Location","id":"eb1042c9beaf3a6d","x":470,"y":373,"width":250,"height":65}
+		{"type":"text","text":"# The Circus","id":"5f6c5baf6e12442b","x":900,"y":282,"width":200,"height":82},
+		{"type":"text","text":"Unexplored Location","id":"eb1042c9beaf3a6d","x":460,"y":373,"width":250,"height":65}
 	],
 	"edges":[
 		{"id":"5b45d78f1eb3ccbc","fromNode":"1ceb121ec09bd08d","fromSide":"top","toNode":"bff56ba6c20aa239","toSide":"bottom"},
