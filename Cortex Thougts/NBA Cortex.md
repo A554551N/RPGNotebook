@@ -1,5 +1,6 @@
 # Prime Sets (Ripped off from Leverage)
 ## Attributes
+**Assign 3d8, 3d6.**
 - Agility
 - Alertness
 - Intelligence
@@ -7,11 +8,12 @@
 - Vitality
 - Willpower
 ## Roles w/ Specialties
-- Grifter
-- Hacker
-- Hitter
-- Mastermind
-- Thief
+**Assign 1d10, 1d8, 2d6, 1d4**
+- Grifter (Manipulation)
+- Hacker (Equipment & Tech)
+- Hitter (Intimidation, Hurting People)
+- Mastermind (Planning Ahead, Laying Traps, etc)
+- Thief (Stealing, Hiding, Knowing Thieves)
 ## Distinctions
 3 rated at d8, just like always
 
