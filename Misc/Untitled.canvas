@@ -7,19 +7,19 @@
 		{"type":"text","text":"# Player Turn","id":"49642310d555896c","x":-860,"y":-320,"width":220,"height":50},
 		{"type":"text","text":"GM rolls Crisis Pool to set difficulty\n- The Crisis pool\n- Any applicable Complications","id":"7273a5455534c1dd","x":-900,"y":-80,"width":300,"height":120},
 		{"type":"text","text":"Player Assembles & Rolls Dice\n- 1 Hardware\n- 1 Programming\n- 1 Distinction (Hinder for PP)\n- All applicable Assets","id":"7723b4250237650c","x":-900,"y":120,"width":300,"height":180},
-		{"type":"text","text":"## Pass the Baton to the Next Actor\n- The Player may choose either another player who has not acted, or a Crisis Pool.","id":"5ca94652d6c20bb2","x":-1080,"y":1140,"width":661,"height":104},
+		{"type":"text","text":"## Pass the Baton to the Next Actor or End\n- The Player may choose either another player who has not acted, or a Crisis Pool.","id":"5ca94652d6c20bb2","x":-1080,"y":1140,"width":661,"height":104},
 		{"type":"text","text":"## Player Fails\n- If Player Effect Die is equal to or larger than Crisis Pool Effect Die, Crisis Effect Die is stepped down once.\n- Player receives a Complication equal to Crisis Pool Effect Die","id":"88ebe0a3eb127f06","x":0,"y":640,"width":330,"height":280},
 		{"type":"text","text":"## Player Beats difficulty\nThe player evades danger.","id":"17b06af61c45226f","x":370,"y":640,"width":330,"height":280},
 		{"type":"text","text":"## Resolve Hitches and Opportunities\n- The Crisis Pool can spend any one die from itself to apply a complication the size of the die that rolled a 1 to the player.  The Crisis pool may not step up existing complications during this step.\n- The Player may spend a PP to buy 1s the Crisis Pool rolled to step down existing Complications","id":"80fc7c72672b338f","x":0,"y":1000,"width":700,"height":280},
 		{"type":"text","text":"Crisis Pool Chooses to Attack a Player **or** Strengthen","id":"4ea120d5f92d343e","x":-137,"y":-220,"width":535,"height":50},
 		{"type":"text","text":"# Crisis Turn","id":"017c723900e02492","x":20,"y":-320,"width":220,"height":50},
 		{"type":"text","text":"GM rolls Crisis Pool to set difficulty\n- The Crisis pool\n- Any applicable Complications","id":"026ae681fd0a948e","x":200,"y":120,"width":300,"height":120},
-		{"type":"text","text":"Player Assembles & Rolls Dice to Defend.\n- 1 Hardware\n- 1 Programming\n- 1 Distinction (Hinder for PP)\n- All applicable Assets","id":"99c19f6bd6597035","x":200,"y":320,"width":300,"height":180},
-		{"type":"text","text":"## Pass the Baton to the Next Actor\n- The Player may choose either another player who has not acted, or a Crisis Pool.","id":"82f7a4bdc7447105","x":20,"y":1340,"width":661,"height":104},
+		{"type":"text","text":"Player Assembles & Rolls Dice to Defend.\n- 1 Hardware\n- 1 Programming\n- 1 Distinction (Hinder for PP)\n- All applicable Assets","id":"99c19f6bd6597035","x":200,"y":300,"width":300,"height":220},
+		{"type":"text","text":"## Pass the Baton to the Next Actor or End\n- The Player may choose either another player who has not acted, or a Crisis Pool.","id":"82f7a4bdc7447105","x":20,"y":1340,"width":661,"height":104},
 		{"type":"text","text":"# Attack\n- The Crisis Pool chooses a target","id":"d9b80aac4887465e","x":182,"y":-80,"width":337,"height":153},
 		{"type":"text","text":"# Strengthen\nThe Crisis Pool either:\n- Steps up a die in its pool by one\n- Removes a complication from a player, replacing the smallest die in the Crisis pool with a die of the removed complication's size.","id":"4ae861c8300f16cb","x":-257,"y":-80,"width":337,"height":280},
 		{"id":"546f19781ad912c2","x":-440,"y":-600,"width":320,"height":140,"type":"text","text":"# Intro\n- GM Describes the Crisis Pools\n- GM or Players select first Actor"},
-		{"type":"text","text":"# Round Ends\n- GM Describes the Crisis Pools\n- GM or Players select first Actor","id":"1ba7cc12b9d40507","x":-419,"y":1738,"width":320,"height":140}
+		{"type":"text","text":"# Round Ends\n- Round ends if all Actors have had a turn.\n- Resume from Top if Crisis is still present.","id":"8354ea4a1e71a8c6","x":-320,"y":1640,"width":320,"height":203}
 	],
 	"edges":[
 		{"id":"6d32e41410de3080","fromNode":"72b99ea1296038d3","fromSide":"bottom","toNode":"7273a5455534c1dd","toSide":"top"},
@@ -42,6 +42,8 @@
 		{"id":"5552b64a8c946465","fromNode":"4ea120d5f92d343e","fromSide":"bottom","toNode":"4ae861c8300f16cb","toSide":"top"},
 		{"id":"70e54d7415221d28","fromNode":"4ea120d5f92d343e","fromSide":"bottom","toNode":"d9b80aac4887465e","toSide":"top"},
 		{"id":"d1b3798994fa3e17","fromNode":"546f19781ad912c2","fromSide":"bottom","toNode":"49642310d555896c","toSide":"top"},
-		{"id":"e15c6b5df1a88410","fromNode":"546f19781ad912c2","fromSide":"bottom","toNode":"017c723900e02492","toSide":"top"}
+		{"id":"e15c6b5df1a88410","fromNode":"546f19781ad912c2","fromSide":"bottom","toNode":"017c723900e02492","toSide":"top"},
+		{"id":"ff6a4797ccc75cc0","fromNode":"5ca94652d6c20bb2","fromSide":"bottom","toNode":"8354ea4a1e71a8c6","toSide":"top"},
+		{"id":"365a8a71a6afd91c","fromNode":"82f7a4bdc7447105","fromSide":"bottom","toNode":"8354ea4a1e71a8c6","toSide":"top"}
 	]
 }
