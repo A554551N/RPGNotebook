@@ -7,5 +7,6 @@
 	- [[Kornelie]] refuses his overtures, and [[Aloise]] becomes angry.  He declares that he will ensure he is made commander of the mission to [[Mrak'n A'plana]] and will die before he allows [[Kornelie]] to enter the Old Mountain.
 - [[Bumper]] makes friends with some surface Roden led by a Missionary called Parsley who is on his way with a company of Roden to the surface of [[Mrak'n A'plana]].  They're seeking a Society nest reportedly somewhere nearby.  [[Bumper]] asks if they can sign onto the expedition with [[Kornelie]] and the [[Custodian]]
 	- The Roden discovers that [[Bumper]] is from **Trochlear Nest**, which is a Society Stronghold.  Bumper attempts to express his unique take on the Word of Aecer (Doctrine) and fails, leaving the other Roden suspicious.
+- [[Kornelie]] attempts to locate records from the time of [[Mrak'n A'plana]] in the [[Kamazamka]] records
 > [!info]- Tags
 > #sessionNotes #BurningWheel #BurningStars
