@@ -12,5 +12,9 @@
 - Bumper refuses to turn over the information on the Door without an Oath for the safety of the [[Custodian]].
 - The party decides to attempt to join Parsley's Crusade
 - [[Kornelie]] swears to a binding Oath to [[Bumper]]: "All species who aid in the sitting of a Bonejaw upon the throne of [[Mrak'n A'plana]] will be welcomed and protected by the Ruling House in perpetuity."
+
+> [!warning] Secret GM Info
+> Bumper failed the Perception Test to overhear the rulers planning to send spies to follow and kill them if they appeared to be seeking [[Mrak'n A'plana]]
+
 > [!info]- Tags
 > #sessionNotes #BurningWheel #BurningStars
