@@ -4,6 +4,8 @@
 	- The [[Custodian]] departs immediately, and will be away for two days.
 - [[Kornelie]] makes a Circles test to try and find a friend amongst the Host.  She bombs it and instead gets her brother [[Aloise]].
 	- [[Aloise]] wants [[Kornelie]] to forego her claim on [[Mrak'n A'plana]] in exchange for 10 Cash Dice and a place in the Host.  If he can convince her to take it, he will get a promotion.
-- [[Bumper]] makes friends with some surface Roden led by a Missionary called Parsley
+	- [[Kornelie]] refuses his overtures, and [[Aloise]] becomes angry.  He declares that he will ensure he is made commander of the mission to [[Mrak'n A'plana]] and will die before he allows [[Kornelie]] to enter the Old Mountain.
+- [[Bumper]] makes friends with some surface Roden led by a Missionary called Parsley who is on his way with a company of Roden to the surface of [[Mrak'n A'plana]].  They're seeking a Society nest reportedly somewhere nearby.  [[Bumper]] asks if they can sign onto the expedition with [[Kornelie]] and the [[Custodian]]
+	- The Roden discovers that [[Bumper]] is from **Trochlear Nest**, which is a Society Stronghold.  Bumper attempts to express his unique take on the Word of Aecer (Doctrine) and fails, leaving the other Roden suspicious.
 > [!info]- Tags
 > #sessionNotes #BurningWheel #BurningStars
