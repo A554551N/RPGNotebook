@@ -11,6 +11,6 @@
 - During the meeting with [[Timir Bulat Magomedov]], [[Kornelie]] decides that it's not worth attempting to negotiate with the Prince because he's clearly not on board with handing the Mountain over to her.
 - Bumper refuses to turn over the information on the Door without an Oath for the safety of the [[Custodian]].
 - The party decides to attempt to join Parsley's Crusade
-	- [[Kornelie]] mentions being willing to swear an Oath
+- [[Kornelie]] swears to a binding Oath to [[Bumper]]: "All species who aid in the sitting of a Bonejaw upon the throne of [[Mrak'n A'plana]] will be welcomed and protected by the Ruling House in perpetuity."
 > [!info]- Tags
 > #sessionNotes #BurningWheel #BurningStars
