@@ -1,9 +1,12 @@
 {
 	"nodes":[
-		{"id":"e947ed10eb76bfda","x":-540,"y":-340,"width":250,"height":60,"type":"text","text":"# EG-G5"},
 		{"type":"text","text":"# D0-NG","id":"e26b7c438aa63739","x":-415,"y":-220,"width":250,"height":60},
 		{"type":"text","text":"# JP-3G","id":"147a2cfc1d3dbf68","x":-415,"y":-280,"width":250,"height":60},
-		{"type":"text","text":"# MSE-64201","id":"bc8e11a2ba2607bd","x":-415,"y":-160,"width":250,"height":60}
+		{"type":"text","text":"# MSE-64201","id":"bc8e11a2ba2607bd","x":-415,"y":-160,"width":250,"height":60},
+		{"id":"e947ed10eb76bfda","x":-415,"y":-340,"width":250,"height":60,"type":"text","text":"# EG-G5"},
+		{"type":"text","text":"# To Go","id":"17f28b301a70571c","x":-665,"y":-400,"width":250,"height":60},
+		{"type":"text","text":"# Done","id":"c6cef72c7bcaabe7","x":-415,"y":-400,"width":250,"height":60},
+		{"type":"text","text":"# Pirates!","id":"2382ed6407fd8b90","x":-665,"y":-100,"width":250,"height":60,"color":"1"}
 	],
 	"edges":[]
 }
