@@ -18,7 +18,7 @@
 		{"type":"text","text":"## Pass the Baton to the Next Actor or End\n- The Player may choose either another player who has not acted, or a Crisis Pool.","id":"82f7a4bdc7447105","x":20,"y":1340,"width":661,"height":104},
 		{"type":"text","text":"# Attack\n- The Crisis Pool chooses a target","id":"d9b80aac4887465e","x":182,"y":-80,"width":337,"height":153},
 		{"type":"text","text":"# Strengthen\nThe Crisis Pool either:\n- Steps up a die in its pool by one\n- Removes a complication from a player, replacing the smallest die in the Crisis pool with a die of the removed complication's size.","id":"4ae861c8300f16cb","x":-257,"y":-80,"width":337,"height":280},
-		{"id":"546f19781ad912c2","x":-440,"y":-600,"width":320,"height":140,"type":"text","text":"# Intro\n- GM Describes the Crisis Pools\n- GM or Players select first Actor"},
+		{"type":"text","text":"# Intro\n- GM Describes the Crisis Pools\n- GM or Players select first Actor","id":"546f19781ad912c2","x":-440,"y":-600,"width":320,"height":140},
 		{"type":"text","text":"# Round Ends\n- Round ends if all Actors have had a turn.\n- Resume from Top if Crisis is still present.","id":"8354ea4a1e71a8c6","x":-320,"y":1640,"width":320,"height":203}
 	],
 	"edges":[
