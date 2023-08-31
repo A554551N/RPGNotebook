@@ -1,13 +1,20 @@
 {
 	"nodes":[
-		{"type":"group","id":"5e09c6a076a4cfa7","x":-440,"y":-320,"width":285,"height":460,"label":"Turn Complete"},
-		{"type":"group","id":"9a697235dea7e6d4","x":-720,"y":-320,"width":280,"height":460,"label":"Actors to Go"},
-		{"type":"text","text":"# EG-G5","id":"e947ed10eb76bfda","x":-700,"y":-300,"width":240,"height":60,"color":"5"},
-		{"type":"text","text":"# D0-NG","id":"e26b7c438aa63739","x":-700,"y":-180,"width":240,"height":60,"color":"5"},
-		{"type":"text","text":"# MSE-64201","id":"bc8e11a2ba2607bd","x":-700,"y":-120,"width":240,"height":60,"color":"5"},
-		{"type":"text","text":"# PowerOutage","id":"0f80388904652dfd","x":-700,"y":-60,"width":240,"height":60,"color":"1"},
-		{"type":"text","text":"# Crisis??","id":"2382ed6407fd8b90","x":-700,"y":0,"width":240,"height":60,"color":"1"},
-		{"type":"text","text":"# JP-3G","id":"147a2cfc1d3dbf68","x":-420,"y":-240,"width":240,"height":60,"color":"5"}
+		{"type":"group","id":"5e09c6a076a4cfa7","x":-440,"y":-320,"width":285,"height":500,"label":"Turn Complete"},
+		{"type":"group","id":"9a697235dea7e6d4","x":-720,"y":-320,"width":280,"height":500,"label":"Actors to Go"},
+		{"type":"text","text":"# JP-3G","id":"147a2cfc1d3dbf68","x":-420,"y":-240,"width":240,"height":60,"color":"5"},
+		{"type":"text","text":"# EG-G5","id":"e947ed10eb76bfda","x":-420,"y":-300,"width":240,"height":60,"color":"5"},
+		{"type":"text","text":"# D0-NG","id":"e26b7c438aa63739","x":-420,"y":-180,"width":240,"height":60,"color":"5"},
+		{"type":"text","text":"# Crisis??","id":"2382ed6407fd8b90","x":-420,"y":-120,"width":240,"height":60,"color":"1"},
+		{"type":"text","text":"# MSE-64201","id":"bc8e11a2ba2607bd","x":-420,"y":-60,"width":240,"height":60,"color":"5"},
+		{"type":"text","text":"# Crisis??","id":"2fe62712d458593b","x":-960,"y":-300,"width":240,"height":60,"color":"1"},
+		{"type":"text","text":"# Trapped Droids","id":"4b1c58b604772792","x":-420,"y":0,"width":240,"height":100,"color":"1"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"380a6e021c0a1237","fromNode":"147a2cfc1d3dbf68","fromSide":"right","toNode":"e947ed10eb76bfda","toSide":"right"},
+		{"id":"1924b03761b23dfc","fromNode":"e947ed10eb76bfda","fromSide":"left","toNode":"e26b7c438aa63739","toSide":"left"},
+		{"id":"8c02e4e2e8d2c769","fromNode":"e26b7c438aa63739","fromSide":"right","toNode":"2382ed6407fd8b90","toSide":"right"},
+		{"id":"01c8f41b0bf1ebdf","fromNode":"2382ed6407fd8b90","fromSide":"left","toNode":"bc8e11a2ba2607bd","toSide":"left"},
+		{"id":"55adacfdd64f9db7","fromNode":"bc8e11a2ba2607bd","fromSide":"right","toNode":"4b1c58b604772792","toSide":"right"}
+	]
 }
