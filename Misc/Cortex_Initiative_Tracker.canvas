@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"type":"group","id":"5e09c6a076a4cfa7","x":-440,"y":-320,"width":285,"height":500,"label":"Turn Complete"},
+		{"type":"group","id":"9a697235dea7e6d4","x":-720,"y":-320,"width":280,"height":500,"label":"To Go"},
+		{"type":"text","text":"# Foe","id":"2fe62712d458593b","x":-960,"y":-320,"width":240,"height":60,"color":"1"},
+		{"type":"text","text":"# Player","id":"e26b7c438aa63739","x":-960,"y":-260,"width":240,"height":60,"color":"5"},
+		{"type":"text","text":"# Ally","id":"c9cc4b2228e59632","x":-960,"y":-200,"width":240,"height":60,"color":"4"},
+		{"type":"text","text":"# Crisis/Scene","id":"5d865a478d26374a","x":-960,"y":-140,"width":240,"height":60,"color":"2"}
+	],
+	"edges":[]
+}
