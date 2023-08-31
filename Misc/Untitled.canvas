@@ -2,12 +2,12 @@
 	"nodes":[
 		{"type":"group","id":"5e09c6a076a4cfa7","x":-420,"y":-320,"width":285,"height":460,"label":"Turn Complete"},
 		{"type":"group","id":"9a697235dea7e6d4","x":-700,"y":-320,"width":280,"height":460,"label":"Actors to Go"},
-		{"type":"text","text":"# D0-NG","id":"e26b7c438aa63739","x":-680,"y":-180,"width":240,"height":60,"color":"5"},
 		{"type":"text","text":"# MSE-64201","id":"bc8e11a2ba2607bd","x":-680,"y":-120,"width":240,"height":60,"color":"5"},
 		{"type":"text","text":"# Pirates!","id":"2382ed6407fd8b90","x":-680,"y":-60,"width":240,"height":60,"color":"1"},
 		{"type":"text","text":"# PowerOutage","id":"0f80388904652dfd","x":-680,"y":0,"width":240,"height":60,"color":"1"},
 		{"type":"text","text":"# EG-G5","id":"e947ed10eb76bfda","x":-400,"y":-300,"width":240,"height":60,"color":"5"},
-		{"type":"text","text":"# JP-3G","id":"147a2cfc1d3dbf68","x":-400,"y":-240,"width":240,"height":60,"color":"5"}
+		{"type":"text","text":"# JP-3G","id":"147a2cfc1d3dbf68","x":-400,"y":-240,"width":240,"height":60,"color":"5"},
+		{"type":"text","text":"# D0-NG","id":"e26b7c438aa63739","x":-400,"y":-180,"width":240,"height":60,"color":"5"}
 	],
 	"edges":[]
 }
