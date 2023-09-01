@@ -7,5 +7,5 @@
 - I didn't end up writing these notes
 - In the end, [[Saoirse]] tricks Gaspard into believing [[Egis Loneur]] fled the country aboard her ship and left her high and dry.  She leaves [[Kingdom of Montaigne|Montaigne]] aboard a ferry.
 > [!info]- Tags
-> #7thSea#sessionNotes <game>
+> #7thSea#sessionNotes #Saoirse 
 
