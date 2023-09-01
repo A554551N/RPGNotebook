@@ -5,8 +5,8 @@
 **Reward:** X points
 
 # Steps
-1. Agree to Morton's deal.
-2. Gain access to [[Androw Rakhill|Rakhill]]'s records.
+~~1. Agree to Morton's deal.~~
+2. ~~Gain access to [[Androw Rakhill|Rakhill]]'s records.
 3. Use Rakhill's charts to find his hideout
 4. Learn of Rakhill's true desires
 5. Confront Rakhill and regain [[Stormbringer]]
