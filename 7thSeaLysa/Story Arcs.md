@@ -3,6 +3,7 @@
 - Most of this arc happened before my notes came into Obsidian
 - [[20230608 Session Notes]]
 - [[20230622 Session Notes]]
+- [[20230831 Session Notes]]
 
 # Returning to Avalon
 ## The Oldest Tree in the Forest
