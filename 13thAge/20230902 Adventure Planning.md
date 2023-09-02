@@ -8,10 +8,10 @@
 The Security System Comes to Life as a wave of pirates enter the Hall
 
 ## Scenes
-- The party is welcomed into the hall by the dragon's servants
-- The pirates breach one of the lower halls to search for the staff.
-- The statues in the halls come to life to fend off invaders
+- Pirates and their allies storm the halls, trying to find a way into the core lair.
+- Etheridge, tired of the interruptions
 - Menzel and Terach face off
+- The gang goes into the Lich King's brain to free Menzel from his control.
 
 ## Secrets and Clues
 
