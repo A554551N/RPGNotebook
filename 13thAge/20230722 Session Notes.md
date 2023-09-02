@@ -14,7 +14,11 @@
 - The group reconvenes at the Rusty Spigot in [[New Port]] a year after the events of the solo stories.
 - [[Menzel Myryfindor]] is there, but is called away by a spirit to serve the [[Lich King]]
 - [[Rorschach]] meets with an informant to get information about dragons.
-- The group 
+- The group goes to Etheridge's Library, high in the mountains (a magic flying coach brings them there) so [[Terach]] can hand over the ancient book he had promised.
+- The lair of the dragon proper is filled with many ancient artifacts including the **Staff of the Wizard King**
+- During the following conversation, an alarm begins going off.  Etheridge announces that the Library has been infiltrated and that he will reward the party for removing the intruder.
+- Terach gets a bad feeling and calls [[Menzel Myryfindor]] to see where he is.  He is, of course, busy infiltrating the library.
+- Etheridge warns the party that the library itself comes to life to defend.
 
 
 > [!info]- Tags
