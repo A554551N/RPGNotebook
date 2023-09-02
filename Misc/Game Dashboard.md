@@ -7,6 +7,6 @@
 *Natural Even Hit:* Net ammo.  Target is immobilized, Normal save on each turn to escape.
 **Reload**, Normal Save to fire again while accompanied by at least one pirate minion.  Else hard Save.
 
-# Pirate Minions
-160/160 24 AC
+# 4x Pirate Minions
+160/160 (40) 24 AC
 +13 / 23 damage
