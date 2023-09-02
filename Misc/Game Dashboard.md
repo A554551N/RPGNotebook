@@ -1,6 +1,6 @@
 # Cannoneer Buckley Swashes
 **9th Level Troop**
-130 HP / 25 AC / 23 PD / 18 MD
+80 HP / 25 AC / 23 PD / 18 MD
 ## Giant Cannon
 +14 to hit, 38 damage
 **Special Ammo**
