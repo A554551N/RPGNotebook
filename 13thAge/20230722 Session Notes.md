@@ -14,6 +14,7 @@
 - The group reconvenes at the Rusty Spigot in [[New Port]] a year after the events of the solo stories.
 - [[Menzel Myryfindor]] is there, but is called away by a spirit to serve the [[Lich King]]
 - [[Rorschach]] meets with an informant to get information about dragons.
+- The group 
 
 
 > [!info]- Tags
