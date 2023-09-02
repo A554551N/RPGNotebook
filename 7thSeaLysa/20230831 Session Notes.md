@@ -29,6 +29,7 @@
 	- The sitting room has a giant painting of [[Androw Rakhill]] in it.
 	- [[Gustav]] lies that they are seeking information about Rakhill as part of research into the Montaigne-Avalon War.  Saoirse agrees.
 	- Regina tells Saoirse the abbreviated story of Rakhill earning the land for the house by returning [[Syrneth]] artifacts to the Crown.
+	- The family has kept a good number of the old pirate's books and papers, she takes them to the attic so they can check them out.
 > [!info]- Tags
 > #7thSea#sessionNotes #Saoirse 
 
