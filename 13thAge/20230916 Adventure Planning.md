@@ -6,7 +6,10 @@
 ## Strong Start
 [[Menzel Myryfindor|Menzel]]'s pirates have battered down the doors into the main Hall where the Red Dragon Etheridge has remained to guard the bulk of the treasures.  If the party doesn't intervene, one or the other of them is going to die.
 ## Scenes
-* The party 
+* The party fights pirates while [[Terach]] convinces [[Menzel Myryfindor]] to back down
+* Etheridge, enraged at the intrusion, attempts to kill them regardless of whether the threat is dealt with.
+* The party negotiates with Etheridge to keep him as an ally.
+* The party defends the pirates as they flee from a ferocious dragon and his living museum
 ## Secrets and Clues
 * Shoot for 10
 ## Fantastic Locations
