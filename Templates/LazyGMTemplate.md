@@ -1,38 +1,31 @@
+# Session Planning
 ## Characters
-**Name.** Description.
-**Name.** Description.
-**Name.** Description.
-**Name.** Description.
-
+**Linked Name.** Description.
+**Linked Name.** Description.
+**Linked Name.** Description.
+**Linked Name.** Description.
 ## Strong Start
-
 Description of your strong start.
-
 ## Scenes
-
-* Small scene description.
-
+* Short descriptions of potential scenes
 ## Secrets and Clues
-
 * Shoot for 10
-
 ## Fantastic Locations
 **Location**: aspect, aspect, aspect
 **Location**: aspect, aspect, aspect
 **Location**: aspect, aspect, aspect
 **Location**: aspect, aspect, aspect
-
 ## Important NPCs
 **Name.** Description
 **Name.** Description
 **Name.** Description
 **Name.** Description
-
 ## Potential Monsters
-* Name
+* Name (pg. # or Link)
 
 ## Potential Treasure
-* Description
+* Description (pg. # or Link)
 
 > [!info]- Tags
+> Apply tags to link to correct game
 
