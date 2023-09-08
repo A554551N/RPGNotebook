@@ -14,6 +14,9 @@
 - `After saving him from the Cats, Skata has moved offscreen for now.`
 
 ### Exarch Andros
+
+^534e8f
+
 *The Exarch is the civic ruler of the city of Trokos.  He currently rules alongside the **Archon Stylvanius**.  His daughter is **Phaedra**.  Andros is handsome, middle-aged, and a consumate (if authoritarian) politicion.  He and Stylvanius make an effective team, even if they rarely see eye to eye.*
 
 #### Beliefs
@@ -21,6 +24,9 @@
 	- *The Archmage has agreed to help get Andros' daughter out of the city to protect her from reprisals.  I think he knows that striking back against Stylvanius is likely to cost him his life (this is a result of the failed persuasion test from Mel)*
 
 ### Archon Stylvanius - Deceased
+
+^b111eb
+
 *The Archon is the foreign and military ruler of the city of Trokos.  He is responsible for managing affairs concerning State security, foreign relations, and warfare.  It is this last that the current Archon has hung his helmet on.  Stylvanius, also known as 'The Shark of Trokos', is widely regarded as the greatest general in the Thousand Isles.  He has held his seat as Archon since the year after the previous Archmage's death (19 years, 9.5 terms).*
 *The Archon's cunning is well-known, and it is said he would sacrifice anything to end the war on his own terms.*
 
