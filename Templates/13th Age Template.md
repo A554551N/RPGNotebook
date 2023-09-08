@@ -1,3 +1,9 @@
+---
+tags:
+  - 13thAge
+  - sessionNotes
+---
+# {{date}} Session Notes
 ## Icon Rolls
 * **[[13thAge/Seifer Drace|Seifer]]**
 	* Complication/Boon - Icon (Relation)
@@ -20,6 +26,3 @@
 	- Notes
 - Janea
 	- Notes
-
-> [!info]- Tags
-> #13thAge #sessionNotes 
