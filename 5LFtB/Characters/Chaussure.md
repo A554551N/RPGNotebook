@@ -1,5 +1,4 @@
-## Chaussure - Fey-Blood Mystic
-## Injured (Until CT 10)
+# Chaussure - Fey-Blood Mystic
 
 | AGI |  Spd   | CS  | Cst | Wl  | Tg  | Lck | XP  |
 |:---:|:------:|:---:|:---:|:---:|:---:| :---: |:---:|

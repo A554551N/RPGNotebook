@@ -1,5 +1,4 @@
 # Mort the Militiaman (Hireling)
-## Injured (Until CT 10)
 
 | AGI |  Spd   | CS  | Cst | Tg  | XP  | Will | Luck |
 |:---:|:------:|:---:|:---:|:---:|:---:|:----:|:----:|
