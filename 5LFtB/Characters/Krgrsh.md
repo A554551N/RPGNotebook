@@ -9,7 +9,8 @@
 - Battlewise +2 
 ## Inventory
 - ~~Warhammer (+1/+0) [ ] & Shield~~
-- Partial Armor (Rating 2, -1" Dash) - Shield (+1 Armor against Ranged, Can *Parry*) [ ]
+- Partial Armor (Rating 2, -1" Dash)
+- ~~Shield (+1 Armor against Ranged, Can *Parry*) [ ]~~ (Lent to Mort)
 # Notes
 - Created with the Warband
 - Injured by Enemy Leader in CT7

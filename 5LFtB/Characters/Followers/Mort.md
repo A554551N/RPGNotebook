@@ -8,6 +8,7 @@
 ## Inventory
 - Light Weapon [ ]
 - Light Armor (Rating 1) [ ]
+- Shield (+1 Armor vs Ranged, Can *Parry*)
 
 # Notes
 - Created with the Warband
