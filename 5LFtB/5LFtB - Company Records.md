@@ -1,4 +1,4 @@
-# Campaign Turn: 9
+# Campaign Turn: 10
 # Metacurrency
 - **Story Points** - 3
 - **Adventure Points** - 2
@@ -15,7 +15,7 @@
 |  Thieves Tools  |  1  |                                                                                        Grants +1 bonus to all **Expertise** tests. This is cumulative with a skill bonus                                                                                         |  W   | N/A            |
 
 # Contracts
-- Friend Siazka asks us to drive off the Group of Unknown Soldiers who have made camp near town.
+- Friend Siazka asks us to drive off the Group of Unknown Soldiers who have made camp near town. 
 	- Offers 5 Gold Marks + 1 Story Point
 	- Expires at End of CT 11
 # Company Armory

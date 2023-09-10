@@ -7,6 +7,7 @@
 - Devotion +2
 ## Inventory
 - Light Weapon [ ]
+- Warhammer (+1/+0)
 - Light Armor (Rating 1) [ ]
 - Shield (+1 Armor vs Ranged, Can *Parry*)
 
