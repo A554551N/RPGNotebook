@@ -1,4 +1,4 @@
-**Villainy** 8 | **Strength 4** | **Influence** 1
+**Villainy** 5 | **Strength 4** | **Influence** 1
 **Affiliation:** [[Avalon]]
 # Image
 ![[baronetsumner.png]]
@@ -20,7 +20,8 @@ Additionally, the Baronet is an Influence based villain.  At least at the outset
 - Allerton Limited is a rival shipping company that specializes in moving high-value goods through dangerous waters
 - Sumner knows that Allerton has recently been contracted to move valuable royal goods from Carleon to **Kirkwall** in the Marches.
 - He has hired [[GM Story - Enemy of the Crown|Halla the Red]] to take the ship and its cargo.  The loss of the goods will compromise Allerton and convince the Queen to send her shipping via a safer alternative.
-
+## Kill Mr. Morton - 1 Pt
+- Sumner kidnaps [[Connor Cobbler]] to use as leverage against [[Saoirse]], he wants her to kill [[Mr Morton]] for him (since Morton is investigating him).
 
 # Arcana
 ## Virtue - The Moonless Night (Subtle)
