@@ -32,3 +32,10 @@ tags:
 - [[Saoirse]] checks in with [[Rafe Gage]] in Faerie.  He tells her that he has confirmed that [[Androw Rakhill]] might be the most prolific artefact hunter in recent history, and realizes that Rakhill is probably using an emptied [[Syrneth]] ruin as his base.  He is working on finding the exact location. 
 - **26 Days Remain** until [[Rafe Gage|Rafe's]] soul is bound to Faerie
 - [[Mr Morton]] leaves a note directing [[Saoirse]] to an old shipping dock outside the city proper.
+- **Dramatic Scene** - The Crew Sneaks into the old shipping warehouse
+	- The Warehouse is a complex of buildings surrounding a large central two-story building that has an open side on the water that allows ships to enter
+	- It's part of the Sumner Shipping Co, but clearly not in use.
+	- Egis sneaks in and incapacitates their sniper guarding the complex
+	- Gustav sets up roadblocks and intercepts a wagon headed for the complex.  Inside the wagon he finds men who had been kidnapped to be sold into slavery
+	- Saoirse sneaks into the building and finds her brother being repeatedly dunked into the water from a crane on the second floor.  She tackles the person working the lever who is revealed to be a Duelist.  "He said you would come, but I didn't expect you to be here so quickly.  But now...now it is just you...and me...and my **GUARDS**!"
+- Open with an Action Sequence next time.
