@@ -1,4 +1,4 @@
-**Villainy** 8 | **Strength 4** | **Influence** 4
+**Villainy** 8 | **Strength 4** | **Influence** 1
 **Affiliation:** [[Avalon]]
 # Image
 ![[baronetsumner.png]]
