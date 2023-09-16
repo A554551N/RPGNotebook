@@ -15,3 +15,4 @@
 - [[Chaussure]]'s Brother
 - Slew an Enemy Leader outside Tripass on CT7
 - Downed by Bandits on CT8, Damaged armor
+- Slew a Lieutenant of the Strange Soldiers on CT10
