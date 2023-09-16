@@ -19,6 +19,8 @@
 - Friend Siazka asks us to drive off the Group of Unknown Soldiers who have made camp near town. 
 	- Offers 5 Gold Marks + 1 Story Point
 	- Expires at End of CT 11
+# Quest
+- Recover the Artefact from [[Ruined Fortress]]
 # Company Armory
 - 1x Staff (-1/+0) *Parry*
 - 1x Warhammer (+1/+0)

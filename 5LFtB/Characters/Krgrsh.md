@@ -1,4 +1,4 @@
-# Krgrsh Feral Warrior
+# Krgrsh the Feral Warrior
 
 | AGI | Spd | CS | Cst | Tg | XP | Will | Luck |
 |:---:|:------:|:---:|:---:|:---:|:---:| :---:| :---:|

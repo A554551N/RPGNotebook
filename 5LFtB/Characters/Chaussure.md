@@ -1,4 +1,4 @@
-# Chaussure - Fey-Blood Mystic
+# Chaussure the Fey-Blood Mystic
 
 | AGI |  Spd   | CS  | Cst | Wl  | Tg  | Lck | XP  |
 |:---:|:------:|:---:|:---:|:---:|:---:| :---: |:---:|
