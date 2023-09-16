@@ -1,9 +1,8 @@
 # Krgrsh Feral Warrior
-## Injured (Until CT 11)
 
 | AGI | Spd | CS | Cst | Tg | XP | Will | Luck |
 |:---:|:------:|:---:|:---:|:---:|:---:| :---:| :---:|
-| 1 | 6"/+3" | +1 | N/A | 3 | 7 | 1 | 0 |
+| 1 | 6"/+3" | +1 | N/A | 3 | 8 | 1 | 0 |
 
 ## Skills
 - Battlewise +2 

@@ -3,7 +3,7 @@
 
 | AGI |  Spd   | CS  | Cst | Tg  | Wl  |  Lck   | XP  |
 |:---:|:------:|:---:|:---:|:---:|:---:| :---: |:---:|
-|  2  | 4"/+3" | +1  | N/A |  4  |  1  |  1   |  12  |
+|  2  | 4"/+3" | +1  | N/A |  4  |  2  |  1   |  15  |
 
 ### Racials
 - Speech +1
@@ -23,7 +23,7 @@
 	- If a double is rolled on a post-game Injury Table, the injury is negated (treat as Knocked Out).  The Helmet is *Damaged*.
 
 ### Inventory
-- Silvertree Leaf x2
+- None
 # Notes
 - Created with the Warband
 - Avatar

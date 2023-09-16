@@ -1,18 +1,18 @@
 {
 	"nodes":[
-		{"type":"group","id":"41a2efb889d8e4fb","x":1280,"y":-560,"width":1320,"height":2340,"label":"Injured Reserve"},
-		{"type":"group","id":"313f8ea0eea7ca52","x":-1240,"y":640,"width":2480,"height":1140,"label":"Bullpen"},
-		{"type":"group","id":"b69179c552dca029","x":-2120,"y":-560,"width":840,"height":2340,"label":"Graveyard"},
+		{"type":"group","id":"41a2efb889d8e4fb","x":1280,"y":-560,"width":1320,"height":2360,"label":"Injured Reserve"},
+		{"type":"group","id":"313f8ea0eea7ca52","x":-1240,"y":620,"width":2480,"height":1180,"label":"Bullpen"},
+		{"type":"group","id":"b69179c552dca029","x":-2120,"y":-560,"width":840,"height":2360,"label":"Graveyard"},
 		{"type":"group","id":"406d5606b938e5c2","x":-1240,"y":-560,"width":1240,"height":1140,"label":"Justin's Characters"},
 		{"type":"group","id":"972564c1b698f1d9","x":0,"y":-560,"width":1240,"height":1140,"label":"Dox's Characters"},
 		{"type":"file","file":"5LFtB/Characters/Gloun.md","id":"adf049aaa9fa739c","x":-1220,"y":-540,"width":400,"height":1100},
 		{"type":"file","file":"5LFtB/Characters/Reiner.md","id":"cf055bddc408f94c","x":420,"y":-540,"width":400,"height":1100},
 		{"type":"file","file":"5LFtB/Characters/Followers/Wilkie.md","id":"56c9b1cbda2a73a0","x":-820,"y":-540,"width":400,"height":1100},
-		{"type":"file","file":"5LFtB/Characters/Krgrsh.md","id":"40984befc398b6af","x":1320,"y":-540,"width":400,"height":1100},
 		{"type":"file","file":"5LFtB/Characters/Followers/Virteg.md","id":"f34f61adc7f22815","x":-2100,"y":-540,"width":400,"height":140},
 		{"type":"file","file":"5LFtB/Characters/Followers/Tirkye.md","id":"0ade77b859cf0a12","x":20,"y":-540,"width":400,"height":1100},
 		{"type":"file","file":"5LFtB/Characters/Chaussure.md","id":"b97e3ff9e779dc23","x":-420,"y":-540,"width":400,"height":1100},
-		{"type":"file","file":"5LFtB/Characters/Followers/Mort.md","id":"1f4cd0ac285a7d00","x":820,"y":-540,"width":400,"height":1100}
+		{"type":"file","file":"5LFtB/Characters/Followers/Mort.md","id":"1f4cd0ac285a7d00","x":820,"y":-540,"width":400,"height":1100},
+		{"type":"file","file":"5LFtB/Characters/Krgrsh.md","id":"40984befc398b6af","x":-1220,"y":680,"width":400,"height":1100}
 	],
 	"edges":[]
 }
