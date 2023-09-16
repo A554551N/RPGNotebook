@@ -1,9 +1,9 @@
 # Campaign Turn: 10
 # Metacurrency
-- **Story Points** - 3
+- **Story Points** - 2
 - **Adventure Points** - 2
 # Company Wealth
-- **Gold Marks** - 6
+- **Gold Marks** - 6wa
 # Company Inventory
 
 |      Item       | Qty |                                                                                                                               Desc                                                                                                                               | Tags | In Backpack |
