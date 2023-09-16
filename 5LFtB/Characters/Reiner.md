@@ -9,7 +9,7 @@
 - Longbow (+0/+0 24", Bulky, Limited Ammunition) [ ]
 - ~~Light Weapon [ ]~~
 - Balanced Bastard Sword (+0/+1), The Enemy cannot *Counter Attack* for any reason.
-- Light Armor (Rating 1) **DAMAGED**
+- Light Armor (Rating 1)
 # Notes
 - Created with the Warband
 - [[Chaussure]]'s Brother
