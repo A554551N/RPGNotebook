@@ -17,7 +17,7 @@
 	- Parry (p. 42)
 
 ### Armor
-- Partial Armor (1 Armor)
+- Partial Armor (2 Armor)
 	- Movement Reduced by 0"/-1"
 - Helmet
 	- If a double is rolled on a post-game Injury Table, the injury is negated (treat as Knocked Out).  The Helmet is *Damaged*.
