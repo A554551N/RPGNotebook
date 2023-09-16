@@ -32,6 +32,8 @@
 	- Met on the Road
 - **Lenore** - Studious Faeblood Apprentice
 	- Former Lover of [[Chaussure]], we returned a mysterious ring to her and she became a friend of the band.
+- **Tuck** - Jolly Friar
+	- Will join our warband if we must enter battle with less than a full complement (armed with Staff, 1 pt of Luck).  If killed or suffers 4+ turns of recovery, remove as friend.
 # Threats
 ## The Ice-Heart Court - TL 5
 ## The Whispers From Beyond - TL 5
