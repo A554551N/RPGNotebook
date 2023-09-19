@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"b47a38be3277904a","type":"text","text":"King","x":-120,"y":-320,"width":250,"height":60},
+		{"id":"284973fd2b19ac46","type":"text","text":"Minister of War","x":-760,"y":-190,"width":250,"height":60},
+		{"id":"6071029104dc2846","type":"text","text":"Minister of State","x":410,"y":-190,"width":250,"height":60},
+		{"id":"6114357675ceb0bb","type":"text","text":"Commissioner of Public Safety","x":840,"y":-70,"width":250,"height":60},
+		{"id":"32c92c64b5fdbdc3","type":"text","text":"Minister of Justice","x":5,"y":-70,"width":250,"height":60},
+		{"id":"9a9b3de5c72a6873","type":"text","text":"Ministers without Portfolio","x":285,"y":-10,"width":250,"height":60},
+		{"id":"ef8780e4df55a3e9","type":"text","text":"Chancellor of the Exchequer","x":565,"y":-10,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"6b1fc96b50e0271c","fromNode":"b47a38be3277904a","fromSide":"bottom","toNode":"6071029104dc2846","toSide":"left"},
+		{"id":"5ce5108652d615dd","fromNode":"b47a38be3277904a","fromSide":"bottom","toNode":"284973fd2b19ac46","toSide":"right"},
+		{"id":"14713acc1bddf69a","fromNode":"6071029104dc2846","fromSide":"bottom","toNode":"32c92c64b5fdbdc3","toSide":"top"},
+		{"id":"b5bcc9a59acee6ca","fromNode":"6071029104dc2846","fromSide":"bottom","toNode":"9a9b3de5c72a6873","toSide":"top"},
+		{"id":"1cf0eb8301ebcacc","fromNode":"6071029104dc2846","fromSide":"bottom","toNode":"ef8780e4df55a3e9","toSide":"top"},
+		{"id":"0b58ba8341bdac2f","fromNode":"6071029104dc2846","fromSide":"bottom","toNode":"6114357675ceb0bb","toSide":"top"}
+	]
+}
