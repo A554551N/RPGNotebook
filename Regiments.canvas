@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"2b83e75909da1e52","x":-470,"y":-200,"width":910,"height":460,"type":"group","label":"Regiment"},
+		{"id":"a4861087f4e1bdc8","x":-450,"y":-40,"width":290,"height":280,"type":"group","label":"1st Battalion"},
+		{"id":"62626e2af2e68391","x":-160,"y":-40,"width":290,"height":280,"type":"group","label":"2nd Battalion"},
+		{"id":"8aa8c9f31961f78b","x":130,"y":-40,"width":290,"height":280,"type":"group","label":"3rd Battalion"},
+		{"id":"909014106f3eb1f4","type":"text","text":"Captain - Company C","x":-140,"y":70,"width":250,"height":60},
+		{"id":"661037b81ddd13e2","type":"text","text":"Captain - Company D","x":-140,"y":160,"width":250,"height":60},
+		{"id":"50663f9b3b14420a","type":"text","text":"Captain - Company F","x":150,"y":160,"width":250,"height":60},
+		{"id":"2d13ba1ee75c5675","type":"text","text":"Captain - Company E","x":150,"y":70,"width":250,"height":60},
+		{"id":"875d5c1229267e99","x":-430,"y":70,"width":250,"height":60,"type":"text","text":"Captain - Company A"},
+		{"id":"aa022e64a3dc76cc","type":"text","text":"Captain - Company B","x":-430,"y":160,"width":250,"height":60},
+		{"id":"ba4f55865067c1f3","type":"text","text":"Major - 3rd Battalion","x":150,"y":-20,"width":250,"height":60},
+		{"id":"f8b845831b1a88a9","type":"text","text":"Major - 2nd Battalion","x":-140,"y":-20,"width":250,"height":60},
+		{"id":"c75ba686e2907988","type":"text","text":"Lt. Col - 1st Battalion","x":-430,"y":-20,"width":250,"height":60},
+		{"id":"901424c90cbb2ff9","type":"text","text":"Colonel - Regiment Commander","x":-450,"y":-180,"width":870,"height":60}
+	],
+	"edges":[]
+}
