@@ -1,4 +1,10 @@
 # How to Play En Garde!
+## Game Timelines
+- Game begins at on the first day of the Spring Season: March 1, 1625
+- Each month in game is one week of real time.
+- Orders must be placed for the coming month no later than **Sunday at 9pm EST** in order for them to be processed.
+- Processed orders will be released on **Monday** of the new month.
+- Players have from **Monday** until the **Sunday** deadline to roleplay and negotiate with other players before submitting actions for the next month.
 ## Character
 ### Combat Statistics
 Your character has a number of statistics used in duels.  Here are a summary of what they do.  **Strength**, **Expertise**, and **Constitution** are determined by rolling 3d6.  **Endurance** is calculated based on **Strength** and **Constitution**.
@@ -29,4 +35,22 @@ Allowance is age that a character receives from their family on Week 1 of each n
 All characters are created with an Inheritance value.  This is money they would receive if they begin the game an orphan.  If your character is not orphaned, it is irrelevant to your character.
 #### Social Level (SL)
 Social Level represents your character's relative position on the greasy pole of Parisian society.  Peasants and Merchants are around SL 3, while a powerful Count is approximately SL 11.  Your character's Social Level is initially determined by wealth, their family's rank in society, and whether or not you are first born.  After character creation, your character's social level will increase or decrease independently of their family.
-## Months & Seasons
+## Weeks, Months, Seasons, and Years
+The Game plays out over the course of Months, Seasons, and Years.  Each Game Month (1 week realtime), all players must submit orders for the next month prior to the [[#Game Timelines|deadline]].
+### Weeks
+Every week your character can take one action from the list (under **Actions**).  **Actions** are submitted for the entire month (four weeks) at a time.
+### Months
+The basic unit of gameplay.  Orders are submitted a month at a time.
+### Seasons
+Each season is three months.  The Seasons are primarily relevant for characters who are part of a **Regiment**.
+#### Winter
+December-February
+#### Spring
+March-May
+#### Summer
+June-August
+#### Autumn
+September-November
+### Years
+Every four Seasons represents a year.  Some game actions taken by **Ministers** take place at the beginning of the year, and your characters become a year older.
+## Actions
