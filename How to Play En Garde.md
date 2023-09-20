@@ -6,6 +6,8 @@
 - Processed orders will be released on **Monday** of the new month.
 - Players have from **Monday** until the **Sunday** deadline to roleplay and negotiate with other players before submitting actions for the next month.
 ## Order Submission
+Order submission should be completed by using the Google Forms: https://forms.gle/mXGjsJHKxQczFoEu9.  In event of an emergency, orders can be emailed directly to engarde.paris1625@gmail.com or sent to the GM over Discord.
+Orders are private unless you choose to share them with other players.  The results of your chosen actions may be public, depending on the actions taken and their results.  As a general rule, visiting the Club or Bawdyhouse is public, as is military service time.  Actions relating to mistresses are private unless you suffer an *Indiscretion*.
 ## Character
 ### Combat Statistics
 Your character has a number of statistics used in duels.  Here are a summary of what they do.  **Strength**, **Expertise**, and **Constitution** are determined by rolling 3d6.  **Endurance** is calculated based on **Strength** and **Constitution**.
