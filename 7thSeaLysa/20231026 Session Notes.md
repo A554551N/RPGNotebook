@@ -14,4 +14,6 @@ tags:
 - Inside the safe is documents pertaining to the Baronet's most damning scheme.
 - They also steal some paperwork relating to lesser schemes (mostly embezzlement) that [[Baronet Bartram Sumner|Sumner]] is engaged in.
 - [[Saoirse]] spends a Wealth Point for a doctor to heal the poison that got Egis.
+- [[Saoirse]] hands over documents connecting Sumner to a number of dangerous pirate groups to [[Mr Morton]].  Morton says he'll handle the rest.
+- [[Saoirse]] reaches out through the mirror to [[Rafe Gage]], he is going stir-crazy from his stay in Faerie.
 - 
