@@ -22,3 +22,5 @@ tags:
 - **23 Days Remain** as the crew crosses over into Montaigne to pick up the ship.
 - [[Saoirse]] finds that [[Tessera Bernoulli]] is missing from her hotel room.
 	- This occurs as part of Tessera's story *The Sisters of Sophia*.  [[Saoirse]] missed the first step of it while in Avalon.
+- [[Gustav]] handily convinces the crew to come back from shore leave early.  The ship is made ready to depart from Montaigne in record time.
+- **22 Days Remain**
