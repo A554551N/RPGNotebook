@@ -13,3 +13,5 @@ tags:
 - They find an incredibly state of the art, Fae-made safe behind a portrait.  [[Egis Loneur]] cracks it, but not without consequence.  He is struck with a poison needle of unknown provenance
 - Inside the safe is documents pertaining to the Baronet's most damning scheme.
 - They also steal some paperwork relating to lesser schemes (mostly embezzlement) that [[Baronet Bartram Sumner|Sumner]] is engaged in.
+- [[Saoirse]] spends a Wealth Point for a doctor to heal the poison that got Egis.
+- 
