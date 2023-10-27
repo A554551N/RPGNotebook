@@ -19,4 +19,5 @@ tags:
 	- Rafe located [[Androw Rakhill]]'s hideout on an unmarked island away from the sealanes near [[Avalon]]
 	- [[Saoirse]] offers to send him some nice mortal things to take his mind off of imprisonment
 	- They don't discuss [[Saoirse]]'s I love you.
+- **23 Days Remain** as the crew crosses over into Montaigne to pick up the ship.
 - 
