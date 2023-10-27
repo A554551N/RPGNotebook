@@ -16,4 +16,7 @@ tags:
 - [[Saoirse]] spends a Wealth Point for a doctor to heal the poison that got Egis.
 - [[Saoirse]] hands over documents connecting Sumner to a number of dangerous pirate groups to [[Mr Morton]].  Morton says he'll handle the rest.
 - [[Saoirse]] reaches out through the mirror to [[Rafe Gage]], he is going stir-crazy from his stay in Faerie.
+	- Rafe located [[Androw Rakhill]]'s hideout on an unmarked island away from the sealanes near [[Avalon]]
+	- [[Saoirse]] offers to send him some nice mortal things to take his mind off of imprisonment
+	- They don't discuss [[Saoirse]]'s I love you.
 - 
