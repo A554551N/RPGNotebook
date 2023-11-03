@@ -1,0 +1,1 @@
+The Island at the center of the world where the International Games are held.
