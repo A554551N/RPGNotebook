@@ -7,6 +7,9 @@
 - `Aunt Delia has moved a bit offscreen, I don't currently have any beliefs planned.`
 
 ### Skata
+
+^d96a6d
+
 *Skata is a bureaucrat working in the Office of Military Logistics.  Officially his job is locating food for the troops and making sure the food ends up where it's supposed to go.  Unofficially, Skata is a spy working on behalf of the [Alliance](../WorldNotes.md) to destabilize Trokos from within.*
 *He is interested in [Melanion](Melanion.md) as an asset.  So blindly loyal to Trokos that he might be willing to do some really terrible stuff if he believes it's for the good of the City.*
 
