@@ -1,4 +1,7 @@
 # Zartanalos, the Wise
+
+^18acb3
+
 Zartanalos is the sorcerer of Enkavma (he's actually a Spirit Binder but who's counting.)
 
 # Eschaton, the Fisherman
