@@ -1,0 +1,1 @@
+An [[Enkavma|Enkavman]] gang of smugglers working to keep food scarce so that they can keep selling their smuggled goods at huge profit.

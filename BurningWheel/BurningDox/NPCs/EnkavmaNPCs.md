@@ -7,3 +7,6 @@ Captain of a fishing boat from a small village near Enkavma.  [[Melanion]] circl
 # Asfalea, Archon of Enkavma
 
 # Thyra, Exarch of Enkavma
+
+# Others
+- [[The Deck Rats]]
