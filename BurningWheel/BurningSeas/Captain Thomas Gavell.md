@@ -1,5 +1,4 @@
 *Captain of the INS [[Kestrel]]*
-
 # Image
 ![[thomasgavill.png]]
 # Character Traits
