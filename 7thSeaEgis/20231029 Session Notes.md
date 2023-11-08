@@ -13,4 +13,4 @@ tags:
 - [[Gaspard]] is still being a salty little bitch when [[Olivain]] returns from pursuing the man who is trying to steal away his meal ticket (that is, Genevieve).
 - Seeing that he cannot be reasoned with, [[Olivain]] instead decides to needle his friend and then go  find some dinner.
 - He meets [[Lady Genevieve]]'s servant Alys in the kitchen and together they concoct a plan to get rid of monsieur Hautang and ensure the marriage between [[Gaspard]] and [[Lady Genevieve]]  goes off as planned.
-- 
+- The next morning [[Gaspard]] offers to take [[Olivain]] to Musketeer HQ, [[Olivain]] is thrilled.
