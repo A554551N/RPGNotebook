@@ -16,5 +16,10 @@ tags:
 	- ~~The ship takes damage (5 Wounds)~~
 	- Ship takes 3 Hits
 	- ~~It takes a long time (18 days remain)~~
-- [[Saoirse]] navigates the Invisible Maze with [[Rafe Gage|Rafe's]] help.  While she investigates the [[Syrneth]] structures within, Rafe gives her a briefing on the many threats that protect a ruin like this.  Lightning-Throwers are common, as are Automotons.  "Crushers, Rollers, and Incinerating Machines".  Reversed Gravity smashing them into the ceiling.
-- 
+- [[Saoirse]] navigates the Invisible Maze with [[Rafe Gage|Rafe's]] help.  While she investigates the [[Syrneth]] structures within, Rafe gives her a briefing on the many threats that protect a ruin like this.  Lightning-Throwers are common, as are Automotons.  "Crushers, Rollers, and Incinerating Machines".  Reversed Gravity smashing them into the ceiling
+- He also mentions carved eye *sensors* that help the lightning-throwers target.
+- **Risk** Avoiding the Lightning Throwers
+	- ~~You aren't killed by the Lightning-Thrower~~
+	- You take 1 wound
+	- ~~The crew aren't injured.~~
+- [[Saoirse]] gets the crew safely inside the structure.  
