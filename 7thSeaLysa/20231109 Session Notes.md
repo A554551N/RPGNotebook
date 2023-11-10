@@ -12,7 +12,9 @@ tags:
 - [[Saoirse]] finds the location marked on Rafe's map to the hideout, but doesn't see anything.
 - While arguing with [[Rafe Gage]] over whose fault it is that the island isn't there, she realizes she can see it reflected in the back of the enchanted handmirror.
 - **Risk** Sailing the Invisible Maze
-	- You're lost in the maze
-	- The ship takes damage (5 Wounds)
-	- It takes a long time (18 days remain)
-	- 
+	- ~~You're lost in the maze~~
+	- ~~The ship takes damage (5 Wounds)~~
+	- Ship takes 3 Hits
+	- ~~It takes a long time (18 days remain)~~
+- [[Saoirse]] navigates the Invisible Maze with [[Rafe Gage|Rafe's]] help.  While she investigates the [[Syrneth]] structures within, Rafe gives her a briefing on the many threats that protect a ruin like this.  Lightning-Throwers are common, as are Automotons.  "Crushers, Rollers, and Incinerating Machines".  Reversed Gravity smashing them into the ceiling.
+- 
