@@ -25,4 +25,4 @@ tags:
 - [[Saoirse]] gets the crew safely inside the structure.  
 - The inside of the tower is hollow, with narrow balconies and tall, skinny staircases connect the balconies.
 	- The 2nd floor is where Rakhill's crew slept and lived when they were here.  There is a great deal of detritus from their passing.
-	- 
+	- The 3rd floor comprises the [[Syrneth]] sanctum (and [[Androw Rakhill]]'s vault/office.)
