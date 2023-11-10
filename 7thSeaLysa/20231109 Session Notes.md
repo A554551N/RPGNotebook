@@ -11,4 +11,8 @@ tags:
 - **19 Days Remain**
 - [[Saoirse]] finds the location marked on Rafe's map to the hideout, but doesn't see anything.
 - While arguing with [[Rafe Gage]] over whose fault it is that the island isn't there, she realizes she can see it reflected in the back of the enchanted handmirror.
-- 
+- **Risk** Sailing the Invisible Maze
+	- You're lost in the maze
+	- The ship takes damage (5 Wounds)
+	- It takes a long time (18 days remain)
+	- 
