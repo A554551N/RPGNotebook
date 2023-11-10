@@ -26,3 +26,5 @@ tags:
 - The inside of the tower is hollow, with narrow balconies and tall, skinny staircases connect the balconies.
 	- The 2nd floor is where Rakhill's crew slept and lived when they were here.  There is a great deal of detritus from their passing.
 	- The 3rd floor comprises the [[Syrneth]] sanctum (and [[Androw Rakhill]]'s vault/office.)
+- [[Saoirse]] attempts enter the 3rd floor.  Is stopped by a [[Syrneth]] Eye asking for a password.  She guesses '**Maelstrom**', the name of [[Androw Rakhill]]'s ship.  The door opens (and alerts Rakhill.)
+- She goes inside, and discovers Rakhill's ship log.  It's been updated as late as yesterday.
