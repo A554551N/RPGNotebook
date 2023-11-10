@@ -32,3 +32,4 @@ tags:
 	- She learns that Rakhill isn't technically a ghost, just the owner of a number of [[Syrneth]] artifacts that let him replicate the effect.
 	- He is trapped in a half-dead state by a Rod of Stasis, which froze Rakhill's passage through time, leaving him permanently wounded and half-drowned.
 	- He claims that he is still collecting artefacts for Avalon, but becomes defensive when asked to give a plan on how he would actually accomplish giving the objects to Avalon in a time of crisis
+	- Saoirse takes a **Risk** to dive at Rakhill, avoiding his weapons and getting a hand on the Rod.  She demands Rakhill tell her where [[Stormbringer]] is...
