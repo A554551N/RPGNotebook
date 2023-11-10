@@ -32,4 +32,7 @@ tags:
 	- She learns that Rakhill isn't technically a ghost, just the owner of a number of [[Syrneth]] artifacts that let him replicate the effect.
 	- He is trapped in a half-dead state by a Rod of Stasis, which froze Rakhill's passage through time, leaving him permanently wounded and half-drowned.
 	- He claims that he is still collecting artefacts for Avalon, but becomes defensive when asked to give a plan on how he would actually accomplish giving the objects to Avalon in a time of crisis
-	- Saoirse takes a **Risk** to dive at Rakhill, avoiding his weapons and getting a hand on the Rod.  She demands Rakhill tell her where [[Stormbringer]] is...
+	- Saoirse takes a **Risk** to dive at Rakhill, avoiding his weapons and getting a hand on the Rod.  She demands Rakhill tell her where [[Stormbringer]] is.  He does so.
+- [[Androw Rakhill]] takes [[Saoirse]] (the latter still glued to his side, clutching the rod of stasis) to an elevator that rises up from the ground floor of the tower.  It's obvious that he is controlling the [[Syrneth]] ruins with the Rod of Stasis embedded in him.
+- They go beneath the ground and emerge in the Vault (actually a service undercroft.)  There are six automatons in service vestibules along the walls, and the whole center of the room is taken up by piles of gold and artefacts.
+- [[Saoirse]] goes into the room and leaves [[Gustav]] to hold Rakhill's Rod.  The automatons awake with another command from Rakhill's Rod.
