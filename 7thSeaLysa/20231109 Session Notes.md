@@ -28,3 +28,7 @@ tags:
 	- The 3rd floor comprises the [[Syrneth]] sanctum (and [[Androw Rakhill]]'s vault/office.)
 - [[Saoirse]] attempts enter the 3rd floor.  Is stopped by a [[Syrneth]] Eye asking for a password.  She guesses '**Maelstrom**', the name of [[Androw Rakhill]]'s ship.  The door opens (and alerts Rakhill.)
 - She goes inside, and discovers Rakhill's ship log.  It's been updated as late as yesterday.
+- During her investigation, Rakhill returns to his home and discovers [[Saoirse]] there.  They palaver:
+	- She learns that Rakhill isn't technically a ghost, just the owner of a number of [[Syrneth]] artifacts that let him replicate the effect.
+	- He is trapped in a half-dead state by a Rod of Stasis, which froze Rakhill's passage through time, leaving him permanently wounded and half-drowned.
+	- He claims that he is still collecting artefacts for Avalon, but becomes defensive when asked to give a plan on how he would actually accomplish giving the objects to Avalon in a time of crisis
