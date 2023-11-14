@@ -1,5 +1,5 @@
 # Random BtW Notes
-The party is currently hunting the bones of the dragon to keep them out of the hands of the [[New Dawn]].  The bones have proven essentially indestructible to heroes in the past.  They've been reshaped, but cannot be permenantly destroyed.
+The party is currently hunting the bones of the dragon to keep them out of the hands of the [[New Dawn]].  The bones have proven essentially indestructible to heroes in the past.  They've been reshaped, but cannot be permanently destroyed.
 
 ## 12/27 Session
 **Sigil of the Heron:** Best Haircut of Amelio's Life (based on an oracle reading from Old Lady Holkin)
