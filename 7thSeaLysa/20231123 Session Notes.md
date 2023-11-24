@@ -29,3 +29,5 @@ date: 2023-11-23
 - With [[Rafe Gage]] safe for the time being, [[Saoirse]] turns her attention to the missing [[Tessera Bernoulli]] ([[GM Story - The Sisters of Sophia]]).
 	- She sends [[Giovanni Bernoulli]] a letter, claiming to have been attacked and his sister kidnapped in the ensuing struggle.
 - [[Saoirse]] takes [[Rafe Gage]] to Rakhill's hideout, she find a strange metamorphosing blob of metal there and claims it as a **Signature Item**.  It can take the form of anything the bearer focuses on and retain that shape until given a new shape to assume.
+- Rafe and [[Saoirse]] talk a bit more about their impending divorce, Rafe says he's decided to get his own place once his finances are in order.
+- As the group arrives home from their trip, they find [[Giovanni Bernoulli]] on their doorstep.  "What the hell have you done with my sister?"
