@@ -18,4 +18,4 @@ date: 2023-11-23
 **End Action Sequence
 - Using [[Stormbringer]], [[Saoirse]] powers the Rod that was inside Rakhill.  It gives her the ability to control the Syrneth site.  She uses this newfound power to escape the site and return to [[Avalon]].
 - She buries the Stormbringer with the [[Guardian of the Dark Wood]] where it can be neutralized.
-- [[Mr Morton]] offers to keep [[Rafe Gage]] in Bryn Bressail if [[Saoirse]] would prefer it.  She insists on having him back.  Morton offers inducement up to and including allowing her father to shoe the Queen's court (and become insanely wealthy as a byproduct)
+- [[Mr Morton]] offers to keep [[Rafe Gage]] in Bryn Bressail if [[Saoirse]] would prefer it.  She insists on having him back.  Morton offers inducement up to and including allowing her father to shoe the Queen's court (and become insanely wealthy as a byproduct).  She rejects him.
