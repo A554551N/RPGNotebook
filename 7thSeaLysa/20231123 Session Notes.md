@@ -26,4 +26,5 @@ date: 2023-11-23
 
 > [!success] GM Story Complete - [[GM Story - Through the Looking Glass]]
 > Completed 20231123
-
+- With [[Rafe Gage]] safe for the time being, [[Saoirse]] turns her attention to the missing [[Tessera Bernoulli]] ([[GM Story - The Sisters of Sophia]]).
+	- She sends [[Giovanni Bernoulli]] a letter, claiming to have been attacked and his sister kidnapped in the ensuing struggle.
