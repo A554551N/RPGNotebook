@@ -20,3 +20,5 @@ date: 2023-11-23
 - She buries the Stormbringer with the [[Guardian of the Dark Wood]] where it can be neutralized.
 - [[Mr Morton]] offers to keep [[Rafe Gage]] in Bryn Bressail if [[Saoirse]] would prefer it.  She insists on having him back.  Morton offers inducement up to and including allowing her father to shoe the Queen's court (and become insanely wealthy as a byproduct).  She rejects him.
 	- [[Rafe Gage]] is returned with no clothes, a little prank of Morton's.
+	- Morton neglected to return Rafe's papers (comprising the manuscript to his latest books).  He definitely destroys them.
+- 
