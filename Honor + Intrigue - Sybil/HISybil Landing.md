@@ -15,4 +15,4 @@ tags:
 - Links to Setting Notes
 
 ## Session Notes
-- Session Notes
+- [[20231209]]
