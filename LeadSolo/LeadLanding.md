@@ -4,7 +4,7 @@ tags:
   - LeadSolo
 ---
 
-# GAME NAME
+# We Deal in Lead - Solo Excursion
 ## Players
 - Just Me
 ## Main Characters
