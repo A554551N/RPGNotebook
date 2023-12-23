@@ -24,7 +24,6 @@ tags:
 - [[Bonnie Day]]
 ## World Notes
 - Links to Setting Notes
-
 ## Session Notes
 - [[20231209]]
 - [[20231215]]
