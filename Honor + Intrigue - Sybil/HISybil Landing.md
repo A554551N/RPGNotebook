@@ -17,10 +17,10 @@ tags:
 - [[Agustin Abarquero]]
 ## Villains
 - [[Juan Cardoza]]
-- [[Isadora Abarquero]]
+- [[Isadora Abarquero-Cardoza]]
 ## Ships
 - [[El Santo del Esturion]]
-- [[La Madre de Dios
+- [[La Madre de Dios]]
 - [[Bonnie Day]]
 ## World Notes
 - Links to Setting Notes
