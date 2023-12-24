@@ -16,4 +16,4 @@ tags:
 - Links to Setting Notes
 
 ## Session Notes
-- [[20231223_lead]]
+- [[session1_lead]]
