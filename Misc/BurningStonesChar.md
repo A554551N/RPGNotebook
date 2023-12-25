@@ -1,4 +1,6 @@
 # Name
+- [ ] **Grit**: Roll a d12 instead of the normal die for a Skill
+
 **Resilience**: 1d4+2 -> [4]+2 ->  **6**
 **Coin**: 1d4x100 -> [3] x 100 ->  **300**
 **Heritage**: 1d6 -> [5] ->  **5**  Human
