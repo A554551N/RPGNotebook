@@ -5,3 +5,6 @@
 **Background** 1d8 -> [6] ->  **6** Scoundrel (sly, stealthy)
 **Strength** d8 | **Dexterity** d6 | **Willpower** d4
 **Weapon** Short Sword d6
+**Tresspasser**: When sneaking somewhere you shouldn't be, roll with **excellent position**.  Costs **1 Step**.
+
+*Tall and Slender.  Face Round and Freckled.  Curly hair. Classy appearance, Wealthy background.  Is Patient, but seeks Fame.  Others find you untrustworthy.*
