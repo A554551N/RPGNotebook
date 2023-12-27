@@ -6,7 +6,7 @@
 **HP** 8/8 **Doom** Ud6 | **Damage (Armed)** d6 Adv | **Dmg (Unarmed)** d6
 
 # Origin: Barbarian
-`dice: 1d20` **You were born** ...in a palace, soon after raided by your adoptive tribe.
+**You were born** ...in a palace, soon after raided by your adoptive tribe.
 *Unbeknownst to me, I was taken from the palace as part of a targeted raid.  The Windspeaker who made me his apprentice led his people against mine to secure me.  I don't know why.*
 
 # Backgrounds
@@ -39,5 +39,5 @@ On a roll of 1 the animals flee (or attack you if they are predators).
 
 # Harness & Acoutremant
 **Coin** 25
-**Weapon A** (Barbarian Origin) `dice: 1d10` Hunting Knife
-**Weapon B** (Civilized Origin) `dice: 1d10` Pilgrim's Staff (2H)
+**Weapon A** (Barbarian Origin) Hunting Knife
+**Weapon B** (Civilized Origin) Pilgrim's Staff (2H)
