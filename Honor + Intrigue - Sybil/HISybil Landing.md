@@ -17,6 +17,7 @@ tags:
 ## Villains
 - [[Juan Cardoza]]
 - [[Isadora Abarquero-Cardoza]]
+- [[The Cannon|El Cañon]]
 ## Ships
 - [[El Santo del Esturion]]
 - [[La Madre de Dios]]
