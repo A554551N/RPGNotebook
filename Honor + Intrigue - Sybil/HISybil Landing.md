@@ -14,6 +14,7 @@ tags:
 - [[Sharkbait]]
 - [[Smiling Jaq]]
 - [[Agustin Abarquero]]
+- [[Misc NPCs]]
 ## Villains
 - [[Juan Cardoza]]
 - [[Isadora Abarquero-Cardoza]]
@@ -23,8 +24,9 @@ tags:
 - [[La Madre de Dios]]
 - [[Bonnie Day]]
 ## World Notes
-- Links to Setting Notes
+- [[Abarquero-Cardoza Family]]
 ## Session Notes
 - [[20231209]]
 - [[20231215]]
 - [[20231226]]
+- [[20231227]]
