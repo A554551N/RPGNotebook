@@ -23,5 +23,5 @@ He's nearly captured [[Sybil]] on a number of occasions, most recently in the Af
 >**Favored Actions**: Footwork, Quick Cut, Dodge, Tag
 >**Mastered Action:** Riposte
 
-
+- Spent 1 Fortune
 
