@@ -12,6 +12,7 @@ He's nearly captured [[Sybil]] on a number of occasions, most recently in the Af
 ## Encounters with Sybil
 - Used [[El Mapache]] as a catspaw to capture [[Sybil]] and take her to **Isle de Castille**
 - Defeated by an alliance of [[El Mapache]] and [[Sybil]] at sea.
+- [[Sybil]] intervened when Cardoza attempted to convince the French governor of Petit-Goave to stay out of a battle between his pirate hunters and the colony of Tortuga.
 
 >[!info] Juan Cardoza (Villain)
 >**Daring** 3 **Savvy** 2 | **Melee** 3 **Defense** 1
@@ -22,7 +23,3 @@ He's nearly captured [[Sybil]] on a number of occasions, most recently in the Af
 >**Perfectly Balanced Rapier** 1d6 dmg, +1 Parry + Bonus Die on Parry
 >**Favored Actions**: Footwork, Quick Cut, Dodge, Tag
 >**Mastered Action:** Riposte
-
-- Spent 1 Fortune
-- -1 Composure
-
