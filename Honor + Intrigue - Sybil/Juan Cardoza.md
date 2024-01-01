@@ -24,4 +24,5 @@ He's nearly captured [[Sybil]] on a number of occasions, most recently in the Af
 >**Mastered Action:** Riposte
 
 - Spent 1 Fortune
+- -1 Composure
 
