@@ -23,3 +23,6 @@ He's nearly captured [[Sybil]] on a number of occasions, most recently in the Af
 >**Perfectly Balanced Rapier** 1d6 dmg, +1 Parry + Bonus Die on Parry
 >**Favored Actions**: Footwork, Quick Cut, Dodge, Tag
 >**Mastered Action:** Riposte
+
+
+LB 3
