@@ -21,6 +21,7 @@ The rapier-wielding Spaniard opposite grits his teeth in a grim smile, gleaming 
 - [[Sharkbait]]
 - [[Smiling Jaq]]
 - [[Agustin Abarquero]]
+- [[Jean-Paul]]
 - [[Misc NPCs]]
 ## Villains
 - [[Juan Cardoza]]
