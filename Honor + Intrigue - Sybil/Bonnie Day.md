@@ -9,7 +9,7 @@ tags:
 **Nationality:** English
 **Captain:** [[Smiling Jaq]]
 
-> [!info] Image
+> [!info]+ Image
 > ![[Pasted image 20231223144153.png]]
 
 *Bonnie Day* is the ship of Scottish pirate captain [[Smiling Jaq|"Smilin'" Jaq McGregor]].  Stolen from an English naval Lieutenant who had mistreated her in the past.
