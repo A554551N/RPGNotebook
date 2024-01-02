@@ -33,6 +33,8 @@ The rapier-wielding Spaniard opposite grits his teeth in a grim smile, gleaming 
 - [[Bonnie Day]]
 ## World Notes
 - [[Abarquero-Cardoza Family]]
+- [[Nassau]]
+- [[Tortuga]]
 ## Session Notes
 - [[20231209]]
 - [[20231215]]
