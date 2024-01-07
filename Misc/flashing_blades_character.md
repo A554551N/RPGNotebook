@@ -7,3 +7,12 @@ Stats
 **Luck** 7
 
 **Build:** Tall & Average
+**Background:** Gentleman
+## Skills
+- Etiquette (Charm)
+- Languages - Latin (Wit)
+- Magistracy (Wit)
+- Carousing (End)
+- Bargaining (Wit)
+- Seduction (Charm)
+- Oratory (Charm)
