@@ -1,12 +1,9 @@
-Stats
-**Str** 11 
-**Dex** 10
-**End** 12
-**Wit** 17
-**Cha** 12
-**Luck** 7
-**Enc** 11
-
+# Chevalier Gillebert Longchambon
+## Attributes
+| Str | Dex | End | Wit | Cha | Luck | Enc |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| 11 | 10 | 12 | 17 | 12 | 7 | 11 |
+**Age**: 20
 **Build:** Tall & Average
 ## Skills
 - Etiquette (Charm)
@@ -16,12 +13,12 @@ Stats
 - Bargaining (Wit)
 - Seduction (Charm)
 - Oratory (Charm)
-
 ## Martial Skills
-**Hit Points:** 12
 **Background:** Fencing Fraternity (Spanish, French)
 **Spanish Style** - +1 to Slash, usable with Rapier & Longsword
 **French Style** - Usable with Foil, Rapier, Longsword, all left-handed parrying weapons
+
+**Hit Points:** 12
 
 |    Weapon | Expertise |
 | ---------:|:---------:|
@@ -30,9 +27,21 @@ Stats
 | Longsword |    11     |
 |      Foil | 11          |
 ## Parisian Life
-**Social Rank:** 7
-**Annual Allowance**: 300L
+**Social Rank:** 8
 **Background**: Gentleman
 **Career:** Student of Law
 **Advantage:** Member of a Noble Order
 **Disadvantage:** Blackmailed (by someone who knows details of my torrid affairs)
+### Career
+**Student of Law**
+*Requires Latin and Magistracy*
+**Time in Career** 0 of 6 Years
+**Required Time/Yr** 4 Months
+### Honors
+- Chevaliers du Prince (Chevalier)
+
+### Finances
+**Annual Allowance:** 300L
+**Monthly Support:** 24 L
+**Taxes**: 28L (1/2 for Chevalier)
+**Tithes** 80L
