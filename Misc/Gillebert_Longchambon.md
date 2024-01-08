@@ -20,12 +20,12 @@
 
 **Hit Points:** 12
 
-|    Weapon | Expertise |
-| ---------:|:---------:|
-| Unskilled |     4     |
-|    Rapier |    12     |
-| Longsword |    11     |
-|      Foil | 11          |
+| Weapon | Expertise | Title |
+| ---: | :--: | :--: |
+| Unskilled | 4 | Unskilled |
+| Rapier | 12 | Experienced |
+| Longsword | 11 | Intermediate |
+| Foil | 11 | Intermediate |
 ## Parisian Life
 **Social Rank:** 9 - Chevalier
 **Background**: Gentleman
