@@ -16,3 +16,15 @@ Stats
 - Bargaining (Wit)
 - Seduction (Charm)
 - Oratory (Charm)
+
+## Martial Skills
+**Background:** Fencing Fraternity (Spanish, French)
+**Spanish Style** - +1 to Slash, usable with Rapier & Longsword
+**French Style** - Usable with Foil, Rapier, Longsword, all left-handed parrying weapons
+
+|    Weapon | Expertise |
+| ---------:|:---------:|
+| Unskilled |     4     |
+|    Rapier |    12     |
+| Longsword |    11     |
+|      Foil | 11          |
