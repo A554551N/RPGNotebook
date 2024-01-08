@@ -27,7 +27,7 @@
 | Longsword |    11     |
 |      Foil | 11          |
 ## Parisian Life
-**Social Rank:** 8
+**Social Rank:** 9 - Chevalier
 **Background**: Gentleman
 **Career:** Student of Law
 **Advantage:** Member of a Noble Order
