@@ -25,7 +25,7 @@
 | Unskilled | 4 | Unskilled |
 | Rapier | 12 | Experienced |
 | Longsword | 11 | Intermediate |
-| Foil | 11 | Intermediate |
+| Foil | 11 | Intermediatea |
 ## Parisian Life
 **Social Rank:** 9 - Chevalier
 **Background**: Gentleman
