@@ -25,5 +25,5 @@ He's nearly captured [[Sybil]] on a number of occasions, most recently in the Af
 >**Mastered Action:** Riposte
 
 
-LB 7
-2 FP
+LB 3
+1 FP
