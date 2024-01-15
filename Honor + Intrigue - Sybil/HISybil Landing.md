@@ -27,6 +27,7 @@ The rapier-wielding Spaniard opposite grits his teeth in a grim smile, gleaming 
 - [[Juan Cardoza]]
 - [[Isadora Abarquero-Cardoza]]
 - [[The Cannon|El Cañon]]
+- [[Artur Lucena]]
 ## Ships
 - [[El Santo del Esturion]]
 - [[La Madre de Dios]]
