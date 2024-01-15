@@ -27,3 +27,4 @@ He's nearly captured [[Sybil]] on a number of occasions, most recently in the Af
 
 LB 3
 1 FP
+-1 Composure
