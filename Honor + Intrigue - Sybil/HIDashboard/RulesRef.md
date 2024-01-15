@@ -9,7 +9,7 @@
 | Demanding | Extreme | -6 |
 ## Mighty Success
 - +1d6 mooks defeated
-- +1d6 damage to non-mook enemy
+- Max Damage +1d6 damage to non-mook enemy
 ## Splitting Actions
 Splitting an action applies a -2 penalty to both actions.
 - At least one of the split actions must require a roll.
