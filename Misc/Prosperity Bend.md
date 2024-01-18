@@ -46,4 +46,4 @@ A Town for *Dogs in the Vineyard*
 - Brother Phineas is a third smallholder whose cattle were taken. The other attacks have taken cattle from Brothers August and Tobias
 - Brother August is a war veteran and a crack shot
 - Brother Tobias has a son named Brother Abijah
-- Brothers Cyrus & Ebenezer also have farms near 
+- Brothers Cyrus & Ebenezer also have farms near the 
