@@ -3,3 +3,5 @@
 - Unbeknownst to her, Marcus was put to work on the project and was eventually named **Admiral of the Barbury Reaches** with a single ship under his command, the [[Indomitable|INS Indomitable]].
 - Since re-entering Jerica's life, he has expressed his desire to replace [[Lord Admiral Mason|Mason]] as Lord Admiral of the Pantelleria
 - Discovering the [[Ancient Beast]] beneath [[Barbury Island]] has caused Marcus to turn even deeper to drink.  He's nearly been fired several times, and it's only a matter of time before [[Admiral Lynwood|Lynwood]] succeed in outering him.
+- Marcus has begun to climb out from under the drink thanks to his belief that [[Jerica]] loves him and is choosing him over [[Westley Gibson]]
+- He chose to protect slaves instead of his duty to the Navy when [[20240123|Jerica told him that the Navy had resumed kidnapping people]].  If this gets out he will lose his position and become a criminal.
