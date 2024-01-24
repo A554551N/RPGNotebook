@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"3d8769fe562205d0","x":-160,"y":80,"width":285,"height":69,"type":"text","text":"# A Great Treasure"},
+		{"id":"fef7c08c17b161a3","x":-160,"y":920,"width":259,"height":63,"type":"text","text":"# Secluded Cove"},
+		{"id":"c3996f9cfeea3d8b","x":-676,"y":520,"width":330,"height":52,"type":"text","text":"# Scaling the Cliff Face"},
+		{"id":"180b0011c6a5ce20","x":-644,"y":600,"width":298,"height":58,"type":"text","text":"# Poison Dart Traps"},
+		{"id":"50d272e6ab8708a8","x":-676,"y":400,"width":326,"height":93,"type":"text","text":"# Decipher the Map\nLost in the Jungle?"},
+		{"id":"2c62b890ae7358c7","x":-648,"y":-200,"width":271,"height":76,"type":"text","text":"# A Hidden Cove"},
+		{"id":"cc488bbc1c762e3b","x":-645,"y":680,"width":300,"height":57,"type":"text","text":"# Vault Door Puzzle"},
+		{"id":"3f067a084b6241fa","x":-90,"y":554,"width":215,"height":92,"type":"text","text":"# Remember\nLoops, options"}
+	],
+	"edges":[]
+}

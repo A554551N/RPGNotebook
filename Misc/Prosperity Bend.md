@@ -42,8 +42,8 @@ A Town for *Dogs in the Vineyard*
 - Jasper is killed by Brother Tobias, to ensure that no one knows of his hand in these crimes.  He's hailed as a hero, and when Brother Ham dies of his illness, Tobias takes the Stewardship.
 - Ella is devastated by the death of Jasper and retreats into herself, leaving Constance once more the mother of Ella's boys.
 - Constance, unable to take it anymore and dealing with the loss of her own husband, kills Sister Ella with a frying pan.
-## RUNTIME
+## Runtime - Session 1
 - Brother Phineas is a third smallholder whose cattle were taken. The other attacks have taken cattle from Brothers August and Tobias
 - Brother August is a war veteran and a crack shot
 - Brother Tobias has a son named Brother Abijah
-- Brothers Cyrus & Ebenezer also have farms near the sites of the ambush.
+- Brothers Cyrus & Ebenezer also have farms near the sites of the 
