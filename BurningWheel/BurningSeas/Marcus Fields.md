@@ -1,4 +1,5 @@
 - Marcus was [[Jerica]]'s friend from the streets.  They were kidnapped together by [[Lord Admiral Mason]] while he was in charge of [[Graham House]] to be shipped off to [[Barbury Island]] as part of Project [[Indomitable]].  They escaped his grasp together and joined the Navy.
 - During a layover on [[Barbury Island]], he snuck into a restricted area following crates that were marked for [[Graham House]].  He was caught, and [[Jerica]] was informed that he had been summarily executed.
-- Unbeknownst to her, Marcus was put to work on the project and was eventually named [[Admiral of the Barbury Reaches]] with a single ship under his command, the [[Indomitable|INS Indomitable]].
+- Unbeknownst to her, Marcus was put to work on the project and was eventually named **Admiral of the Barbury Reaches** with a single ship under his command, the [[Indomitable|INS Indomitable]].
 - Since re-entering Jerica's life, he has expressed his desire to replace [[Lord Admiral Mason|Mason]] as Lord Admiral of the Pantelleria
+- Discovering the [[Ancient Beast]] beneath [[Barbury Island]] has caused Marcus to turn even deeper to drink.  He's nearly been fired several times, and it's only a matter of time before [[Admiral Lynwood|Lynwood]] succeed in outering him.
