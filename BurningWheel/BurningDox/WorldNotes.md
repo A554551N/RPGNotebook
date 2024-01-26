@@ -29,6 +29,7 @@
 
 ## World Facts
 - Structures from the ancient past dot the land and sea.  Why are they not right side up?
+- [[Megalostholos]] is an ancient isle near the supposed center of the world where the peoples of the isles would go to partake of the International Games.
 
 ## Terms
 ### Diaskedazo

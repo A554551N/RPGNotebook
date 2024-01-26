@@ -1,0 +1,5 @@
+- A Dog retired here and settled down with a husband
+- kills him because he was unfaithful to her (with her gun, full on Dogsecution)
+- The town is torn over whether or not the Dog had the right to do it (questions of proper stewardship and gender roles)
+- Enough of the town supports the Dog that they've established a False Priesthood, the Dog continues to act on their own, increasing in violence in response to ever pettier crimes.
+- **WHAT DO!?**
